@@ -1,6 +1,6 @@
-# Magnum Opus
+# Diabolist VR
 
-- [Magnum Opus](#magnum-opus)
+- [Diabolist VR](#Diabolist VR)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
