@@ -1,8 +1,9 @@
 # Diabolist VR
 
-- [-DVR Intro + SkyrimVR Install-](#-DVR Intro + SkyrimVR Install-)
+- [DVR Intro](#dvr-intro)
+   - [SkyrimVR Install](#Skyrim Installation) 
 
-- [Installation](#installation)
+- [Installation] (#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
     - [Steam Config](#steam-config)
@@ -32,19 +33,19 @@
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
-# -DVR Intro + SkyrimVR Install-
+# DVR Intro
+Diabolist VR pays homage to the hack-n-slash loot hoarding ARPG 
+of the late 90s, by adding 6 Diablo inspired mods, hundreds of unique monsters with increased population, 2 massive underground dungeons, along with 65 additional forgotten dungeons.
 
-### Magnum Opus
+DVR has a 5 tier loot system inspired by Diablo 4,
+with 10 different item variations on the last four tiers.
+Common, Magical, Rare, Legendary, Mythic.
 
-Magnum Opus is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no specific goal I'm trying to achieve. I just want to have fun.
+Enemies will be stronger to start, especially when you adjust the difficulty mod settings accordingly, they also adjust in the opposite direction with a few optional cheat mods added for casual fun.
 
-This means if I like a mod, it's going in. There is no such thing as "it doesn't fit my aesthetic" or "it goes against the theme of the list." The theme is fun.
+VR controller functionality, physics, visuals, performance & LOD are all enhanced & improved through various tools, mods & .ini settings.
 
-To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
-
-This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you want Survival, you should play [Fallout 4 Enhanced Edition](https://www.wabbajack.org/#/modlists/info?machineURL=fallout_4_enhanced_edition).
-
-Is Magnum Opus for you? I don't know, but [this video by DroppedIceCream might help you decide](https://youtu.be/Q2s84pTpkwE).
+## SkyrimVR Install
 
 ## Installation
 
