@@ -1,6 +1,6 @@
 # Diabolist VR
 
-- [Diabolist VR](#Diabolist VR)
+- [Diabolist VR] (#Diabolist VR)
 - [Preamble](#preamble)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
