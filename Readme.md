@@ -1,7 +1,7 @@
 # Diabolist VR
 
-- [Diabolist VR] (#Diabolist VR)
-- [Preamble](#preamble)
+- [Diabolist VR](#Diabolist VR)
+- [-DVR Intro + SkyrimVR Install-](#-DVR Intro + SkyrimVR Install-)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
