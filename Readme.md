@@ -8,10 +8,11 @@
 
 - [4] [Gameplay Preperation.](#gameplay-preperation)
 
-    - [4a] [SkyrimVR Install.](#skyrimvr-install)
+    - [4a] [SkyrimVR Install:](#skyrimvr-install)
 
-    - [4b] [Wabbajack Install.](#wabbajack-install)
-
+    - [4b] [Wabbajack Install:](#wabbajack-install)
+    
+    - [4c] [SkyrimVR ini Tweaker:](#skyrimvr-ini-tweaker)
 
 
 
@@ -46,11 +47,12 @@ This also **applies 10 different enchant variations on all tiers**, **EXCEPT** c
 
 - This mod list is a loot hoarders dream ...and with that in mind, every new character you create starts with a ring that has 10,000 carry weight.
 
+- The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge.
+
 - VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods & .ini settings.
 
 - **Focusing heavily on mod list optimization**, DVR uses low DynDOLOD settings along with Occlusion, with a surprisingly decent visual outcome, most players *should* have good performance with multiple HMDs on higher-end modern PCs.**
 
-- The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge. (this includes the new SkyUI)
 
 **Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding,** I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.
 #
@@ -89,13 +91,14 @@ I have provided screenshots of the recommended SkyrimVR settings, along with hig
 
 Refer to these screenshots below once you first load the game, **(and after Diabolist VR is installed)**... as I will Not be explaining these settings in detail aside from the screenshot **‘NOTES’** i have added, most of this is self-explanatory and also based on your preference and PC performance.
 #
-![VR Performance](https://user-images.githubusercontent.com/78007822/139617500-49f12f18-8311-426e-a045-c1b5ae8cf814.png)
+
+![VR Performance](https://user-images.githubusercontent.com/78007822/139745143-a3161f8d-8d2e-47ee-9644-e4aec59ac37a.png)
 -
-![VR Performance 2](https://user-images.githubusercontent.com/78007822/139617544-c8bfd44b-a2bf-411a-a283-05d8dc02ac70.png)
-![VR Performance 3](https://user-images.githubusercontent.com/78007822/139618123-a1acb305-3ff7-4e7d-8f9b-c0968dd25e31.png)
+![VR Performance 2](https://user-images.githubusercontent.com/78007822/139745160-74e1f1c6-192e-4812-becd-06e4bccbaa50.png)
+![VR Performance 3](https://user-images.githubusercontent.com/78007822/139745169-a60d5e27-e4b4-4b04-b948-1c88354fcccd.png)
 -
-![VR General Settings](https://user-images.githubusercontent.com/78007822/139700937-e01a3313-06cd-4111-8d8b-e30e5bb21495.png)
-![VR General Settings 2](https://user-images.githubusercontent.com/78007822/139618717-47785cc5-81c8-43ac-9f0e-82e693936673.png)
+![VR General Settings Smaller](https://user-images.githubusercontent.com/78007822/139744742-34f38930-4fa2-4326-a0e2-4a6f051a9bc0.png)
+![VR General Settings 2 Smaller](https://user-images.githubusercontent.com/78007822/139744851-985379d3-d4f7-469b-8e1c-30ededa387ae.png)
 #
 ## Wabbajack Install:
 
@@ -111,15 +114,15 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 
 - Open the Wabbajack file you downloaded to begin the install process, on the bottom right, select the DVR folder you created & the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
-- Click the big blue arrow, sit back & relax while it installs, if you’re curious you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
+- Click the big blue arrow, sit back & relax while it installs, if you’re curious you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 600 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
 
 - After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder.
 
-## ⚙️SkyrimVR ini Tweaker⚙️
+## SkyrimVR ini Tweaker:
 
 There are a few .ini settings you should be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
-➡️**Windows 11 users CAN ONLY USE Mo2, 2.4.2 or LATER**⬅️
+➡️##**Windows 11 users CAN ONLY USE Mo2, 2.4.2 or LATER**⬅️
 
 **Look inside the DVR folder & open ModOrganizer.exe (2.4.2) 
 Once it’s open, click on this icon.** 👉 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)
