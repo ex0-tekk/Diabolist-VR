@@ -1,14 +1,14 @@
-# Diabolist VR
+# DIABOLIST VR SETUP GUIDE
 
-- [1 DVR Introduction](#1-dvr-introduction)
+- 1: [DVR Introduction](dvr-introduction)
 
-- [2 Dev Details and Test Specs](#2-dev-details-and-test-specs)
+- 2: [Development Details and Test Specs](development-details-and-test-specs)
 
-- [3 DVR Installation Guide](#3-dvr-installation-guide)
+- 3: [DVR Installation Guide](dvr-installation-guide)
 
-  - [3-A Pre Installation of SkyrimVR](#3-a-pre-installation-of-skyrimvr)
+  - 3-A: [SkyrimVR Pre Installation](skyrimvr-pre-installation)
 
-  - [3-B DVR and Wabbajack Install](#3-b-dvr-and-wabbajack-install)
+  - 3-B: [Wabbajack Install](wabbajack-install)
 
 
 - [Installation] (#installation)
@@ -42,7 +42,7 @@
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
-# 1 DVR Introduction
+# 1: DVR Introduction
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 
 Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 overhauled with spear throwing mechanics, the Horadric Crafting Cube, Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.
@@ -83,7 +83,7 @@ Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mo
 
 I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.
 
-## 2 Dev Details and Test Specs
+## 2: Development Details and Test Specs
 
 ### DVR is developed and tested with this HMD and PC setup:
 
@@ -102,8 +102,8 @@ DVR should have good performance with multiple HMDs combined with medium to high
 
 Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.
 
-## 3 DVR Installation Guide
-### 3-A Pre Installation of SkyrimVR
+## 3: DVR Installation Guide
+### 3.A: SkyrimVR Pre Installation
 
 It is **CRITICAL** to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also **CRITICAL** to **have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)**  just **ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
@@ -125,9 +125,9 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 ![VR General Settings 2](https://user-images.githubusercontent.com/78007822/139618717-47785cc5-81c8-43ac-9f0e-82e693936673.png)
 -
 
-## DVR and Wabbajack Install
+### 3.B: DVR and Wabbajack Install
 
-### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.
+#### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.
 
 Download and install the latest version of  Wabbajack,
 This first step is mandatory, then download DiabolistVR,
