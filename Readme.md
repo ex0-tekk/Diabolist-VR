@@ -103,7 +103,7 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 ## Wabbajack Install:
 
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
-#
+
 - Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). ⬅️️ **This 1st step is mandatory**
 
 - Next, download [DiabolistVR](https://drive.google.com/file/d/1T8xmV9K4_5wMt4AC2rBia09qgBqL8JOu/view?usp=sharing).
@@ -117,6 +117,7 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 - Click the big blue arrow, sit back & relax while it installs, if you’re curious you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 600 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
 
 - After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder.
+#
 
 ## SkyrimVR ini Tweaker:
 
@@ -129,3 +130,15 @@ Once it’s open, click on this icon.** 👉 ![Skyrim ini Tweaker Small](https:/
 ## This configuration window will pop up.⬇️
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 #
+
+Having personalized .ini tweaks will help overall visuals based on SuperSampling settings. 
+**Example:** using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Oculus Rift S, and this resolution is reflected with two .ini settings.
+
+**iHudMenuTextureSize=2172    &    iProjectedMenuTextureSize=2172
+
+These 2 sets of numbers above will always equal the largest number of your headsets resolution & they _should_ be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.
+#
+
+## CPU Threads:
+
+iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), if more help is needed with this, please post in the [DVR Discord](https://discord.gg/HuqU54gPcv)
