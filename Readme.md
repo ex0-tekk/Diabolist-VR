@@ -1,7 +1,15 @@
 # Diabolist VR
 
-- [DVR Intro](#dvr-intro)
-   - [SkyrimVR Install](#Skyrim Installation) 
+- [DVR Introduction](#dvr-introduction)
+
+- [Dev Details and Test Specs](#dev-details-and-test-specs)
+
+- [Installation](#installation)
+
+  - [Pre Installation of SkyrimVR](#pre-installation-of-skyrimvr)
+
+  - [Pre Installation of Wabbajack](#pre-installation-of-wabbajack) 
+
 
 - [Installation] (#installation)
   - [Pre-Installation](#pre-installation)
@@ -10,6 +18,7 @@
       - [Disable the Steam Overlay](#disable-the-steam-overlay)
     - [Change Steams Update Behavior](#change-steams-update-behavior)
     - [Set the Game language to English](#set-the-game-language-to-english)
+
     - [Clean Fallout 4](#clean-fallout-4)
   - [Using Wabbajack](#using-wabbajack)
     - [Preparations](#preparations)
@@ -33,23 +42,80 @@
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
-# DVR Intro
-Diabolist VR pays homage to the hack-n-slash loot hoarding ARPG 
-of the late 90s, by adding 6 Diablo inspired mods, hundreds of unique monsters with increased population, 2 massive underground dungeons, along with 65 additional forgotten dungeons.
+# DVR Introduction
+![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 
-DVR has a 5 tier loot system inspired by Diablo 4,
-with 10 different item variations on the last four tiers.
-Common, Magical, Rare, Legendary, Mythic.
+Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 overhauled with spear throwing mechanics, the Horadric Crafting Cube, Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.
 
-Enemies will be stronger to start, especially when you adjust the difficulty mod settings accordingly, they also adjust in the opposite direction with a few optional cheat mods added for casual fun.
+DVR now has a 5 tier loot system inspired by Diablo 4.
 
-VR controller functionality, physics, visuals, performance & LOD are all enhanced & improved through various tools, mods & .ini settings.
+ - Common 
+ - Magical 
+ - Rare
+ - Legendary 
+ - Mythic
 
-## SkyrimVR Install
+This also applies 10 different enchant variations on all tiers, **except** common.
 
-## Installation
+A loot hoarders dream ...and speaking of hoarding, every new character you create starts with a ring that has 10,000 carry weight.
 
-### Pre-Installation
+I have stripped out ALL nonsense weapon and armor enchantments from the Summermyst mod, this makes for awesome enchantment combinations for all the items they apply too, you will likely need to crank difficulty as you lvl and find Mythic items, you will become quite powerful.
+
+Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.
+
+Simply follow the incoming guide to adjust all MCM settings as needed for an optimal DVR experience, Enemies will be stronger to start but not over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode or go easy-mode and use the few optional cheat mods available for casual steam-rolling fun.
+
+VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods & .ini settings.
+
+I focused heavily on optimizing DVR, and with that comes using low DynDOLOD settings along with Occlusion, with a surprisingly decent visual outcome.
+
+DVR should have good performance with multiple HMDs on higher-end modern PCs.
+
+The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge. ( this includes the new SkyUI )
+
+Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding.
+
+I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.
+
+## Dev Details and Test Specs
+
+**DVR is developed and tested with this HMD and PC setup:**
+
+ - Oculus Rift S.
+ - Win 10 ver. 1909 Fully Updated.
+ - Ryzen 7 3800x AMD Processor.
+ - 32 Gigs of G-Skill 14-34 Low Latency RAM.
+ - Kingston NVMe M.2 1tb SSD.
+ - Nvidia 3090 GPU.
+
+The initial wabbajack setup file is 4.80 gb & the finished install folder size is 94 gb, for a total size of roughly 99 gb, it’s highly recommended that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.
+
+**I focused heavily on optimizing DVR** via performance tools, mod settings, ini settings and using low DynDOLOD @ 512k with Occlusion.
+
+DVR should have good performance with multiple HMDs combined with medium to high-end modern PC specs. 
+
+Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.
+
+# Installation
+## Pre Installation of SkyrimVR
+It is **CRITICAL** to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)...  just ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.
+
+Steam does not easily allow for new install folders, simply follow 
+[This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
+
+## Pre Installation of Wabbajack
+
+It is **CRITICAL** to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)...  just ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.
+
+Steam does not easily allow for new install folders, simply follow 
+[This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
+
+
+
+
+##
+
+
 
 You need a legal copy of Fallout 4 through Steam, with all DLCs **EXCEPT** the High Definition DLC. This is garbage and should not be used in any case ever.
 
