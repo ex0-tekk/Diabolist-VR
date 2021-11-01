@@ -1,6 +1,6 @@
 # DIABOLIST VR SETUP GUIDE
 
-- [1.] [DVR Introduction](#dvr-introduction)
+- [1.] [DVR Introduction]([#1.]-dvr-introduction)
 
 - [2.] [Development Details and Test Specs](#development-details-and-test-specs)
 
@@ -42,7 +42,7 @@
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
-# DVR Introduction
+# 1. DVR Introduction
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 
 Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 overhauled with spear throwing mechanics, the Horadric Crafting Cube, Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.
@@ -83,7 +83,7 @@ Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mo
 
 I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.
 
-## Development Details and Test Specs
+## 2. Development Details and Test Specs
 
 ### DVR is developed and tested with this HMD and PC setup:
 
