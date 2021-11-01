@@ -4,11 +4,11 @@
 
 - [Dev Details and Test Specs](#dev-details-and-test-specs)
 
-- [Installation](#installation)
+- [DVR Installation Guide](#dvr-installation-guide)
 
   - [Pre Installation of SkyrimVR](#pre-installation-of-skyrimvr)
 
-  - [Pre Installation of Wabbajack](#pre-installation-of-wabbajack) 
+  - [DVR and Wabbajack Install](#dvr-and-wabbajack-install)
 
 
 - [Installation] (#installation)
@@ -47,7 +47,9 @@
 
 Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 overhauled with spear throwing mechanics, the Horadric Crafting Cube, Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.
 
-DVR now has a 5 tier loot system inspired by Diablo 4.
+The loot system is **very generous**, like the Diablo series always has been, so you will be sharing loot with followers, tossing away or selling some, but don't expect all Skyrim merchants to have loads of septim for **ALL** of your scored loot, much will be discarded or left behind in dungeons or at your player home, as DVR only hosts merchants with 10x the default amount of septims as vanilla Skyrim gives, that being said, regardless, making income in DVR will **NOT** be an issue due to the treasure chests, bosses and dragons also providing plenty of septims.
+
+This mod list a 5 tier loot system inspired by Diablo 4.
 
  - Common 
  - Magical 
@@ -55,23 +57,27 @@ DVR now has a 5 tier loot system inspired by Diablo 4.
  - Legendary 
  - Mythic
 
-This also applies 10 different enchant variations on all tiers, **except** common.
+This loot system also **applies 10 different enchant variations on all tiers**, **EXCEPT** common.
 
-A loot hoarders dream ...and speaking of hoarding, every new character you create starts with a ring that has 10,000 carry weight.
+There is random Loot Boxes at several merchants across Skyrim, they are easy to find and they *can be* addictive.
+
+Additionally, you can transmute lower quality items into a higher quality ones, or convert items of one type to another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) <- **please read the authors nexus page linked here to see more details on how to do this.**
+
+This mod list is a loot hoarders dream ...and speaking of hoarding, every new character you create starts with a ring that has 10,000 carry weight.
 
 I have stripped out ALL nonsense weapon and armor enchantments from the Summermyst mod, this makes for awesome enchantment combinations for all the items they apply too, you will likely need to crank difficulty as you lvl and find Mythic items, you will become quite powerful.
 
-Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.
+**Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
-Simply follow the incoming guide to adjust all MCM settings as needed for an optimal DVR experience, Enemies will be stronger to start but not over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode or go easy-mode and use the few optional cheat mods available for casual steam-rolling fun.
+Enemies will be stronger to start but not over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode or go for easy-mode and use the few optional cheat mods available for casual steam-rolling fun.
 
 VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods & .ini settings.
 
-I focused heavily on optimizing DVR, and with that comes using low DynDOLOD settings along with Occlusion, with a surprisingly decent visual outcome.
+**I focused heavily on optimizing DVR**, and with that comes using low DynDOLOD settings along with Occlusion, with a surprisingly decent visual outcome.
 
-DVR should have good performance with multiple HMDs on higher-end modern PCs.
+**DVR *should* have good performance with multiple HMDs on higher-end modern PCs.**
 
-The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge. ( this includes the new SkyUI )
+The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge. (this includes the new SkyUI)
 
 Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding.
 
@@ -79,7 +85,7 @@ I tried my best to create a nostalgic Diablo vibe while adventuring through the 
 
 ## Dev Details and Test Specs
 
-**DVR is developed and tested with this HMD and PC setup:**
+### DVR is developed and tested with this HMD and PC setup:
 
  - Oculus Rift S.
  - Win 10 ver. 1909 Fully Updated.
@@ -96,24 +102,45 @@ DVR should have good performance with multiple HMDs combined with medium to high
 
 Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.
 
-# Installation
-## Pre Installation of SkyrimVR
-It is **CRITICAL** to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)...  just ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.
+## DVR Installation Guide
+### Pre Installation of SkyrimVR
+
+It is **CRITICAL** to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also **CRITICAL** to **have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)**  just **ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
 Steam does not easily allow for new install folders, simply follow 
 [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
 
-## Pre Installation of Wabbajack
+First, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, and also to adjust the game's vanilla settings.
 
-It is **CRITICAL** to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)...  just ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.
+I have provided screenshots of the recommended SkyrimVR settings, along with highly recommended mod settings for DVR, however, all mod options in MCM are relatively safe to experiment with.
 
-Steam does not easily allow for new install folders, simply follow 
-[This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
+Refer to these screenshots below once you first load the game, **(and after Diabolist VR is installed)**... as I will Not be explaining these settings in detail aside from the screenshot **‘NOTES’** i have added, most of this is self-explanatory and also based on your preference and PC performance.
+
+![VR Performance](https://user-images.githubusercontent.com/78007822/139617500-49f12f18-8311-426e-a045-c1b5ae8cf814.png)
+-
+![VR Performance 2](https://user-images.githubusercontent.com/78007822/139617544-c8bfd44b-a2bf-411a-a283-05d8dc02ac70.png)
+![VR Performance 3](https://user-images.githubusercontent.com/78007822/139618123-a1acb305-3ff7-4e7d-8f9b-c0968dd25e31.png)
+-
+![VR Performance](https://user-images.githubusercontent.com/78007822/139618169-2be4c1db-0a53-4efa-865a-ecd0140ddc9c.png)
+![VR General Settings 2](https://user-images.githubusercontent.com/78007822/139618717-47785cc5-81c8-43ac-9f0e-82e693936673.png)
+-
+
+## DVR and Wabbajack Install
+
+### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.
+
+Download and install the latest version of  Wabbajack,
+This first step is mandatory, then download DiabolistVR,
+Make a folder on any SSD drive with space and label it DVR.
+
+**REMINDER: DO NOT Install Anything Into Your C:/Program Files or C:/Program Files (x86) Folders, due to admin restrictions.**
+
+Open the Wabbajack file you downloaded to begin the install process, on the bottom right, select the DVR folder you created & the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
+
+Click the big blue arrow, sit back & relax while it installs, if you’re curious you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
+After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder.
 
 
-
-
-##
 
 
 
