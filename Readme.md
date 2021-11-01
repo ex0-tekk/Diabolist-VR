@@ -12,8 +12,8 @@
 
     - [4b] [Wabbajack Install.](#wabbajack-install)
 
-
-# INTRODUCTION.
+#
+## INTRODUCTION.
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 #
 Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 overhauled with spear throwing mechanics, the Horadric Crafting Cube, Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.
@@ -112,6 +112,14 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 
 - After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder.
 
-## ⚙️SKYRIMVR INI TWEAKER⚙️
+## ⚙️SkyrimVR ini Tweaker⚙️
 
+There are a few .ini settings you should be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
+➡️**Windows 11 users CAN ONLY USE Mo2, 2.4.2 or LATER**⬅️
+
+**Look inside the DVR folder & open ModOrganizer.exe (2.4.2) 
+Once it’s open, click on this icon.** 👉 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)
+## This configuration window will pop up.⬇️
+![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
+#
