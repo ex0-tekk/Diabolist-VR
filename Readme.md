@@ -6,7 +6,7 @@
 
 - [3] [Dev Details and Test Specs.](#dev-details-and-test-specs)
 
-- [4] [Gameplay Preperation.](preperation)
+- [4] [Gameplay Preperation.](gameoplay-preperation)
 
     - [4a] [SkyrimVR Install.](#skyrimvr-install)
 
