@@ -29,7 +29,6 @@ The loot system is **very generous**, like the Diablo series always has been, so
 
 This also **applies 10 different enchant variations on all tiers**, **EXCEPT** common.
 #
-
 ## CORE MOD LIST FEATURES.
 
 - Enemies will be stronger to start but not over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode or easy-mode, plus a few optional cheat mods are available for casual steam-rolling fun.
