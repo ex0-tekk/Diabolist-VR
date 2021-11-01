@@ -1,14 +1,14 @@
 # DIABOLIST VR SETUP GUIDE
 
-- [1] [DVR Introduction](dvr-introduction)
+- [DVR Introduction](dvr-introduction)
 
-- [2] [Development Details and Test Specs](development-details-and-test-specs)
+- [Development Details and Test Specs](development-details-and-test-specs)
 
-- [3] [DVR Installation Guide](dvr-installation-guide)
+- [DVR Installation Guide](dvr-installation-guide)
 
-  - [3-A] [SkyrimVR Pre Installation](skyrimvr-pre-installation)
+  - [SkyrimVR Pre Installation](skyrimvr-pre-installation)
 
-  - [3-B] [Wabbajack Install](wabbajack-install)
+  - [Wabbajack Install](wabbajack-install)
 
 
 - [Installation] (#installation)
