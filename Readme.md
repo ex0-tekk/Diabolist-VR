@@ -1,12 +1,12 @@
 # DIABOLIST VR SETUP GUIDE
 
-- [1.] [DVR Introduction](#dvr-introduction)
+- [1.] [Introduction](#introduction)
 
-- [2.] [DVR Features](#dvr-features)
+- [2.] [Features](#features)
 
-- [3.] [Development Details and Test Specs](#development-details-and-test-specs)
+- [3.] [Dev Details and Test Specs](#dev-details-and-test-specs)
 
-- [4.] [DVR Installation Guide](#dvr-installation-guide)
+- [4.] [Installation Guide](#installation-guide)
 
   - [4.a] [SkyrimVR Pre Installation](#skyrimvr-pre-installation)
 
@@ -44,7 +44,7 @@
 - [Credits and Thanks](#credits-and-thanks)
 - [Contact](#contact)
 
-# DVR Introduction
+# Introduction
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 #
 Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 overhauled with spear throwing mechanics, the Horadric Crafting Cube, Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.
@@ -61,11 +61,11 @@ The loot system is **very generous**, like the Diablo series always has been, so
 This also **applies 10 different enchant variations on all tiers**, **EXCEPT** common.
 #
 
-## DVR Features
+## Features
 
 - Random Loot Boxes at several merchants across Skyrim, they are easy to find and they *can be* addictive.
 
-- Transmuting lower quality items into a higher quality ones, or convert items of one type to another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) <- **please read the authors nexus page linked here to see more details on how to do this.**
+- Transmuting lower quality items into a higher quality ones, or convert items of one type to another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) ⬅️**please read the authors nexus page linked here to see more details on how to do this.**
 
 - This mod list is a loot hoarders dream ...and with that in mind, every new character you create starts with a ring that has 10,000 carry weight.
 
@@ -73,17 +73,17 @@ This also **applies 10 different enchant variations on all tiers**, **EXCEPT** c
 
 - Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.
 
-- Enemies will be stronger to start but not over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode or go for easy-mode and use the few optional cheat mods available for casual steam-rolling fun.
+- Enemies will be stronger to start but not over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode or easy-mode, plus a few optional cheat mods are available for casual steam-rolling fun.
 
 - VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods & .ini settings.
 
-- **Focusing heavily on mod list optimization**, I used low DynDOLOD settings along with Occlusion, with a surprisingly decent visual outcome, DVR *should* have good performance with multiple HMDs on higher-end modern PCs.**
+- **Focusing heavily on mod list optimization**, DVR uses low DynDOLOD settings along with Occlusion, with a surprisingly decent visual outcome, most players *should* have good performance with multiple HMDs on higher-end modern PCs.**
 
 - The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge. (this includes the new SkyUI)
 
 **Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding,** _I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim._
 #
-## Development Details and Test Specs
+## Dev Details and Test Specs
 
 ### DVR is developed and tested with this HMD and PC setup:
 
@@ -102,7 +102,7 @@ DVR should have good performance with multiple HMDs combined with medium to high
 
 Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.
 
-## DVR Installation Guide
+## INSTALLATION GUIDE
 
 ### SkyrimVR Pre Installation:
 
@@ -127,11 +127,13 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 #
 ## Wabbajack Install
 
-### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.
+### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
+#
+Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases).
 
-Download and install the latest version of Wabbajack,
-This first step is mandatory, then download DiabolistVR,
-Make a folder on any SSD drive with space and label it DVR.
+**THIS 1ST STEP IS MANDATORY**, then download [DiabolistVR](https://drive.google.com/file/d/1T8xmV9K4_5wMt4AC2rBia09qgBqL8JOu/view?usp=sharing).
+
+Make a folder on any SSD drive with space and **label it DVR.**
 
 **IMPORTANT REMINDER: -DO NOT- Install Anything Into Your C:/Program Files or C:/Program Files (x86) Folders, due to admin restrictions.**
 
@@ -140,6 +142,7 @@ Open the Wabbajack file you downloaded to begin the install process, on the bott
 Click the big blue arrow, sit back & relax while it installs, if you’re curious you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
 After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder.
 
+## ⚙️SkyrimVR .ini Tweaker⚙️
 
 
 
