@@ -49,7 +49,7 @@ This also **applies 10 different enchant variations on all tiers**, **EXCEPT** c
 
 - The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge. (this includes the new SkyUI)
 
-**Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding,** _I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim._
+**Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding,** I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.
 #
 ## DEV DETAILS AND TEST SPECS.
 
@@ -62,7 +62,7 @@ This also **applies 10 different enchant variations on all tiers**, **EXCEPT** c
  - Kingston NVMe M.2 1tb SSD.
  - Nvidia 3090 GPU.
 #
-The initial wabbajack setup file is 4.80 gb & the finished install folder size is 94 gb, for a total size of roughly 99 gb, it’s highly recommended that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.
+The initial wabbajack setup file is 4.80 gb & the finished install folder size is 94 gb, for a total size of roughly 99 gb, it’s **Highly Recommended** that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD _should_ be fine.
 
 **I focused heavily on optimizing DVR** during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGEN Occlusion.
 
