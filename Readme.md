@@ -144,9 +144,10 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 -
 **Having personalized .ini tweaks will help overall visuals based on SuperSampling settings.**
-**Example:** **using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Oculus Rift S, and this resolution is reflected with two .ini settings.**
 
-**iHudMenuTextureSize=2172    &    iProjectedMenuTextureSize=2172**
+**Example: using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Oculus Rift S, and this resolution is reflected with two .ini settings.**
+
+**iHudMenuTextureSize=2172 ... & ... iProjectedMenuTextureSize=2172**
 
 **These 2 sets of numbers above will always equal the largest number of your headsets resolution & they *should* be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.**
 #
