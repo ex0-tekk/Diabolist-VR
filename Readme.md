@@ -34,6 +34,7 @@
     
     - [5h] [Immersive Creatures](#immersive-creatures)
       
+    - [5i] [Nemesis PCEA](#nemesis-pcea)
       
 #
 ## INTRODUCTION
@@ -208,4 +209,7 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 #### NOTE: If you want to minimize Non-Adult animal spawns (Wolf Pups 🐺) drop the additional animal spawn chance to 1%, in the Additional Spawns options.
 ![Immersive Creatures No Wolf Pups](https://user-images.githubusercontent.com/78007822/139816694-d626fe76-e6fc-4afe-a077-e1e9121f45bf.png)
 -
-
+## Nemesis PCEA
+#### NOTE: HIGHLY RECOMMENDED animations for the Player and NPC.
+![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
+-
