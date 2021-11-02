@@ -1,33 +1,19 @@
 # DIABOLIST VR INSTALL GUIDE
 
 - [1] [Introduction.](#introduction)
-
-- [2] [Mod List Features.](#mod-list-features)
-
-- [3] [Dev Details and Test Specs.](#dev-details-and-test-specs)
-
+- [2] [Recommended Specs for DVR.](#recommended-specs-for-dvr)
+- [3] [Mod List Features.](#mod-list-features)
 - [4] [Gameplay Prep.](#gameplay-prep)
-
     - [4a] [SkyrimVR Install:](#skyrimvr-install)
-
     - [4b] [Wabbajack and DVR Install:](#wabbajack-and-dvr-install)
-    
     - [4c] [SkyrimVR ini Tweaker:](#skyrimvr-ini-tweaker)
-    
     - [4d] [CPU Threads:](#cpu-threads)
-    
 - [5] [Recommended MCM Settings.](#recommended-mcm-settings)
-     
     - [5a] [Be Seated:](#be-seated)
-    
     - [5b] [Claralux Lighting:](#claralux-lighting)
-    
     - [5c] [DynDOLOD:](#dyndolod)
-   
     - [5d] [Fine-Tuned Challange:](#fine-tuned-challange)
-    
     - [5e] [Mihail Monster and SiC Difficulty:](#mihail-monster-and-sic-difficulty)
-   
     - [5f] [Nethers Follower Framework](#nethers-follower-framework)
 
 #
@@ -35,20 +21,37 @@
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 -
 Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 overhauled with spear throwing mechanics, the Horadric Crafting Cube, Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.
+#
 
-The loot system in DVR is **very generous**, just like the Diablo series is known for, so you will likely be tossing away or selling much, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell **ANY** gear you give them regardless of the funds available on merchants, using this feature is **Highly Recommended** as you continue gathering loot, because when you goto the stores to sell manually, merchants will only have 10x the default amount of septims as vanilla Skyrim, but this won't be nearly enough for what you will find and want to sell. **All that being said**... making income in DVR will **NOT** be an issue regardless of selling gear, due to the treasure chests, bosses and dragons also providing plenty of septims.
+## RECOMMENDED SPECS FOR DVR.
 
-**DVR uses a 5 tier loot system inspired by Diablo 4.**
- - Common 
- - Magical 
- - Rare
- - Legendary 
- - Mythic
+### Developed and tested with this HMD and PC setup:
 
-This also **applies 10 different enchant variations on all tiers**, **EXCEPT** common.
+ - Oculus Rift S.
+ - Win 10 ver. 1909 Fully Updated.
+ - Ryzen 7 3800x AMD Processor.
+ - 32 Gigs of G-Skill 14-34 Low Latency RAM.
+ - Kingston NVMe M.2 1tb SSD.
+ - Nvidia 3090 GPU.
+#
+The initial wabbajack setup file is 4.80 gb & the finished install folder size is 94 gb, for a total size of roughly 99 gb, it’s **HIGHLY RECOMMENDED** that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD _should_ be fine.
+
+**I focused heavily on optimizing DVR** during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMDs on higher-end modern PCs. 
+
+Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.
 #
 
 ## MOD LIST FEATURES.
+
+### DVR uses a 5 tier loot system inspired by Diablo 4.
+#### NOTE: This loot system also applies **10 different enchant variations on all tiers**, **EXCEPT** common.
+ - Common.
+ - Magical.
+ - Rare.
+ - Legendary.
+ - Mythic.
+#
+ - The loot system in DVR is **VERY GENEROUS**, just like the Diablo series is known for, so you will likely be tossing away or selling much, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell **ANY** gear you give them regardless of the funds available on merchants, using this feature is **HIGHLY RECOMMENDED** as you continue gathering loot, because when you goto the stores to sell manually, merchants will only have 10x the default amount of septims as vanilla Skyrim, but this won't be nearly enough for what you will find and want to sell, **all that being said**... making income in DVR will **NOT** be an issue regardless of selling gear, due to the treasure chests, bosses and dragons also providing plenty of septims.
 
 - Enemies will be stronger to start but not over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode, easy-mode and everything in between, with a few _optional_ cheat mods available for casual steam-rolling fun.
 
@@ -66,25 +69,7 @@ This also **applies 10 different enchant variations on all tiers**, **EXCEPT** c
 
 - VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods & .ini settings.
 
-**Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding,** I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.
-#
-
-## DEV DETAILS AND TEST SPECS.
-
-### Developed and tested with this HMD and PC setup:
-
- - Oculus Rift S.
- - Win 10 ver. 1909 Fully Updated.
- - Ryzen 7 3800x AMD Processor.
- - 32 Gigs of G-Skill 14-34 Low Latency RAM.
- - Kingston NVMe M.2 1tb SSD.
- - Nvidia 3090 GPU.
-#
-The initial wabbajack setup file is 4.80 gb & the finished install folder size is 94 gb, for a total size of roughly 99 gb, it’s **Highly Recommended** that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD _should_ be fine.
-
-**I focused heavily on optimizing DVR** during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMDs on higher-end modern PCs. 
-
-Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.
+**Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding, I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
 #
 
 ## GAMEPLAY PREP.
