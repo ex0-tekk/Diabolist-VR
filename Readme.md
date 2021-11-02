@@ -180,8 +180,6 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 ### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures, these settings can be accessed within the Immersive Creatures MCM options.
 #
 ## Nethers Follower Framework
-#### NOTE: Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod if needed, as NFF has a slew of options to get acquainted with.
+#### NOTE: Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with. Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels.
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 -
-#### NOTE: Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels.
-#
