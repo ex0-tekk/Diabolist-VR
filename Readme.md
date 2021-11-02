@@ -41,6 +41,8 @@
     - [5k] [Sounds of Skyrim - Civilization and Wilds](#sounds-of-skyrim---civilization-and-wilds)  
     
     - [5l] [Storm Lightning](#storm-lightning)
+
+    - [5j] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -224,4 +226,8 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 ## Storm Lightning
 #### NOTE: Use Realistic or Ultra Realistic for best VR results.
 ![Storm Lightning Settings](https://user-images.githubusercontent.com/78007822/139826224-4534dba6-0899-43b7-984a-a42c791d9d43.png)
+-
+## Strike Obstruction Timed Block
+#### NOTE: It is HIGHLY RECOMMENDED to DISABLE player parry mechanics, these animations are not triggered in VR.
+![Strike Obstruction Timed Block Settings](https://user-images.githubusercontent.com/78007822/139826990-c155d19e-b1ca-42a6-92b1-4f5c3e749f7d.png)
 -
