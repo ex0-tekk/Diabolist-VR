@@ -157,7 +157,7 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 
 # RECOMMENDED MCM SETTINGS:
 
-### Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is Highly Recommended to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
+### Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is HIGHLY RECOMMENDED to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
 #
 ## Be Seated:
 ![Be Seated](https://user-images.githubusercontent.com/78007822/139783752-e59b4400-2e79-4a7b-bd4c-f95f4552de28.png)
