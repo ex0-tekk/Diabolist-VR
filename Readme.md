@@ -42,12 +42,12 @@ Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s,
 
 ### Developed and tested with this HMD and PC setup:
 
- - Oculus Rift S.
- - Win 10 ver. 1909 Fully Updated.
- - Ryzen 7 3800x AMD Processor.
- - 32 Gigs of G-Skill 14-34 Low Latency RAM.
- - Kingston NVMe M.2 1tb SSD.
- - Nvidia 3090 GPU.
+ - Oculus Rift S
+ - Win 10 ver. 1909 Fully Updated
+ - Ryzen 7 3800x AMD Processor
+ - 32 Gigs of G-Skill 14-34 Low Latency RAM
+ - Kingston NVMe M.2 1tb SSD
+ - Nvidia 3090 GPU
 #
 The initial wabbajack setup file is 4.80 gb & the finished install folder size is 94 gb, for a total size of roughly 99 gb, it’s **HIGHLY RECOMMENDED** that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD _should_ be fine.
 
