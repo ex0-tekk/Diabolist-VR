@@ -1,20 +1,35 @@
 # DIABOLIST VR INSTALL GUIDE
 
 - [1] [Introduction.](#introduction)
+
 - [2] [Recommended Specs for DVR.](#recommended-specs-for-dvr)
+
 - [3] [Mod List Features.](#mod-list-features)
+
 - [4] [Gameplay Prep.](#gameplay-prep)
+
     - [4a] [SkyrimVR Install:](#skyrimvr-install)
+    
     - [4b] [Wabbajack and DVR Install:](#wabbajack-and-dvr-install)
+    
     - [4c] [SkyrimVR ini Tweaker:](#skyrimvr-ini-tweaker)
+    
     - [4d] [CPU Threads:](#cpu-threads)
+    
 - [5] [Recommended MCM Settings.](#recommended-mcm-settings)
+
     - [5a] [Be Seated:](#be-seated)
+    
     - [5b] [Claralux Lighting:](#claralux-lighting)
+    
     - [5c] [DynDOLOD:](#dyndolod)
+    
     - [5d] [Fine-Tuned Challange:](#fine-tuned-challange)
+    
     - [5e] [Mihail Monster and SiC Difficulty:](#mihail-monster-and-sic-difficulty)
+    
     - [5f] [Nethers Follower Framework](#nethers-follower-framework)
+    
 
 #
 ## INTRODUCTION.
