@@ -315,3 +315,7 @@ Also replace these files inside your ‘C:\Documents\My Games\Skyrim VR’ folde
 # Thanks for downloading Diabolist VR! 
 #### ...but most importantly...
 # Have fun monster hunting & loot hoarding!
+![Diabolist VR Wolf Right Final 2 0 D-R-R-Small](https://user-images.githubusercontent.com/78007822/139849187-bad8a216-0a47-47d6-a9ab-3611595678cd.jpg)
+-
+### -Latest Guide Update-
+### -11/02/2021-
