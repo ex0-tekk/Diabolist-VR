@@ -28,7 +28,7 @@
     
     - [5e] [Mihail Monster and SiC Difficulty:](#mihail-monster-and-sic-difficulty)
     
-    - [5f] [Nethers Follower Framework](#nethers-follower-framework)
+    - [5f] [Nethers Follower Framework:](#nethers-follower-framework)
     
 
 #
@@ -163,25 +163,25 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 ![Be Seated](https://user-images.githubusercontent.com/78007822/139783752-e59b4400-2e79-4a7b-bd4c-f95f4552de28.png)
 -
 ## Claralux Lighting:
-### NOTE: You MUST use Claralux at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then disable it to continue.⬇️
+#### NOTE: You MUST use Claralux at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then disable it to continue.⬇️
 ![Claralux Settings](https://user-images.githubusercontent.com/78007822/139784108-e8e86f7f-9cf8-41b5-a4a1-f4fb22316a8c.png)
 ![Claralux Settings 2](https://user-images.githubusercontent.com/78007822/139784116-74f26356-f533-4e88-9492-467941ea62bf.png)
 -
 ## DynDOLOD:
-### NOTE: Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
+#### NOTE: Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
 ![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
 -
 ## Fine-Tuned Challange:
-### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used. Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a somewhat difficult challenge for dungeon crawling, as the [Synthesis patch also includes a base difficulty increase](https://github.com/Synthesis-Collective/SynNoMoreEasyEnemies), which these numbers directly affect.
+#### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used. Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a somewhat difficult challenge for dungeon crawling, as the [Synthesis patch also includes a base difficulty increase](https://github.com/Synthesis-Collective/SynNoMoreEasyEnemies), which these numbers directly affect.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 ## Mihail Monster and SiC Difficulty:
-### NOTE: Mihails monsters hit harder, move faster and take more dmg than other monsters, adept is a good start, but adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
+#### NOTE: Mihails monsters hit harder, move faster and take more dmg than other monsters, adept is a good start, but adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
 ### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures, these settings can be accessed within the Immersive Creatures MCM options.
 #
 ## Nethers Follower Framework:
-### NOTE: Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod if needed, as NFF has a slew of options to get acquainted with.
+#### NOTE: Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod if needed, as NFF has a slew of options to get acquainted with.
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 -
-### NOTE: Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels.
+#### NOTE: Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels.
 #
