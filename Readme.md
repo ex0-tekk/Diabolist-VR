@@ -200,4 +200,8 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
 -
 #### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim.
+-
+## Immersive Creatures
+#### NOTE: If you want to minimize Non-Adult animal spawns (Wolf Pups 🐺) drop the additional animal spawn chance to 1%, in the Additional Spawns options.
+![Immersive Creatures No Wolf Pups](https://user-images.githubusercontent.com/78007822/139816694-d626fe76-e6fc-4afe-a077-e1e9121f45bf.png)
 
