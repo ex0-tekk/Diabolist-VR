@@ -272,7 +272,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![True Hunter Settings](https://user-images.githubusercontent.com/78007822/139829124-a1184205-3602-4d99-8026-5531a5eba26c.png)
 -
 ## True Spear Combat
-#### NOTE: This mod is only used for NPC spear throwing, it is HIGHLY RECOMMENED to DISABLE ALL player options, including random scripting, as seen in this screenshot.
+#### NOTE: This mod is ONLY used for NPC spear throwing, it is HIGHLY RECOMMENED to DISABLE ALL player options, including the random scripting, as seen in this screenshot.
 ![True Spear Combat](https://user-images.githubusercontent.com/78007822/139837809-576f44f6-5945-423a-8b81-50eeefcf4946.png)
 -
 ## Unread Books Glow
