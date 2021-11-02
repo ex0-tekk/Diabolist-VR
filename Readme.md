@@ -39,6 +39,8 @@
     - [5j] [R.A.S.S Weather](#rass-weather)
       
     - [5k] [Sounds of Skyrim - Civilization and Wilds](#sounds-of-skyrim---civilization-and-wilds)  
+    
+    - [5l] [Storm Lightning](#storm-lightning)
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -219,4 +221,7 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 ![SoS Civ Settings](https://user-images.githubusercontent.com/78007822/139822593-bc3a4b2a-7dd6-42ea-88ec-209f88bbfc12.png)
 ![SoS Wilds Settings](https://user-images.githubusercontent.com/78007822/139822728-0301c97a-eb06-42ce-b04a-f9ebf54131ad.png)
 -
-## 
+## Storm Lightning
+#### NOTE: Use Realistic or Ultra Realistic for best VR results.
+![Storm Lightning Settings](https://user-images.githubusercontent.com/78007822/139826224-4534dba6-0899-43b7-984a-a42c791d9d43.png)
+-
