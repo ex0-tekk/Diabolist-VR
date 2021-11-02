@@ -26,7 +26,7 @@
    
     - [5d] [Fine-Tuned Challange:](#fine-tuned-challange)
     
-    - [5e] [Monster Difficulty Warning:](#monster-difficulty-warning)
+    - [5e] [Mihail Monster Difficulty Warning:](#mihail-monster-difficulty-warning)
 
 
 #
@@ -174,6 +174,6 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 ### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used. Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a somewhat difficult challenge for dungeon crawling, as the [Synthesis patch also includes a base difficulty increase](https://github.com/Synthesis-Collective/SynNoMoreEasyEnemies), which these numbers directly affect.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
-## Monster Difficulty Warning:
+## Mihail Monster Difficulty Warning:
 ### NOTE: Mihails monsters hit harder, move faster and take more dmg than other monsters, adept is a good start, but adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. Adept difficulty is also Highly Recommended for Skyrim Immersive Creatures, these settings can be accessed within the Immersive Creatures MCM options.
 #
