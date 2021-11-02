@@ -283,7 +283,12 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 #### NOTE: Use this mod to backup all mod menu configs you have set... but first, use the BACKUP MOD SELECTION option and choose the mods you want saved, this is very helpful for loading all of your mod settings for multiple playthroughs.
 ![Ye'Old MCM Menu](https://user-images.githubusercontent.com/78007822/139839346-e83e7665-90b1-462a-bd14-24252eb0c2f5.png)
 -
-### The Sharper Eye
-#### NOTE: With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA. 
-**The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S.**
-**These settings are based on what HMD is used and your personal preferences, performance mode is also an option.**
+# The Sharper Eye
+#### NOTE: With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA.
+![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139841263-e0350044-e253-4f6c-af87-0483e0a613d7.png)
+-
+# nVidia Settings
+#### The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S.
+#### These settings are based on what HMD is used and your personal preferences.
+![SkyrimVR nVidia settings](https://user-images.githubusercontent.com/78007822/139841627-35baa896-32a9-48ba-a864-b1973264ac6f.png)
+-
