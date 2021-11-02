@@ -59,12 +59,12 @@ Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that
 ## MOD LIST FEATURES.
 
 ### DVR uses a 5 tier loot system inspired by Diablo 4.
-#### NOTE: This loot system also applies **10 different enchant variations on all tiers**, **EXCEPT** common.
  - Common.
  - Magical.
  - Rare.
  - Legendary.
  - Mythic.
+#### NOTE: There is also **10 different enchant variations on all tiers**, **EXCEPT** common.
 #
  - The loot system in DVR is **VERY GENEROUS**, just like the Diablo series is known for, so you will likely be tossing away or selling much, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell **ANY** gear you give them regardless of the funds available on merchants, using this feature is **HIGHLY RECOMMENDED** as you continue gathering loot, because when you goto the stores to sell manually, merchants will only have 10x the default amount of septims as vanilla Skyrim, but this won't be nearly enough for what you will find and want to sell, **all that being said**... making income in DVR will **NOT** be an issue regardless of selling gear, due to the treasure chests, bosses and dragons also providing plenty of septims.
 
@@ -72,7 +72,7 @@ Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that
 
 - This mod list is a loot hoarders dream ...and with that in mind, every new character you create starts with a carry weight ring of 10,000.
 
-- All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for awesome enchantment combinations for all the items they apply too, you will likely need to crank difficulty as you level up and find Legendary & Mythic items, you will become quite powerful.
+- All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for awesome enchantment combinations for all the items they apply too, you will likely need to crank difficulty as you level up and find Legendary & Mythic items, before long you will become quite powerful.
 
 - Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, however, there are still plenty of noticable changes, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.
 
@@ -132,7 +132,7 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 
 ## SkyrimVR ini Tweaker:
 
-There are a few .ini settings you should be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
+There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
 ### **NOTE**: **Windows 11 users can ONLY USE Mo2 2.4.2 or later**
 
