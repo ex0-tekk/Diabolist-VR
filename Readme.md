@@ -64,7 +64,7 @@
 
 - **[7] [Nvidia Settings](#nvidia-settings)**
 
-- **[8] [SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs ini)
+- **[8] [SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs-ini)**
 
 - **[9] [DO NOT Sort DVR With LOOT](#do-not-sort-dvr-with-loot)**
 
