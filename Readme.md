@@ -1,4 +1,4 @@
-# DIABOLIST VR INSTALL GUIDE
+# Diabolist VR Install Guide
 
 - **[1] [Introduction](#introduction)**
 
