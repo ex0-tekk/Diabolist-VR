@@ -117,17 +117,14 @@
 ![Settings-of-Virtual-Memory](https://user-images.githubusercontent.com/78007822/139832972-fbc48c82-b1a2-4a2a-a0ea-d2b09e078e5c.png)
 -
 ### SkyrimVR Install
-
-**It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)  ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
-
-**Steam does not easily allow for new install folders, simply follow 
-[This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.**
-
-**First, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, and also to adjust the game's vanilla settings.**
-
-**I have provided screenshots of the recommended SkyrimVR settings, along with highly recommended mod settings for DVR, however, all mod options in MCM are relatively safe to experiment with.**
-
-**Refer to these screenshots below once you first load the game and after Diabolist VR is installed ... as I will Not be explaining these settings in further detail aside from the screenshot ‘NOTES’ i have added, most of this is self-explanatory and also based on your preference and PC performance.**
+ - **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)  ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+ 
+ - **Steam does not easily allow for new install folders, simply follow [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.**
+ 
+ - **First, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, and also to adjust the game's vanilla settings.**
+ 
+ - **I have provided screenshots of the recommended SkyrimVR settings, along with highly recommended mod settings for DVR, however, all mod options in MCM are relatively safe to experiment with.**
+#### Refer to these screenshots below once you first load the game and after Diabolist VR is installed ... as I will Not be explaining these settings in further detail aside from the screenshot ‘NOTES’ i have added, most of this is self-explanatory and also based on your preference and PC performance.
 
 ![VR Performance](https://user-images.githubusercontent.com/78007822/139745143-a3161f8d-8d2e-47ee-9644-e4aec59ac37a.png)
 ![VR Performance 2](https://user-images.githubusercontent.com/78007822/139745160-74e1f1c6-192e-4812-becd-06e4bccbaa50.png)
@@ -149,7 +146,7 @@
 
 - **Open the Wabbajack file you downloaded to begin the install process, on the bottom right, select the DVR folder you created & the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
 
-- **Click the big blue arrow, sit back & relax while it installs, if you’re curious you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 600 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
+- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download the [Diabolist VR 2.0 Definitive Re-Release Wabbajack Manifest File](https://drive.google.com/file/d/11UBZXeBkzwTFvyQqbisx6QJdgtaqMSQr/view?usp=sharing) then simply drag and drop that file into [this websites main page](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 600 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
 
 - **After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder.**
 #
