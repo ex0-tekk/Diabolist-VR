@@ -75,7 +75,7 @@
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 -
-**Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 with spear throwing mechanics, the Horadric Crafting Cube from Diablo II, the Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
+**Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo II with spear throwing mechanics, the Horadric Crafting Cube from Diablo II, the Imperius Solarion Spear and Tyrael Armor from Diablo III, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 #
 
 ## RECOMMENDED SPECS FOR DVR
@@ -223,7 +223,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 ## Mihail Monster and SiC Difficulty
-#### NOTE: Mihails creations hit harder, move faster and take more damage than other monsters, they are based PURELY on Skyrim vanilla stats and mechanics, but they are created somewhat OP, adept is a good start and then simply adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
+#### NOTE: Mihails creations hit harder, move faster and take more damage than other monsters, they are based PURELY on Skyrim vanilla stats and mechanics, but they are created somewhat Over Powered, adept is a good start and then simply adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
 #### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options.
 #
 ## Nethers Follower Framework
