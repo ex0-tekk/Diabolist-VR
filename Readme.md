@@ -94,7 +94,7 @@
 
 - **Enemies will be stronger to start but not too over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode, easy-mode and everything in between, with a few *optional* cheat mods available for casual steam-rolling fun. Look for *QoL Enhancements, Difficulty Options, Cheats & Level Lists* on the left side of your MO2 window, you will find these cheat mods placed throughout this cateagory, right click them and 'visit on nexus' for more info.**
 
-- **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty as you level up, before long you will become quite powerful by coming across Legendary & Mythic items.**
+- **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful by coming across Legendary & Mythic items.**
 
 - **The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge.**
 
