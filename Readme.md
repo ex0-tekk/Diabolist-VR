@@ -1,44 +1,44 @@
 # DIABOLIST VR INSTALL GUIDE
 
-- [1] [Introduction.](#introduction)
+- [1] [Introduction](#introduction)
 
-- [2] [Recommended Specs for DVR.](#recommended-specs-for-dvr)
+- [2] [Recommended Specs for DVR](#recommended-specs-for-dvr)
 
-- [3] [Mod List Features.](#mod-list-features)
+- [3] [Mod List Features](#mod-list-features)
 
-- [4] [Gameplay Prep.](#gameplay-prep)
+- [4] [Gameplay Prep](#gameplay-prep)
 
-    - [4a] [SkyrimVR Install:](#skyrimvr-install)
+    - [4a] [SkyrimVR Install](#skyrimvr-install)
     
-    - [4b] [Wabbajack and DVR Install:](#wabbajack-and-dvr-install)
+    - [4b] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
     
-    - [4c] [SkyrimVR ini Tweaker:](#skyrimvr-ini-tweaker)
+    - [4c] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
     
-    - [4d] [CPU Threads:](#cpu-threads)
+    - [4d] [CPU Threads](#cpu-threads)
     
-- [5] [Recommended MCM Settings.](#recommended-mcm-settings)
+- [5] [Recommended MCM Settings](#recommended-mcm-settings)
 
-    - [5a] [Be Seated:](#be-seated)
+    - [5a] [Be Seated](#be-seated)
     
-    - [5b] [Claralux Lighting:](#claralux-lighting)
+    - [5b] [Claralux Lighting](#claralux-lighting)
     
-    - [5c] [DynDOLOD:](#dyndolod)
+    - [5c] [DynDOLOD](#dyndolod)
     
-    - [5d] [Fine-Tuned Challange:](#fine-tuned-challange)
+    - [5d] [Fine-Tuned Challange](#fine-tuned-challange)
     
-    - [5e] [Mihail Monster and SiC Difficulty:](#mihail-monster-and-sic-difficulty)
+    - [5e] [Mihail Monster and SiC Difficulty](#mihail-monster-and-sic-difficulty)
     
-    - [5f] [Nethers Follower Framework:](#nethers-follower-framework)
+    - [5f] [Nethers Follower Framework](#nethers-follower-framework)
     
 
 #
-## INTRODUCTION.
+## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 -
 Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo 2 overhauled with spear throwing mechanics, the Horadric Crafting Cube, Imperius Solarion Spear and Tyrael Armor from Diablo 3, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.
 #
 
-## RECOMMENDED SPECS FOR DVR.
+## RECOMMENDED SPECS FOR DVR
 
 ### Developed and tested with this HMD and PC setup:
 
@@ -56,7 +56,7 @@ The initial wabbajack setup file is 4.80 gb & the finished install folder size i
 Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.
 #
 
-## MOD LIST FEATURES.
+## MOD LIST FEATURES
 
 ### DVR uses a 5 tier loot system inspired by Diablo 4.
  - Common.
@@ -87,9 +87,9 @@ Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that
 **Diabolist VR aims to be a simple to setup & play, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding, I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
 #
 
-## GAMEPLAY PREP.
+## GAMEPLAY PREP
 
-### SkyrimVR Install:
+### SkyrimVR Install
 
 It is **CRITICAL** to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also **CRITICAL** to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)**  **ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
@@ -111,7 +111,7 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 ![VR General Settings Smaller](https://user-images.githubusercontent.com/78007822/139744742-34f38930-4fa2-4326-a0e2-4a6f051a9bc0.png)
 ![VR General Settings 2 Smaller](https://user-images.githubusercontent.com/78007822/139744851-985379d3-d4f7-469b-8e1c-30ededa387ae.png)
 -
-## Wabbajack and DVR Install:
+## Wabbajack and DVR Install
 
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
 
@@ -130,7 +130,7 @@ Refer to these screenshots below once you first load the game, **(and after Diab
 - After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder.
 #
 
-## SkyrimVR ini Tweaker:
+## SkyrimVR ini Tweaker
 
 There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
@@ -149,37 +149,37 @@ Having personalized .ini tweaks will help overall visuals based on SuperSampling
 These 2 sets of numbers above will always equal the largest number of your headsets resolution & they _should_ be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.
 #
 
-## CPU Threads:
+## CPU Threads
 
 iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), if more help is needed with this, please post in the [DVR Discord](https://discord.gg/HuqU54gPcv)
 ### **You can close the SkyrimVR ini Tweaker now.**
 #
 
-# RECOMMENDED MCM SETTINGS:
+# RECOMMENDED MCM SETTINGS
 
 ### Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is HIGHLY RECOMMENDED to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
 #
-## Be Seated:
+## Be Seated
 ![Be Seated](https://user-images.githubusercontent.com/78007822/139783752-e59b4400-2e79-4a7b-bd4c-f95f4552de28.png)
 -
-## Claralux Lighting:
+## Claralux Lighting
 #### NOTE: You MUST use Claralux at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then disable it to continue.⬇️
 ![Claralux Settings](https://user-images.githubusercontent.com/78007822/139784108-e8e86f7f-9cf8-41b5-a4a1-f4fb22316a8c.png)
 ![Claralux Settings 2](https://user-images.githubusercontent.com/78007822/139784116-74f26356-f533-4e88-9492-467941ea62bf.png)
 -
-## DynDOLOD:
+## DynDOLOD
 #### NOTE: Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
 ![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
 -
-## Fine-Tuned Challange:
+## Fine-Tuned Challange
 #### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used. Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a somewhat difficult challenge for dungeon crawling, as the [Synthesis patch also includes a base difficulty increase](https://github.com/Synthesis-Collective/SynNoMoreEasyEnemies), which these numbers directly affect.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
-## Mihail Monster and SiC Difficulty:
+## Mihail Monster and SiC Difficulty
 #### NOTE: Mihails monsters hit harder, move faster and take more dmg than other monsters, adept is a good start, but adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
 ### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures, these settings can be accessed within the Immersive Creatures MCM options.
 #
-## Nethers Follower Framework:
+## Nethers Follower Framework
 #### NOTE: Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod if needed, as NFF has a slew of options to get acquainted with.
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 -
