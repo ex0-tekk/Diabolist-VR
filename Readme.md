@@ -213,3 +213,7 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 #### NOTE: These animations are HIGHLY RECOMMENDED for the Player and NPC.
 ![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
 -
+## R.A.S.S Weather
+#### NOTE: Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals and overall performance.
+![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
+-
