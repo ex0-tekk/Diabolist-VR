@@ -38,6 +38,7 @@
 
     - [5j] [R.A.S.S Weather](#rass-weather)
       
+    - [5k] [Sounds of Skyrim Civilization and Wilds](#sounds-of-skyrim-civilization-and-wilds)  
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -218,4 +219,10 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 ## R.A.S.S Weather
 #### NOTE: Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals and overall performance.
 ![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
+-
+## Sounds of Skyrim Civilization and Wilds
+#### NOTE: These are the recommended DISABLED sounds for an overall better audio experience.
+![SoS Civ Settings](https://user-images.githubusercontent.com/78007822/139822593-bc3a4b2a-7dd6-42ea-88ec-209f88bbfc12.png)
+-
+![SoS Wilds Settings](https://user-images.githubusercontent.com/78007822/139822728-0301c97a-eb06-42ce-b04a-f9ebf54131ad.png)
 -
