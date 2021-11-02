@@ -144,6 +144,7 @@
 **Look inside the DVR folder & open ModOrganizer.exe (2.4.2)
 Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)**
 ### This configuration window will pop up.⬇️
+#
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 -
 **Having personalized .ini tweaks will help overall visuals based on SuperSampling settings.**
@@ -165,9 +166,10 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 
 #### Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is HIGHLY RECOMMENDED to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
 #
+
 ## Be Seated
 ![Be Seated](https://user-images.githubusercontent.com/78007822/139783752-e59b4400-2e79-4a7b-bd4c-f95f4552de28.png)
--
+
 ## Claralux Lighting
 #### NOTE: You MUST use Claralux settings at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then DIASABLE IT TO CONTINUE.
 #### If you Fail to Disable this AFTER adjusting these options ⬇️ then your character will be frozen and unable to move when you return to your game.
@@ -180,6 +182,7 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 -
 ## Fine-Tuned Challange
 #### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used. Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a somewhat difficult challenge for dungeon crawling, as the [Synthesis patch also includes a base difficulty increase](https://github.com/Synthesis-Collective/SynNoMoreEasyEnemies), which these numbers directly affect.
+
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 ## Mihail Monster and SiC Difficulty
@@ -199,9 +202,10 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 -
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
 -
-#### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim.
+#### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
 #
 ## Immersive Creatures
 #### NOTE: If you want to minimize Non-Adult animal spawns (Wolf Pups 🐺) drop the additional animal spawn chance to 1%, in the Additional Spawns options.
 ![Immersive Creatures No Wolf Pups](https://user-images.githubusercontent.com/78007822/139816694-d626fe76-e6fc-4afe-a077-e1e9121f45bf.png)
+-
 
