@@ -167,7 +167,7 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 ![Claralux Settings 2](https://user-images.githubusercontent.com/78007822/139784116-74f26356-f533-4e88-9492-467941ea62bf.png)
 -
 ## DynDOLOD:
-### NOTE: Enable Large Ref Fix, also, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
+### NOTE: Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
 ![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
 -
 ## Fine-Tuned Challange:
