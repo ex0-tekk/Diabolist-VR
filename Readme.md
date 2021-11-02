@@ -61,7 +61,10 @@
     - [5t] [Ye Old MCM Menu](#ye-old-mcm-menu)
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
- 
+
+- **[7] [ nVidia Settings](#nvidia-settings)**
+
+
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -291,4 +294,8 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 #### The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S.
 #### These settings are based on what HMD is used and your personal preferences.
 ![SkyrimVR nVidia settings](https://user-images.githubusercontent.com/78007822/139841627-35baa896-32a9-48ba-a864-b1973264ac6f.png)
+-
+# DO NOT Sort DVR with LOOT
+#### DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins, However, If you mess up the plugins, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
+![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/139843104-bfc25312-5f4c-4fed-9919-fb064dbef888.png)
 -
