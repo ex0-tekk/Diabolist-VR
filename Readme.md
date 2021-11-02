@@ -290,7 +290,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 -
 # The Sharper Eye
 #### NOTE: With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA.
-![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139841263-e0350044-e253-4f6c-af87-0483e0a613d7.png)
+![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843546-a5f4ce74-1703-4be8-9caf-e688c11ec05f.png)
 -
 # nVidia Settings
 #### The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S.
