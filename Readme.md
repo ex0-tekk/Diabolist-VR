@@ -8,13 +8,15 @@
 
 - **[4] [Gameplay Prep](#gameplay-prep)**
 
-    - [4a] [SkyrimVR Install](#skyrimvr-install)
+    - [4a] [Windows Paging File Size](#windows-paging-file-size)
+
+    - [4b] [SkyrimVR Install](#skyrimvr-install)
     
-    - [4b] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
+    - [4c] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
     
-    - [4c] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
+    - [4d] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
     
-    - [4d] [CPU Threads](#cpu-threads)
+    - [4e] [CPU Threads](#cpu-threads)
     
 - **[5] [Recommended MCM Settings](#recommended-mcm-settings)**
 
@@ -45,6 +47,8 @@
     - [5m] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
 
     - [5n] [Timing is Everything](#timing-is-everything)
+
+    - [5o] [True Hunter](#true-hunter)
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -103,6 +107,14 @@
 #
 
 ## GAMEPLAY PREP
+### Windows Paging File Size
+ - **It is HIGHLY RECOMMENDED to set your pagefile size to 20GB. (20,000mb)**
+ - **This is the modded SkyrimVR standard if you have 16GB RAM.**
+ - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
+ - **There is no need to apply this pagefile size setting to multiple hard drives.**
+
+**Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & [Is explained here.](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)**
+#
 ### SkyrimVR Install
 
 **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)  ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
@@ -235,4 +247,8 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ## Timing is Everything
 #### NOTE: It is HIGHLY RECOMMENDED to click ‘LOAD PRESET’ and ENABLE the Lexy FISSES settings.
 ![Timing is Everything Settings](https://user-images.githubusercontent.com/78007822/139827581-999b3eb6-4e8e-4f70-be62-7b269bd88fe3.png)
+-
+## True Hunter
+#### NOTE: This mod reduces or increases all animal clutter, Higher % = potential performance impact.
+![True Hunter Settings](https://user-images.githubusercontent.com/78007822/139829124-a1184205-3602-4d99-8026-5531a5eba26c.png)
 -
