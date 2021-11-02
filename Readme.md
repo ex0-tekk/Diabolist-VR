@@ -68,7 +68,7 @@
 
 - **[9] [DO NOT SORT DVR WITH LOOT](#do-not-sort-dvr-with-loot)**
 
-- **[10] [Install is Complete, Have Fun!](#install-is-complete,-have-fun!)
+- **[10] [INSTALL IS COMPLETE](#install-is-complete)**
 
 
 #
@@ -309,13 +309,9 @@ Also replace these files inside your ‘C:\Documents\My Games\Skyrim VR’ folde
 #### NOTE: DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins, However, If you mess up the plugins, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/139843104-bfc25312-5f4c-4fed-9919-fb064dbef888.png)
 -
-# Install is Complete, Have Fun!  
+# INSTALL IS COMPLETE 
  - #### You’re Ready to Play! 
-
  - #### Post on [DVR Discord](https://discord.com/invite/HuqU54gPcv) if you need modlist support. 
-
 # Thanks for downloading Diabolist VR! 
-
 #### ...but most importantly...
-
 # Have fun monster hunting & loot hoarding!
