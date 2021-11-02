@@ -49,6 +49,10 @@
     - [5n] [Timing is Everything](#timing-is-everything)
 
     - [5o] [True Hunter](#true-hunter)
+    
+    - [5p] [True Spear Combat](#true-spear-combat)
+    
+    - [5q] [
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -250,3 +254,12 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 #### NOTE: This mod reduces or increases all animal clutter, Higher % = potential performance impact.
 ![True Hunter Settings](https://user-images.githubusercontent.com/78007822/139829124-a1184205-3602-4d99-8026-5531a5eba26c.png)
 -
+## True Spear Combat
+#### NOTE: This mod is only used for NPC spear throwing.
+![True Spear Combat](https://user-images.githubusercontent.com/78007822/139837809-576f44f6-5945-423a-8b81-50eeefcf4946.png)
+-
+## Unread Books Glow
+#### NOTE: In general, plain books glow is not suggested, but it's great for book collecting.
+![Unread Books Glow](https://user-images.githubusercontent.com/78007822/139838085-27dec7d9-bed1-49e9-9e42-9665622dcc9c.png)
+-
+
