@@ -124,8 +124,7 @@
 
 - **Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, however, there are still plenty of noticable changes, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
-#### Diabolist VR aims to be a simple to setup, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding.
-#### I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.
+- **Diabolist VR aims to be a simple to setup, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding. I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.
 #
 
 ## GAMEPLAY PREP
