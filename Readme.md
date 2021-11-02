@@ -6,7 +6,7 @@
 
 - [3] [Dev Details and Test Specs.](#dev-details-and-test-specs)
 
-- [4] [Gameplay Preperation.](#gameplay-preperation)
+- [4] [Gameplay Prep.](#gameplay-prep)
 
     - [4a] [SkyrimVR Install:](#skyrimvr-install)
 
@@ -86,7 +86,7 @@ The initial wabbajack setup file is 4.80 gb & the finished install folder size i
 Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.
 #
 
-## GAMEPLAY PREPERATION.
+## GAMEPLAY PREP.
 
 ### SkyrimVR Install:
 
