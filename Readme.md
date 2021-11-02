@@ -53,6 +53,15 @@
     - [5p] [True Spear Combat](#true-spear-combat)
     
     - [5q] [Unread Books Glow](#unread-books-glow)
+
+    - [5r] [VRIK](#vrik)
+
+    - [5s] [Wonders of Weather](#wonders-of-weather)
+
+    - [5t] [Ye Old MCM Menu](#ye-old-mcm-menu)
+
+- **[6] [The Sharper Eye](#the-sharper-eye)
+ 
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -265,4 +274,12 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ## VRIK
 #### NOTE: It is CRITICAL to have Adjust Held Weapon Positions DISABLED in VRIK, otherwise staff cross hairs for casting magic are visually off center and bows will feel awkward.
 ![VRIK Settings](https://user-images.githubusercontent.com/78007822/139838629-a9bd61cd-e844-4edd-8b19-814b0299a5ab.png)
+-
+## Wonders of Weather
+#### NOTE: These settings increase overall rain performance & fantasy visuals.
+![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
+-
+## Ye Old MCM Menu
+#### NOTE: Use this mod to backup all mod menu configs you have set... but first, use the BACKUP MOD SELECTION option and choose the mods you want saved, this is very helpful for loading all of your mod settings for multiple playthroughs.
+![Ye'Old MCM Menu](https://user-images.githubusercontent.com/78007822/139839346-e83e7665-90b1-462a-bd14-24252eb0c2f5.png)
 -
