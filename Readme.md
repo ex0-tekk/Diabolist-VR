@@ -217,7 +217,7 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 -
 ## R.A.S.S Weather
 ![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
-#### NOTE: Camera Visual Effects ⬆️ DISABLED is HIGHLY RECOMMENDED for better VR visuals and overall performance.
+#### NOTE: Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals ⬆️ and overall performance.
 #
 ## Sounds of Skyrim - Civilization and Wilds
 #### NOTE: These are the recommended DISABLED sounds for an overall better audio experience.
