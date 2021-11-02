@@ -62,7 +62,7 @@
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
-- **[7] [Nvidia Settings](#vr-nvidia-settings)**
+- **[7] [Nvidia Settings](#nvidia-settings)**
 
 - **[8] [DO NOT Sort DVR With LOOT](#do-not-sort-dvr-with-loot)**
 
