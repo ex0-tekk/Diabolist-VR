@@ -293,11 +293,11 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843882-792e6293-f0b9-4c05-8564-62e06bfce179.png)
 -
 # nVidia Settings
-#### The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S.
+#### NOTE: The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S.
 #### These settings are based on what HMD is used and your personal preferences.
 ![SkyrimVR nVidia settings](https://user-images.githubusercontent.com/78007822/139841627-35baa896-32a9-48ba-a864-b1973264ac6f.png)
 -
 # DO NOT Sort DVR with LOOT
-#### DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins, However, If you mess up the plugins, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
+#### NOTE: DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins, However, If you mess up the plugins, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/139843104-bfc25312-5f4c-4fed-9919-fb064dbef888.png)
 -
