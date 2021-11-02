@@ -62,7 +62,7 @@
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
-- **[7] [VR nVidia Settings](#vr-nvidia-settings)**
+- **[7] [Nvidia Settings](#vr-nvidia-settings)**
 
 - **[8] [DO NOT Sort DVR With LOOT](#do-not-sort-dvr-with-loot)**
 
@@ -292,7 +292,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 #### NOTE: With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA.
 ![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843882-792e6293-f0b9-4c05-8564-62e06bfce179.png)
 -
-# VR nVidia Settings
+# NVIDIA Settings
 #### NOTE: The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient.
 ![SkyrimVR nVidia settings](https://user-images.githubusercontent.com/78007822/139841627-35baa896-32a9-48ba-a864-b1973264ac6f.png)
 -
