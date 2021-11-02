@@ -16,11 +16,16 @@
     
     - [4d] [CPU Threads:](#cpu-threads)
     
-- [5] [MCM Settings.](#mcm-settings)
+- [5] [MCM Recommended Settings.](#mcm-recommended-settings)
      
     - [5a] [Be Seated:](#be-seated)
     
     - [5b] [Claralux Lighting:](#claralux-lighting)
+    
+    - [5c] [DynDOLOD:](#dyndolod)
+   
+    - [5d] [Fine-Tuned Challange:](fine-tuned-challange)
+
 
 
 #
@@ -148,16 +153,28 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 ### **You can close the SkyrimVR ini Tweaker now.**
 #
 
-# MCM Settings:
+# MCM RECOMMENDED SETTINGS:
 
-Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is Highly Recommended to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
+**Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is Highly Recommended to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.**
 #
-### BE SEATED:
+
+## Be Seated:
+
 ![Be Seated](https://user-images.githubusercontent.com/78007822/139783752-e59b4400-2e79-4a7b-bd4c-f95f4552de28.png)
 -
-### CLARALUX LIGHTING:
+## Claralux Lighting:
+
+### **NOTE**: You **must** use Claralux at night enable the Toggle Light Level Test Mode option past 6pm to change options, then disable this feature ⬇️ to continue.
 ![Claralux Settings](https://user-images.githubusercontent.com/78007822/139784108-e8e86f7f-9cf8-41b5-a4a1-f4fb22316a8c.png)
 -
-# **NOTE**: You must use Claralux at night, enable the Toggle Light Level Test Mode option past 6pm to change options, then disable this feature to continue.
 ![Claralux Settings 2](https://user-images.githubusercontent.com/78007822/139784116-74f26356-f533-4e88-9492-467941ea62bf.png)
 -
+## DynDOLOD:
+**NOTE: Enable Large Ref Fix, also, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.**
+![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
+-
+## Fine-Tuned Challange:
+![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
+-
+### **NOTE**: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used.
+Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a somewhat difficult challenge for dungeon crawling, as the [Synthesis patch also includes a base difficulty increase](https://github.com/Synthesis-Collective/SynNoMoreEasyEnemies), which these numbers directly affect.
