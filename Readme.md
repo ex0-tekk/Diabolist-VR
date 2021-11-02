@@ -301,9 +301,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![SkyrimVR nVidia settings](https://user-images.githubusercontent.com/78007822/139841627-35baa896-32a9-48ba-a864-b1973264ac6f.png)
 -
 # SkyrimVR and SkyrimPrefs ini
-#### NOTE: If your game feels ‘Off’ or ‘Not Quite Right’ after installing and playing, or if you just want to reset your current Diabolist VR .ini [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘DVR\profiles\Diabolist VR’ folder.
-
-Also replace these files inside your ‘C:\Documents\My Games\Skyrim VR’ folder.
+#### NOTE: If your game feels ‘Off’ or ‘Not Quite Right’ after installing and playing, or if you just want to reset your current Diabolist VR .ini [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘DVR\profiles\Diabolist VR’ folder, also make sure to replace these files inside your ‘C:\Documents\My Games\Skyrim VR’ folder.
 
 # DO NOT SORT DVR WITH LOOT
 #### NOTE: DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins, However, If you mess up the plugins, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
