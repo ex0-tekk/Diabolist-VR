@@ -42,7 +42,9 @@
     
     - [5l] [Storm Lightning](#storm-lightning)
 
-    - [5j] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
+    - [5m] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
+
+    - [5n] [Timing is Everything](#timing-is-everything)
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -230,4 +232,8 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 ## Strike Obstruction Timed Block
 #### NOTE: It is HIGHLY RECOMMENDED to DISABLE player parry mechanics, these animations are not triggered in VR.
 ![Strike Obstruction Timed Block Settings](https://user-images.githubusercontent.com/78007822/139826990-c155d19e-b1ca-42a6-92b1-4f5c3e749f7d.png)
+-
+## Timing is Everything
+#### NOTE: It is HIGHLY RECOMMENDED to click ‘LOAD PRESET’ and ENABLE the Lexy FISSES settings.
+![Timing is Everything Settings](https://user-images.githubusercontent.com/78007822/139827581-999b3eb6-4e8e-4f70-be62-7b269bd88fe3.png)
 -
