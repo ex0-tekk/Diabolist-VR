@@ -112,9 +112,10 @@
  - **This is the modded SkyrimVR standard if you have 16GB RAM.**
  - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
  - **There is no need to apply this pagefile size setting to multiple hard drives.**
-
 **Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & [Is explained here.](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)**
-#
+
+![Settings-of-Virtual-Memory](https://user-images.githubusercontent.com/78007822/139832972-fbc48c82-b1a2-4a2a-a0ea-d2b09e078e5c.png)
+-
 ### SkyrimVR Install
 
 **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)  ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
