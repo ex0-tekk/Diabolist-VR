@@ -210,6 +210,6 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 ![Immersive Creatures No Wolf Pups](https://user-images.githubusercontent.com/78007822/139816694-d626fe76-e6fc-4afe-a077-e1e9121f45bf.png)
 -
 ## Nemesis PCEA
-#### NOTE: HIGHLY RECOMMENDED Animations for the Player and NPC.
+#### NOTE: These animations are HIGHLY RECOMMENDED for the Player and NPC.
 ![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
 -
