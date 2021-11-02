@@ -162,7 +162,7 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 ![Be Seated](https://user-images.githubusercontent.com/78007822/139783752-e59b4400-2e79-4a7b-bd4c-f95f4552de28.png)
 -
 ## Claralux Lighting:
-### NOTE: You MUST use Claralux at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then disable this feature ⬇️ to continue adjusting other MCM settings.
+### NOTE: You MUST use Claralux at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then disable it... ⬇️ to continue adjusting other MCM settings.
 ![Claralux Settings](https://user-images.githubusercontent.com/78007822/139784108-e8e86f7f-9cf8-41b5-a4a1-f4fb22316a8c.png)
 ![Claralux Settings 2](https://user-images.githubusercontent.com/78007822/139784116-74f26356-f533-4e88-9492-467941ea62bf.png)
 -
