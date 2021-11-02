@@ -38,7 +38,7 @@
 
     - [5j] [R.A.S.S Weather](#rass-weather)
       
-    - [5k] [Sounds of Skyrim Civilization and Wilds](#sounds-of-skyrim-civilization-and-wilds)  
+    - [5k] [Sounds of Skyrim - Civilization and Wilds](#sounds-of-skyrim---civilization-and-wilds)  
 #
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
@@ -97,7 +97,6 @@
 #
 
 ## GAMEPLAY PREP
-
 ### SkyrimVR Install
 
 **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)  ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
@@ -110,13 +109,10 @@
 **I have provided screenshots of the recommended SkyrimVR settings, along with highly recommended mod settings for DVR, however, all mod options in MCM are relatively safe to experiment with.**
 
 **Refer to these screenshots below once you first load the game and after Diabolist VR is installed ... as I will Not be explaining these settings in further detail aside from the screenshot ‘NOTES’ i have added, most of this is self-explanatory and also based on your preference and PC performance.**
-#
 
 ![VR Performance](https://user-images.githubusercontent.com/78007822/139745143-a3161f8d-8d2e-47ee-9644-e4aec59ac37a.png)
--
 ![VR Performance 2](https://user-images.githubusercontent.com/78007822/139745160-74e1f1c6-192e-4812-becd-06e4bccbaa50.png)
 ![VR Performance 3](https://user-images.githubusercontent.com/78007822/139745169-a60d5e27-e4b4-4b04-b948-1c88354fcccd.png)
--
 ![VR General Settings Smaller](https://user-images.githubusercontent.com/78007822/139744742-34f38930-4fa2-4326-a0e2-4a6f051a9bc0.png)
 ![VR General Settings 2 Smaller](https://user-images.githubusercontent.com/78007822/139744851-985379d3-d4f7-469b-8e1c-30ededa387ae.png)
 -
@@ -148,14 +144,13 @@
 **Look inside the DVR folder & open ModOrganizer.exe (2.4.2)
 Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)**
 ### This configuration window will pop up.⬇️
-#
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
--
+
 **Having personalized .ini tweaks will help overall visuals based on SuperSampling settings.**
 
 **Example: using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Oculus Rift S, and this resolution is reflected with two .ini settings.**
 
-**iHudMenuTextureSize=2172 ... & ... iProjectedMenuTextureSize=2172**
+**iHudMenuTextureSize = 2172 ... & ... iProjectedMenuTextureSize = 2172**
 
 **These 2 sets of numbers above will always equal the largest number of your headsets resolution & they *should* be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.**
 #
@@ -203,7 +198,6 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 -
 #### NOTE: It is CRITICAL to have Sunlight and Sky at -2, ⬇️ these settings remove excess surface and snow glare.
 ![Imaginator Settings 2](https://user-images.githubusercontent.com/78007822/139812436-f2dbf65d-a753-4d06-9a47-24266703d9c4.png)
--
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
 -
 #### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
@@ -220,9 +214,9 @@ Once it’s open, click on this icon. 👉 ![Skyrim ini Tweaker Small](https://u
 #### NOTE: Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals and overall performance.
 ![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
 -
-## Sounds of Skyrim Civilization and Wilds
+## Sounds of Skyrim - Civilization and Wilds
 #### NOTE: These are the recommended DISABLED sounds for an overall better audio experience.
 ![SoS Civ Settings](https://user-images.githubusercontent.com/78007822/139822593-bc3a4b2a-7dd6-42ea-88ec-209f88bbfc12.png)
--
 ![SoS Wilds Settings](https://user-images.githubusercontent.com/78007822/139822728-0301c97a-eb06-42ce-b04a-f9ebf54131ad.png)
 -
+## 
