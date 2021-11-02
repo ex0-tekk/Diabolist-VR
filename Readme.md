@@ -307,10 +307,10 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/139843104-bfc25312-5f4c-4fed-9919-fb064dbef888.png)
 -
 # INSTALL IS COMPLETE 
- - #### You’re Ready to Play! 
- - #### Post on [DVR Discord](https://discord.com/invite/HuqU54gPcv) if you need modlist support. 
+ - ### You’re Ready to Play! 
+ - ### Please post on [DVR Discord](https://discord.com/invite/HuqU54gPcv) if you need modlist support. 
 # Thanks for downloading Diabolist VR! 
-#### ...but most importantly...
+### ...but most importantly...
 # Have fun monster hunting & loot hoarding!
 ![Diabolist VR Wolf Right Final 2 0 D-R-R-Small](https://user-images.githubusercontent.com/78007822/139849187-bad8a216-0a47-47d6-a9ab-3611595678cd.jpg)
 -
