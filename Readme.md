@@ -80,7 +80,13 @@
 
 ## RECOMMENDED SPECS FOR DVR
 
-### Developed and tested with this HMD and PC setup:
+**The initial wabbajack setup file is 4.80 gb & the finished install folder size is 94 gb, for a total size of roughly 99 gb, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
+
+**I FOCUSED HEAVILY ON OPTIMIZING DVR during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMDs on higher-end modern PCs.**
+
+**Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. I will go over that and other recommended settings throughout this guide.**
+
+### DVR is developed and tested with this HMD and PC setup:
 
  - **Oculus Rift S**
  - **Win 10 ver. 1909 Fully Updated**
@@ -88,12 +94,6 @@
  - **32 Gigs of G-Skill 14-34 Low Latency RAM**
  - **Kingston NVMe M.2 1tb SSD**
  - **Nvidia 3090 GPU**
-#
-**The initial wabbajack setup file is 4.80 gb & the finished install folder size is 94 gb, for a total size of roughly 99 gb, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
-
-**I FOCUSED HEAVILY ON OPTIMIZING DVR during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMDs on higher-end modern PCs.**
-
-**Since I use a Rift S, the skyrimvr.ini / skyrimprefs.ini files will reflect that, so a few of these .ini settings need to be adjusted to suit your specific HMD. I will go over that and other recommended settings throughout this guide.**
 #
 
 ## MOD LIST FEATURES
