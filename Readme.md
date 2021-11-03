@@ -159,7 +159,7 @@
 
 - **Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases).** ⬅️️**This First Step Is Mandatory**
 
-- **Next, download [DiabolistVR](https://drive.google.com/file/d/1T8xmV9K4_5wMt4AC2rBia09qgBqL8JOu/view?usp=sharing).**
+- **Next, download [DiabolistVR](https://drive.google.com/drive/folders/100GIvYYJOzKz9Tdvt_K7wzdvKiEDj8Kx?usp=sharing).**
 
 - **Make a folder on any SSD drive with space and label it DVR.**
 
