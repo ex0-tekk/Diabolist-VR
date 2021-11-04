@@ -157,7 +157,7 @@
 -
 ## Wabbajack and DVR Install
 
-### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
+### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE ROUGHLY 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
 
 - **Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases).** ⬅️️**This First Step Is Mandatory**
 
