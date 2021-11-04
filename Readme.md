@@ -110,7 +110,7 @@
 
 - **Random Loot Boxes are placed at several merchants across Skyrim, they are easy to find and they *can be* addictive.**
 
-- **Transmuting lower quality items into a higher quality ones, or convert items of one type into another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) ⬅️please read the authors nexus page linked here to see more details on how to do this.**
+- **Transmuting lower quality items into a higher quality ones, or convert items of one type into another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) please read the authors nexus page linked here to see more details on how to do this.**
 
 - **This mod list is a loot hoarders dream, and with that in mind, every new character you create starts with a 10,000lb carry weight ring.**
 
