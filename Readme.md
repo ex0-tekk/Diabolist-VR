@@ -121,7 +121,9 @@
 - **The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge.**
 
 - **VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods & .ini settings.**
-
+#
+ - **NSFW WARNING, (18+) This mod list uses CBBE Physics with no under-armor coverage for females, this can be changed in CBBE BodySlide tool if you want a more Family-Friendly playthrough, please post in the Discord DVR Support Chat for help with this.**
+#
 - **Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, however, there are still plenty of noticable changes, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
 - **Diabolist VR aims to be a *simple to setup*, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding. I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
