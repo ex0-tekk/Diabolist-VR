@@ -152,7 +152,6 @@
  - ### **Just name this to whatever you want, or copy the screenshot provided, then click finish.**
 ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
  - ## **MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR SkyrimVR.exe OUTBOUND BLOCK**
-#
 ### Windows Paging File Size
  - **It is HIGHLY RECOMMENDED to set your pagefile size to 20GB (20,000mb).**
  - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB (40,000mb) for more overhead.**
