@@ -132,7 +132,7 @@
 ## GAMEPLAY PREP
 ### Windows Paging File Size
  - **It is HIGHLY RECOMMENDED to set your pagefile size to 20GB. (20,000mb)**
- - **This is the modded SkyrimVR standard if you have 16GB RAM.**
+ - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 55GB (55,000mb) for extra VRAM overhead**
  - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
  - **There is no need to apply this pagefile size setting to multiple hard drives.**
 **Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & how to configure the Windows Paging File Size is explained [HERE.](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)**
