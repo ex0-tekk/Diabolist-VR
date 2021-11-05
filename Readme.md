@@ -8,7 +8,7 @@
 
 - **[4] [Gameplay Prep](#gameplay-prep)**
 
-    - [4a] [Windows Firewall Settings](windows-firewall-settings)
+    - [4a] [Windows Firewall Settings](#windows-firewall-settings)
 
     - [4b] [Windows Paging File Size](#windows-paging-file-size)
 
