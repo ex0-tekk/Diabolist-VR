@@ -54,9 +54,11 @@
     
     - [5q] [Unread Books Glow](#unread-books-glow)
 
-    - [5r] [Wonders of Weather](#wonders-of-weather)
+    - [5s] [VRIK](#vrik)
+     
+    - [5s] [Wonders of Weather](#wonders-of-weather)
 
-    - [5s] [Ye Old MCM Menu](#ye-old-mcm-menu)
+    - [5t] [Ye Old MCM Menu](#ye-old-mcm-menu)
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
@@ -278,6 +280,10 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ## Unread Books Glow
 #### NOTE: In general, plain books glow is not suggested, but it's great for book collecting.
 ![Unread Books Glow](https://user-images.githubusercontent.com/78007822/139838085-27dec7d9-bed1-49e9-9e42-9665622dcc9c.png)
+-
+## VRIK
+#### NOTE: It is CRITICAL to DISABLE 'Adjust Held Weapons Position', otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
+![VRIK Settings](https://user-images.githubusercontent.com/78007822/140565481-881ed992-5062-476f-bdce-4dd9af9b349d.png)
 -
 ## Wonders of Weather
 #### NOTE: These settings increase overall rain performance & fantasy visuals.
