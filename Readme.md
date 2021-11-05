@@ -8,15 +8,17 @@
 
 - **[4] [Gameplay Prep](#gameplay-prep)**
 
-    - [4a] [Windows Paging File Size](#windows-paging-file-size)
+    - [4a] [Windows Firewall Settings](windows-firewall-settings)
 
-    - [4b] [SkyrimVR Install](#skyrimvr-install)
+    - [4b] [Windows Paging File Size](#windows-paging-file-size)
+
+    - [4c] [SkyrimVR Install](#skyrimvr-install)
     
-    - [4c] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
+    - [4d] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
     
-    - [4d] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
+    - [4e] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
     
-    - [4e] [CPU Threads](#cpu-threads)
+    - [4f] [CPU Threads](#cpu-threads)
     
 - **[5] [Recommended MCM Settings](#recommended-mcm-settings)**
 
@@ -130,6 +132,27 @@
 #
 
 ## GAMEPLAY PREP
+
+### Windows Firewall Settings
+ - **It is HIGHLY RECOMMENDED to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD.**
+ - **Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.**
+ 
+![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
+ - ### **When the Windows firewall options pop up, follow these steps below:**
+ - **1. Click Inbound Rules**
+ - **2. Click New Rule**
+ - **3. Click Program, then Next.**
+
+![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
+ - ### **Now direct this window to your SkyrimVR root folder and select SkyrimVR.exe**
+![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140571448-176c4618-6098-4455-93c5-252f943a0958.png)
+  - ### **Make SURE you select BLOCK, another window will pop up with Domain, Private and Public, make sure they are all selected.**
+![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
+![Firewall Settings 5](https://user-images.githubusercontent.com/78007822/140572430-5546eb0d-5fea-4ed7-8b4c-a9242217ebb2.png)
+ - ### **Just name this to whatever you want, or copy the screenshot provided, then click finish.**
+![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
+ - ## **MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR SkyrimVR.exe OUTBOUND BLOCK**
+#
 ### Windows Paging File Size
  - **It is HIGHLY RECOMMENDED to set your pagefile size to 20GB (20,000mb).**
  - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB (40,000mb) for more overhead.**
