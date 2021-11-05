@@ -54,9 +54,9 @@
     
     - [5q] [Unread Books Glow](#unread-books-glow)
 
-    - [5s] [Wonders of Weather](#wonders-of-weather)
+    - [5r] [Wonders of Weather](#wonders-of-weather)
 
-    - [5t] [Ye Old MCM Menu](#ye-old-mcm-menu)
+    - [5s] [Ye Old MCM Menu](#ye-old-mcm-menu)
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
