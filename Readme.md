@@ -350,7 +350,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 -
 [7]
 # TAA On or Off
-#### NOTE: TAA makes the distant image in VR have less jaggies (shimmer), personally i don't use this feature, as the mild shimmer doesn't bother me, but if you'd like a smoother distance ( this = added blur to remove the mild shimmer), then it is CRITICAL to open your SkyrimVR ini Tweaker tool once again, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and simply change bTAAWater = 0 to bTAAWater =1, otherwise you will see strange water anomalies in the distance while TAA is enabled in-game and bTAAWater is left at 0.
+#### NOTE: TAA makes the distant image in VR have less jaggies (shimmer), personally i don't use this feature, as the mild shimmer doesn't bother me, however, it's turned ON by default with DVR, but if you'd like it turned off then it is CRITICAL to open your SkyrimVR ini Tweaker tool, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and simply change bTAAWater = 1 to bTAAWater = 0.
 #
 [8]
 # NVIDIA Settings
