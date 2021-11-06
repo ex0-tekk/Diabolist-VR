@@ -64,13 +64,15 @@
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
-- **[7] [Nvidia Settings](#nvidia-settings)**
+- **[7] [TAA On or Off](#taa-on-or-off)**
 
-- **[8] [SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs-ini)**
+- **[8] [Nvidia Settings](#nvidia-settings)**
 
-- **[9] [DO NOT SORT DVR WITH LOOT](#do-not-sort-dvr-with-loot)**
+- **[9] [SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs-ini)**
 
-- **[10] [INSTALL IS COMPLETE](#install-is-complete)**
+- **[10] [DO NOT SORT DVR WITH LOOT](#do-not-sort-dvr-with-loot)**
+
+- **[11] [INSTALL IS COMPLETE](#install-is-complete)**
 
 
 #
@@ -199,7 +201,7 @@
 
 ## SkyrimVR ini Tweaker
 
-**There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.**
+**There are a few .ini settings you *should* be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.**
 
 ### **NOTE**: **Windows 11 users can ONLY USE MO2 2.4.2 or later**
 
@@ -320,17 +322,20 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 #### NOTE: With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and placed inside your root SkyrimVR folder, please click the link provided above and read the mod page for more info.
 ![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843882-792e6293-f0b9-4c05-8564-62e06bfce179.png)
 -
+# TAA On or Off
+#### NOTE: TAA makes the distant image in VR have less jaggies (shimmer), personally i don't use this feature, as the mild shimmer doesn't bother me, but if you'd like a smoother distance ( this = added blur to remove the mild shimmer), then it is CRITICAL to open your SkyrimVR ini Tweaker tool once again, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and simply change bTAAWater = 0 to bTAAWater =1, otherwise you will see strange water anomalies in the distance while TAA is enabled in-game and bTAAWater is left at 0.
+
 # NVIDIA Settings
 #### NOTE: The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
 ![SkyrimVR nVidia settings](https://user-images.githubusercontent.com/78007822/139841627-35baa896-32a9-48ba-a864-b1973264ac6f.png)
--
+
 # SkyrimVR and SkyrimPrefs ini
 #### NOTE: If your game feels ‘Off’ or ‘Not Quite Right’ after installing and playing, or if you just want to reset your current Diabolist VR .ini [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘DVR\profiles\Diabolist VR’ folder, also make sure to replace these files inside your ‘C:\Documents\My Games\Skyrim VR’ folder.
 
 # DO NOT SORT DVR WITH LOOT
 #### NOTE: DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins, However, If you mess up the plugins, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/139843104-bfc25312-5f4c-4fed-9919-fb064dbef888.png)
--
+
 # INSTALL IS COMPLETE 
  - ### You’re Ready to Play! 
  - ### Please post on [DVR Discord](https://discord.com/invite/HuqU54gPcv) if you need modlist support. 
@@ -338,5 +343,5 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ### ...but most importantly...
 # Have fun monster hunting & loot hoarding!
 ![Diabolist VR Wolf Right Final 2 0 D-R-R-Small](https://user-images.githubusercontent.com/78007822/139849187-bad8a216-0a47-47d6-a9ab-3611595678cd.jpg)
--
+
 #### - Latest DVR Guide Update, 11/05/2021
