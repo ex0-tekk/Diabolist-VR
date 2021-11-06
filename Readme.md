@@ -76,12 +76,13 @@
 
 
 #
+[1]
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 -
 **Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo II with spear throwing mechanics, the Horadric Crafting Cube from Diablo II, the Imperius Solarion Spear and Tyrael Armor from Diablo III, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 #
-
+[2]
 ## RECOMMENDED SPECS FOR DVR
 
 **The initial wabbajack setup file is 4.80 gb & the finished install folder size is 93 gb, for a total size of roughly 98 gb, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
@@ -99,7 +100,7 @@
  - **Kingston NVMe M.2 1tb SSD**
  - **Nvidia 3090 GPU**
 #
-
+[3]
 ## MOD LIST FEATURES
 
 ### DVR uses a 5 tier loot system inspired by Diablo 4.
@@ -132,9 +133,9 @@
 
 - **Diabolist VR aims to be a *simple to setup*, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding. I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
 #
-
+[4]
 ## GAMEPLAY PREP
-
+[4a]
 ### Windows Firewall Settings
  - **It is HIGHLY RECOMMENDED to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
  - **Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.**
@@ -155,6 +156,7 @@
  - ### **Just name this to whatever you want, or copy the screenshot provided, then click finish.**
 ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 ## **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.**
+[4b]
 ### Windows Paging File Size
  - **It is HIGHLY RECOMMENDED to set your pagefile size to 20GB (20,000mb).**
  - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB (40,000mb) for more overhead.**
@@ -164,6 +166,7 @@
 
 ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 -
+[4c]
 ### SkyrimVR Install
  - **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)  ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
  
@@ -180,6 +183,7 @@
 ![VR General Settings Smaller](https://user-images.githubusercontent.com/78007822/139744742-34f38930-4fa2-4326-a0e2-4a6f051a9bc0.png)
 ![VR General Settings 2 Smaller](https://user-images.githubusercontent.com/78007822/139744851-985379d3-d4f7-469b-8e1c-30ededa387ae.png)
 -
+[4d]
 ## Wabbajack and DVR Install
 
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE ROUGHLY 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
@@ -198,7 +202,7 @@
 
 - **After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder.**
 #
-
+[4e]
 ## SkyrimVR ini Tweaker
 
 **There are a few .ini settings you *should* be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.**
@@ -218,45 +222,51 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 
 **These 2 sets of numbers above will always equal the largest number of your headsets resolution & they *should* be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.**
 #
-
+[4f]
 ## CPU Threads
 
 **iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [DVR Discord](https://discord.gg/HuqU54gPcv)**
 ### **You can close the SkyrimVR ini Tweaker now.**
 #
-
+[5]
 # RECOMMENDED MCM SETTINGS
 
 #### Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is HIGHLY RECOMMENDED to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
 #
-
+[5a]
 ## Be Seated
 ![Be Seated](https://user-images.githubusercontent.com/78007822/139783752-e59b4400-2e79-4a7b-bd4c-f95f4552de28.png)
-
+-
+[5b]
 ## Claralux Lighting
 #### NOTE: You MUST use Claralux settings at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then DISABLE IT TO CONTINUE.
 #### If you Fail to Disable this AFTER adjusting these options ⬇️ then your character will be frozen and unable to move when you return to your game.
 ![Claralux Settings](https://user-images.githubusercontent.com/78007822/139784108-e8e86f7f-9cf8-41b5-a4a1-f4fb22316a8c.png)
 ![Claralux Settings 2](https://user-images.githubusercontent.com/78007822/139784116-74f26356-f533-4e88-9492-467941ea62bf.png)
 -
+[5c]
 ## DynDOLOD
 #### NOTE: Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
 ![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
 -
+[5d]
 ## Fine-Tuned Challange
 #### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used. Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a *somewhat* difficult challenge for dungeon crawling, as the [Synthesis patch also includes a base difficulty increase](https://github.com/Synthesis-Collective/SynNoMoreEasyEnemies), which these numbers directly affect.
 
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
+[5e]
 ## Mihail Monster and SiC Difficulty
 #### NOTE: Mihails creations hit harder, move faster and take more damage than other monsters, they are based PURELY on Skyrim vanilla stats and mechanics, but they are created somewhat Over Powered, adept is a good start and then simply adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
 #### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options.
 #
+[5f]
 ## Nethers Follower Framework
 #### NOTE: Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with. 
 #### Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels.
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 -
+[5g]
 ## Imaginator ENB Emulator
 ![Imaginator Settings](https://user-images.githubusercontent.com/78007822/139812380-f525b3de-92a9-4744-9a97-5c750cd55ee5.png)
 -
@@ -265,77 +275,96 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
 #### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
 #
+[5h]
 ## Immersive Creatures
 #### NOTE: If you want to minimize Non-Adult animal spawns (Wolf Pups 🐺) drop the additional animal spawn chance to 1%, in the Additional Spawns options.
 ![Immersive Creatures No Wolf Pups](https://user-images.githubusercontent.com/78007822/139816694-d626fe76-e6fc-4afe-a077-e1e9121f45bf.png)
 -
+[5i]
 ## Nemesis PCEA
 #### NOTE: These animations are HIGHLY RECOMMENDED for the Player and NPC.
 ![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
 -
+[5j]
 ## R.A.S.S Weather
 ![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
 #### NOTE: Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals ⬆️ and overall performance.
 #
+[5k]
 ## Sounds of Skyrim - Civilization and Wilds
 #### NOTE: These are the recommended DISABLED sounds for an overall better audio experience.
 ![SoS Civ Settings](https://user-images.githubusercontent.com/78007822/139822593-bc3a4b2a-7dd6-42ea-88ec-209f88bbfc12.png)
 ![SoS Wilds Settings](https://user-images.githubusercontent.com/78007822/139822728-0301c97a-eb06-42ce-b04a-f9ebf54131ad.png)
 -
+[5l]
 ## Storm Lightning
 #### NOTE: Use Realistic or Ultra Realistic for best VR results.
 ![Storm Lightning Settings](https://user-images.githubusercontent.com/78007822/139826224-4534dba6-0899-43b7-984a-a42c791d9d43.png)
 -
+[5m]
 ## Strike Obstruction Timed Block
 #### NOTE: It is HIGHLY RECOMMENDED to DISABLE player parry mechanics, these animations are not triggered in VR.
 ![Strike Obstruction Timed Block Settings](https://user-images.githubusercontent.com/78007822/139826990-c155d19e-b1ca-42a6-92b1-4f5c3e749f7d.png)
 -
+[5n]
 ## Timing is Everything
 #### NOTE: It is HIGHLY RECOMMENDED to click ‘LOAD PRESET’ and ENABLE the Lexy FISSES settings.
 ![Timing is Everything Settings](https://user-images.githubusercontent.com/78007822/139827581-999b3eb6-4e8e-4f70-be62-7b269bd88fe3.png)
 -
+[5o]
 ## True Hunter
 #### NOTE: This mod reduces or increases all animal clutter, Higher % = potential performance impact.
 ![True Hunter Settings](https://user-images.githubusercontent.com/78007822/139829124-a1184205-3602-4d99-8026-5531a5eba26c.png)
 -
+[5p]
 ## True Spear Combat
 #### NOTE: This mod is ONLY used for NPC spear throwing, it is HIGHLY RECOMMENED to DISABLE ALL player options, including the random scripting, as seen in this screenshot.
 ![True Spear Combat](https://user-images.githubusercontent.com/78007822/139837809-576f44f6-5945-423a-8b81-50eeefcf4946.png)
 -
+[5q]
 ## Unread Books Glow
 #### NOTE: In general, plain books glow is not suggested, but it's great for book collecting.
 ![Unread Books Glow](https://user-images.githubusercontent.com/78007822/139838085-27dec7d9-bed1-49e9-9e42-9665622dcc9c.png)
 -
+[5r]
 ## VRIK
 #### NOTE: It is CRITICAL to DISABLE 'Adjust Held Weapons Position', otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
 ![VRIK Settings](https://user-images.githubusercontent.com/78007822/140565481-881ed992-5062-476f-bdce-4dd9af9b349d.png)
 -
+[5s]
 ## Wonders of Weather
 #### NOTE: These settings increase overall rain performance & fantasy visuals.
 ![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
 -
+[5t]
 ## Ye Old MCM Menu
 #### NOTE: Use this mod to backup all mod menu configs you have set... but first, use the BACKUP MOD SELECTION option and choose the mods you want saved, this is very helpful for loading all of your mod settings for multiple playthroughs.
 ![Ye'Old MCM Menu](https://user-images.githubusercontent.com/78007822/139839346-e83e7665-90b1-462a-bd14-24252eb0c2f5.png)
 -
+[6]
 # The Sharper Eye
 #### NOTE: With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and placed inside your root SkyrimVR folder, please click the link provided above and read the mod page for more info.
 ![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843882-792e6293-f0b9-4c05-8564-62e06bfce179.png)
 -
+[7]
 # TAA On or Off
 #### NOTE: TAA makes the distant image in VR have less jaggies (shimmer), personally i don't use this feature, as the mild shimmer doesn't bother me, but if you'd like a smoother distance ( this = added blur to remove the mild shimmer), then it is CRITICAL to open your SkyrimVR ini Tweaker tool once again, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and simply change bTAAWater = 0 to bTAAWater =1, otherwise you will see strange water anomalies in the distance while TAA is enabled in-game and bTAAWater is left at 0.
-
+#
+[8]
 # NVIDIA Settings
 #### NOTE: The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
 ![SkyrimVR nVidia settings](https://user-images.githubusercontent.com/78007822/139841627-35baa896-32a9-48ba-a864-b1973264ac6f.png)
-
+-
+[9]
 # SkyrimVR and SkyrimPrefs ini
 #### NOTE: If your game feels ‘Off’ or ‘Not Quite Right’ after installing and playing, or if you just want to reset your current Diabolist VR .ini [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘DVR\profiles\Diabolist VR’ folder, also make sure to replace these files inside your ‘C:\Documents\My Games\Skyrim VR’ folder.
-
+#
+[10]
 # DO NOT SORT DVR WITH LOOT
 #### NOTE: DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins, However, If you mess up the plugins, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/139843104-bfc25312-5f4c-4fed-9919-fb064dbef888.png)
-
+-
+[11]
 # INSTALL IS COMPLETE 
  - ### You’re Ready to Play! 
  - ### Please post on [DVR Discord](https://discord.com/invite/HuqU54gPcv) if you need modlist support. 
