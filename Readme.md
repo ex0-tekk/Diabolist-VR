@@ -159,7 +159,7 @@
 [4b]
 ### Windows Paging File Size
  - **It is HIGHLY RECOMMENDED to set your pagefile size to 20GB (20,000mb).**
- - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB (40,000mb) for more overhead.**
+ - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB for more overhead, but this is just my preference.**
  - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
  - **There is no need to apply this pagefile size setting to multiple hard drives.**
 **Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & how to configure the Windows Paging File Size is explained [HERE.](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)**
@@ -186,7 +186,7 @@
 [4d]
 ## Wabbajack and DVR Install
 
-### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE ROUGHLY 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
+### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
 
 - **Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases).** ⬅️️**This First Step Is Mandatory**
 
@@ -198,7 +198,7 @@
 
 - **Open the Wabbajack file you downloaded to begin the install process, on the bottom right, select the DVR folder you created & the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
 
-- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.0 Definitive Re-Release.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading roughly 600 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
+- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.0 Definitive Re-Release.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading 600 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
 
 - **After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder, there *should* be NO overwrite notification.**
 #
