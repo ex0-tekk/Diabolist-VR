@@ -127,7 +127,7 @@
 
 - **VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods & .ini settings.**
 #
- - **NSFW WARNING: (18+) This mod list uses CBBE Physics with no under-armor coverage for females, it also features many enchanted bikini armor drops, this lack of female underwear can be changed in CBBE BodySlide tool from the MO2 dropdown menu if you want panties and bras in your playthrough, however, it might look a bit odd looting worn bikini gear from a female NPC, only to see larger dark lace underwear and bra replacing it, but please post in the Discord DVR Support Chat room for help with this CBBE recompile.**
+ - **MILD NSFW WARNING: (18+) This mod list uses CBBE Physics with no under-armor coverage for females, it also features many enchanted bikini armor drops, this lack of female underwear can be changed in CBBE BodySlide tool from the MO2 dropdown menu if you want panties and bras in your playthrough, however, it might look a bit odd looting worn bikini gear from a female NPC, only to see larger dark lace underwear and bra replacing it, but please post in the Discord DVR Support Chat room for help with this CBBE recompile.**
 #
 - **Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, however, there are still plenty of noticable changes, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
