@@ -105,7 +105,7 @@
 
 ### DVR uses a 5 tier loot system inspired by Diablo 4.
  - **Common.**
- - **Magical.**
+ - **Magic.**
  - **Rare.**
  - **Legendary.**
  - **Mythic.**
