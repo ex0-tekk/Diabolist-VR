@@ -85,9 +85,9 @@
 [2]
 ## RECOMMENDED SPECS FOR DVR
 
-**This mod list was developed ON and FOR a modern higher end PC.**
+**This mod list was developed ON and FOR a modern higher-end PC.**
 
-**The initial wabbajack setup file is 4.80 gb & the finished install folder size is 93 gb, for a total size of roughly 98 gb, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
+**The initial wabbajack setup file is 4.7 gb & the finished install folder size is 93 gb, for a total size of roughly 98 gb, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
 
 **I FOCUSED HEAVILY ON OPTIMIZING DVR during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMDs on higher-end modern PCs.**
 
