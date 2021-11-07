@@ -253,14 +253,13 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 -
 [5d]
 ## Fine-Tuned Challange
-#### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used. Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a *somewhat* difficult challenge for dungeon crawling, as the [Synthesis patch also includes a base difficulty increase](https://github.com/Synthesis-Collective/SynNoMoreEasyEnemies), which these numbers directly affect.
-
+#### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will NOT take effect if ANY other vanilla difficulty setting is used. This mod takes over those vanilla difficulty functions. Experiment if you want, however, Fine-Tuned DEFAULT / ADEPT is a good start if you want a base difficultly challenge for dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example: 50%, 100%, 150%, 200%.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [5e]
 ## Mihail Monster and SiC Difficulty
-#### NOTE: Mihails creations hit harder, move faster and take more damage than other monsters, they are based PURELY on Skyrim vanilla stats and mechanics, but they are created somewhat Over Powered, adept is a good start and then simply adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
-#### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options.
+#### NOTE: Mihails creations hit harder, move faster and take more damage than other monsters, they are based PURELY on Skyrim vanilla stats and mechanics, but they are created somewhat Over Powered, as stated before, adept is a good start and then simply adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
+#### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, and then use Fine-Tuned from that point forward.
 #
 [5f]
 ## Nethers Follower Framework
