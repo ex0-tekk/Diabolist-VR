@@ -106,12 +106,12 @@
 ## MOD LIST FEATURES
 
 ### DVR uses a 5 tier loot system inspired by Diablo 4.
- - **Common.**
- - **Magic.**
- - **Rare.**
- - **Legendary.**
- - **Mythic.**
-#### NOTE: There is also 15 different enchant variations on all tiers, EXCEPT common.
+ - **Common = 40%.**
+ - **Magic = 40%.**
+ - **Rare = 14%.**
+ - **Legendary = 4%.**
+ - **Mythic = 2%.**
+#### NOTE: % = Drop Rate, There is also 10 different enchant variations on all tiers, EXCEPT common.
 #
  - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot, because when you sell items manually, merchants will only have 10x the amount of septims as vanilla Skyrim, this is nice, but this won't be nearly enough for what you will find and *want* to sell, all that being said... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of septims.**
 
