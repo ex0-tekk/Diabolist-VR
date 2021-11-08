@@ -106,7 +106,7 @@
 ## MOD LIST FEATURES
 
 ### DVR uses a 5 tier loot system inspired by Diablo 4.
-**Tier % = item drop rates.**
+**% = item drop rate.**
  - **Common = 30%**
  - **Magic = 50%**
  - **Rare = 14%**
