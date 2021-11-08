@@ -106,14 +106,14 @@
 ## MOD LIST FEATURES
 
 ### DVR uses a 5 tier loot system inspired by Diablo 4.
- - **Common = 26%.**
- - **Magic = 50%.**
- - **Rare = 16%.**
- - **Legendary = 6%.**
- - **Mythic = 2%.**
-#### NOTE: % = Drop Rate, There is also 16 different enchant variations on all tiers, EXCEPT common.
+ - **Common = 30%**
+ - **Magic = 50%**
+ - **Rare = 14%**
+ - **Legendary = 4%**
+ - **Mythic = 2%**
+#### NOTE: % = Drop Rate, there is also 16 different enchant variations on all tiers, EXCEPT common.
 #
- - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot, because when you sell items manually, merchants will only have 10x the amount of septims as vanilla Skyrim, this is nice, but this won't be nearly enough for what you will find and *want* to sell, all that being said... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of septims, additionally, in an attempt to balance things out, I have added an increase in overall cost for buying items & less income for selling to merchants, and other things, such as increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
+ - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot, because when you sell items manually, merchants will only have 10x the amount of septims as vanilla Skyrim, this is nice, but this won't be nearly enough for what you will find and *want* to sell, all that being said... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of septims. Additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less income for selling, along with other barter tweaks such as, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
 
 - **Random Loot Boxes are placed at several merchants across Skyrim, they are easy to find and they *can be* addictive.**
 
