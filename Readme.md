@@ -258,7 +258,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 -
 [5e]
 ## Mihail Monster and SiC Difficulty
-#### NOTE: Mihails creations hit harder, move faster and take more damage than other monsters, they are based PURELY on Skyrim vanilla stats and mechanics, but they are created somewhat Over Powered, as stated before, adept is a good start and then simply adjust your Fine-Tuned difficulty settings based on your lvl and personal preferences. 
+#### NOTE: Mihails creations hit harder, move faster and take more damage than other monsters, they are based PURELY on Skyrim vanilla stats and mechanics, but they are created somewhat Over Powered, as stated before, adept is a good start with default Fine-Tuned difficulty settings, then simply adjust from there.
 #### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, and then use Fine-Tuned from that point forward.
 #
 [5f]
