@@ -253,7 +253,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 -
 [5d]
 ## Fine-Tuned Challange
-#### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want a base difficultly challenge for dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example: 50%, 100%, 150%, 200%, and then adjust the Dmg intake and output sliders based on your preferences.
+#### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want a base difficultly challenge for dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example: 50%, 100%, 150%, 200%, then adjust the Dmg taken & inflicted sliders based on your preferences.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [5e]
