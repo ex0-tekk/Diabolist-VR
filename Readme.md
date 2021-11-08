@@ -122,7 +122,7 @@
 
 - **This mod list is a loot hoarders dream, and with that in mind, every new character you create starts with a 10,000lb carry weight ring.**
 
-- **Enemies will be stronger to start but not too over-powering, Fine-Tuned difficulty settings flow in both directions for hard-mode, easy-mode and everything in between, with a few *optional* cheat mods available for casual steam-rolling fun. Look for *QoL Enhancements, Difficulty Options, Cheats & Level Lists* on the left side of your MO2 window, you will find these cheat mods placed throughout this cateagory, right click them and 'visit on nexus' for more info.**
+- **Fine-Tuned Challenge mod difficulty settings replace the traditional Skyrim difficulty settings, they flow in both directions for hard-mode, easy-mode, and everything in between... with a few *optional* cheat mods available for casual steam-rolling fun. Look for *QoL Enhancements, Difficulty Options, Cheats & Level Lists* on the left side of your MO2 window, you will find these cheat mods placed throughout this cateagory, right click them and 'visit on nexus' for more info.**
 
 - **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful by coming across Legendary & Mythic items.**
 
@@ -132,7 +132,7 @@
 #
  - **MILD NSFW WARNING: (18+) This mod list uses CBBE Physics with no under-armor coverage for females, it also features bikini armor, this lack of female underwear can be changed in CBBE BodySlide tool from the MO2 dropdown menu if you want panties and bras in your playthrough, please post in the Discord DVR Support Chat room for help with this CBBE recompile.**
 #
-- **Staying true to the original Skyrim content, there are no major storyline addons or game-changing town/city/quest overhauls, however, there are still plenty of noticable changes, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
+- **DVR comes with a new game-changing mod called The Paarthurnax Quest Expansion, aside from this there are still plenty of noticable changes, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
 - **Diabolist VR aims to be a *simple to setup*, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding. I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
 #
