@@ -80,7 +80,7 @@
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final 2 0 D-R-R](https://user-images.githubusercontent.com/78007822/139607370-54db657a-af31-498c-acfb-b3474550df9a.jpg)
 -
-**Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo II with spear throwing mechanics, the Horadric Crafting Cube from Diablo II, the Imperius Solarion Spear and Tyrael Armor from Diablo III, increased overall population with hundreds of unique monsters, a sprawling dungeon called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
+**Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 6 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, the female Amazon character from Diablo II with spear throwing mechanics, the Horadric Crafting Cube from Diablo II, the Imperius Solarion Spear and Tyrael Armor from Diablo III, increased overall population with hundreds of unique monsters, a sprawling multiple dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 #
 [2]
 ## RECOMMENDED SPECS FOR DVR
