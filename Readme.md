@@ -132,7 +132,7 @@
 #
  - **MILD NSFW WARNING: (18+) This mod list uses CBBE Physics with no under-armor coverage for females, it also features bikini armor, this lack of female underwear can be changed in CBBE BodySlide tool from the MO2 dropdown menu if you want panties and bras in your playthrough, please post in the Discord DVR Support Chat room for help with this CBBE recompile.**
 #
-- **DVR comes with a new game-changing mod called The Paarthurnax Quest Expansion, aside from this there are still plenty of noticable changes, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
+- **DVR comes with a new game-changing mod called The Paarthurnax Quest Expansion, aside from this there are no other game-changing content overhauls, but DVR still hosts plenty of noticable changes, it's a large yet surprisingly straight-forward mod list, the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
 - **Diabolist VR aims to be a *simple to setup*, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding. I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
 #
