@@ -112,7 +112,7 @@
  - **Rare = 14%**
  - **Legendary = 4%**
  - **Mythic = 2%**
-#### NOTE: Regarding the Magic items having a higher drop rate than Common, the modern Diablo loot system has always worked this way... additionally, there is 16 random enchanted item variations on all tiers, EXCEPT common.
+#### NOTE: Regarding the Magic items having a higher drop rate than Common, the modern Diablo loot system has always worked this way... additionally, there is 16 randomly enchanted item variations on all tiers, EXCEPT common.
 #
  - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot, because when you sell items manually, merchants will only have 10x the amount of septims as vanilla Skyrim, this is nice, but this won't be nearly enough for what you will find and *want* to sell, all that being said... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of septims. Additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less income for selling, along with other barter tweaks such as, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
 
