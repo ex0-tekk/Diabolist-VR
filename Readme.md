@@ -128,7 +128,7 @@
 
 - **The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge.**
 
-- **VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods & .ini settings.**
+- **VR controller functionality, physics, visuals, performance and LOD are all enhanced & improved through various tools, mods & .ini settings.**
 #
  - **MILD NSFW WARNING: (18+) This mod list uses CBBE Physics with no under-armor coverage for females, it also features bikini armor, this lack of female underwear can be changed in CBBE BodySlide tool from the MO2 dropdown menu if you want panties and bras in your playthrough, please post in the Discord DVR Support Chat room for help with this CBBE recompile.**
 #
