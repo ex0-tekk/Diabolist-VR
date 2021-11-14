@@ -30,7 +30,7 @@
     
     - [5d] [Fine-Tuned Challange](#fine-tuned-challange)
     
-    - [5e] [Mihail Monsters RLE and SiC Difficulty](#mihail-monsters-rle-and-sic-difficulty)
+    - [5e] [Mihail Monsters - RLE - SiC](#mihail-monsters---rle---sic)
 
     - [5f] [Nethers Follower Framework](#nethers-follower-framework)
     
@@ -104,17 +104,16 @@
 #
 [3]
 ## MOD LIST FEATURES
-
-### DVR uses a 5 tier loot system inspired by Diablo 4.
-**% = item drop rate.**
- - **Common = 30%**
- - **Magic = 50%**
- - **Rare = 14%**
- - **Legendary = 4%**
- - **Mythic = 2%**
-#### NOTE: Regarding the Magic items having a higher drop rate than Common, the modern Diablo loot system has always worked this way... additionally, there is 16 randomly enchanted item variations on all tiers, EXCEPT common.
+### DVR uses a 4 tier loot system.
+### The % equals the item drop rate.
 #
- - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot, because when you sell items manually, merchants will only have 10x the amount of septims as vanilla Skyrim, this is nice, but this won't be nearly enough for what you will find and *want* to sell, all that being said... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of septims. Additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less income for selling, along with other barter tweaks such as, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
+ - **Vanilla, 0 or 1 Enchant = 30%**
+ - **Magic, 2 Enchants = 58%**
+ - **Legendary, 3 Enchants = 9%**
+ - **Mythic, 4 enchants = 3%**
+#### NOTE: There is 15 randomly enchanted item variations on all tiers, EXCEPT Vanilla.
+#
+ - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of where you are or the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot, because when you sell items manually, merchants will only have 10x the amount of gold as vanilla Skyrim, this is nice, but this won't be nearly enough for what you will find and *want* to sell, all that being said... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of gold. Additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less for selling, along with other barter tweaks such as, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
 
 - **Random Loot Boxes are placed at several merchants across Skyrim, they are easy to find and they *can be* addictive.**
 
@@ -189,7 +188,7 @@
 [4d]
 ## Wabbajack and DVR Install
 
-### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 600 MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
+### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
 
 - **Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases).** ⬅️️**This First Step Is Mandatory**
 
@@ -258,17 +257,23 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [5e]
-## Mihail Monsters RLE and SiC Difficulty
-#### NOTE: DVR uses Mihails Monsters, Skyrim Immersive Creatures and Rogue Like Encounters (RLE)
-#### RLE provides 3 Combat modules to pick from, and DVR uses the Clean Combat Module, which only alters the monsters combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all difficulty aspects.
-### RLE Features, Quoted from Nexus:
- - **"There is a growing list of special enemies in the world that have more than one form. By this, I mean when their health reaches zero, they change into a weaker or stronger version of themself.**
- - **"Dragons now have conjuration magic, disarming power words to combat weapon users, necromancy, and more breath weapons in the dlc areas. common dragon-like creatures also have a large assortment of abilities.**
- - **"Distributed throughout the world morrowind-style, are creature types that use enchanted arrows. These may be crafted or collected to be used at will. Their damage ratings are much higher than normal arrows, and many of them explode upon impact"**
- - **"Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight.
-Regular dragons get two or more dragonlings at 50% health. Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh(black daedroths wielding daedric greatswords) at 25%"**
- - **"Most creatures in the world, but very rarely humanoids, attack in arcs, hitting everything in those arcs. These were added to punish players who always group their party close together when fighting something large and tough. If a giant can hit everyone, for instance, with a single swing, it will. the same goes for most other creatures.**
- - **"All living creatures drop blood, hearts, spinal fluid, and flesh. Consumed by mortals, they do nothing, but when consumed by the cursed(vampires and werewolves), they restore health, stamina, and magicka,likewise, the cursed are now unable to recieve any benefits from non-meat based food as well as stamina, health, and magicka potions.**
+## Mihail Monsters - RLE - SiC
+#### NOTE: DVR uses a combination of Mihails Monsters with Rogue Like Encounters (RLE) and Skyrim Immersive Creatures (SiC).
+#### RLE provides 3 Combat modules to pick from, and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.
+### RLE Combat Features, Quoted from Nexus:
+ - **RAID ADDS: Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight, regular dragons get two or more dragonlings at 50% health, Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh (black daedroths wielding daedric greatswords) at 25%.**
+ - **DIRE ARROWS: Distributed throughout the world, morrowind-style, are creature types that use enchanted arrows... these may be crafted or collected to be used at will, their damage ratings are much higher than normal arrows, and many of them explode upon impact.**
+ - **MULTI-FORM ENEMIES: There is a growing list of special enemies in the world that have more than one form. By this, I mean when their health reaches zero, they change into a weaker or stronger version of themself. Some examples are Troll Pillages, Earth-bound Sinners, Grand Flame Atronachs, and certain Wisp Mothers.**
+ - **ROGUES: Distributed throughout the world are versions of intelligent enemies that can visibly stealth and perform poisonous backstab attacks.**
+ - **TRUE ARMOR: All creatures have armor/magic-resistence values added to their basic mesh relative to their mass and skin/fur thickness.**
+ - **CRITICAL HITS: Most non-humans now have a 1 in 10 chance to do critical damage with melee or ranged attacks.**
+ - **BLOCK-RUNNING, QUICK-DRAW, & FASTER MOVEMENT WHILE AIMING: Most humanoid enemies will frequently be pretty decent at positioning themselves in a fight and have these custom perks to mirror that.**
+ - **CLEAVES: Most creatures in the world, but very rarely humanoids, attack in arcs, hitting everything in those arcs. These were added to punish players who always group their party close together when fighting something large and tough. If a giant can hit everyone, for instance, with a single swing, it will, the same goes for most other creatures.**
+ - **THE BLOOD LUST: All living creatures drop blood, hearts, spinal fluid, and flesh, consumed by mortals, they do nothing, but when consumed by the cursed (vampires and werewolves), they restore health, stamina, and magicka. Likewise... the cursed are now unable to recieve any benefits from non-meat based food as well as stamina, health, and magicka potions... hearts can be consumed for stamina and health without being in werewolf form in order to still contribute to the leveling process.**
+ - **DRAGON COMBAT MODULE ADDITIONS: Dragons now have conjuration magic, disarming power words to combat weapon users, necromancy, and more breath weapons in the dlc areas. Common dragon-like creatures also have a large assortment of abilities.**
+ - **NO KILLMOVES: This is for fighting to the very bitter end every single time, uninterrupted by killmove animations.**
+ - **NUMIDIUM NORMAL WEAPON SOUNDS : This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.**
+ - **VANILLA BANDIT MAGIC: Don't like the new spells added?... well now you don't have to look at bandits using them!**
  - 
 #### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use Fine-Tuned from that point forward.
 #
