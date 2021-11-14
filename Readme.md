@@ -30,8 +30,8 @@
     
     - [5d] [Fine-Tuned Challange](#fine-tuned-challange)
     
-    - [5e] [Mihail Monster and SiC Difficulty](#mihail-monster-and-sic-difficulty)
-    
+    - [5e] [Mihail Monsters RLE and SiC Difficulty](#mihail-monsters-rle-and-sic-difficulty)
+
     - [5f] [Nethers Follower Framework](#nethers-follower-framework)
     
     - [5g] [Imaginator ENB Emulator](#imaginator-enb-emulator)
@@ -258,8 +258,18 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [5e]
-## Mihail Monster and SiC Difficulty
-#### NOTE: Mihails monsters hit harder, move faster and take more damage than other monsters, they are based PURELY on Skyrim vanilla stats and mechanics, but they are created somewhat Over Powered, as stated before, adept is a good start with default Fine-Tuned difficulty settings, then simply adjust from there.
+## Mihail Monsters RLE and SiC Difficulty
+#### NOTE: DVR uses Mihails Monsters, Skyrim Immersive Creatures and Rogue Like Encounters (RLE)
+#### RLE provides 3 Combat modules to pick from, and DVR uses the Clean Combat Module, which only alters the monsters combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all difficulty aspects.
+### RLE Features, Quoted from Nexus:
+ - **"There is a growing list of special enemies in the world that have more than one form. By this, I mean when their health reaches zero, they change into a weaker or stronger version of themself.**
+ - **"Dragons now have conjuration magic, disarming power words to combat weapon users, necromancy, and more breath weapons in the dlc areas. common dragon-like creatures also have a large assortment of abilities.**
+ - **"Distributed throughout the world morrowind-style, are creature types that use enchanted arrows. These may be crafted or collected to be used at will. Their damage ratings are much higher than normal arrows, and many of them explode upon impact"**
+ - **"Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight.
+Regular dragons get two or more dragonlings at 50% health. Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh(black daedroths wielding daedric greatswords) at 25%"**
+ - **"Most creatures in the world, but very rarely humanoids, attack in arcs, hitting everything in those arcs. These were added to punish players who always group their party close together when fighting something large and tough. If a giant can hit everyone, for instance, with a single swing, it will. the same goes for most other creatures.**
+ - **"All living creatures drop blood, hearts, spinal fluid, and flesh. Consumed by mortals, they do nothing, but when consumed by the cursed(vampires and werewolves), they restore health, stamina, and magicka,likewise, the cursed are now unable to recieve any benefits from non-meat based food as well as stamina, health, and magicka potions.**
+ - 
 #### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use Fine-Tuned from that point forward.
 #
 [5f]
