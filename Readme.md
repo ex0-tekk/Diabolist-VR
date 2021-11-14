@@ -259,7 +259,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 [5e]
 ## Mihail Monsters - RLE - SiC
 #### NOTE: DVR uses a combination of Mihails Monsters with Rogue Like Encounters (RLE) and Skyrim Immersive Creatures (SiC).
-#### RLE provides 3 Combat modules to pick from, and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.
+#### RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.
 ### RLE Combat Features, Quoted from Nexus:
  - **RAID ADDS: Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight, regular dragons get two or more dragonlings at 50% health, Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh (black daedroths wielding daedric greatswords) at 25%.**
  - **DIRE ARROWS: Distributed throughout the world, morrowind-style, are creature types that use enchanted arrows... these may be crafted or collected to be used at will, their damage ratings are much higher than normal arrows, and many of them explode upon impact.**
