@@ -411,6 +411,6 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Thanks for downloading Diabolist VR! 
 ### ...but most importantly...
 # Have fun monster hunting & loot hoarding!
-![Diabolist VR Wolf Right Final 2 0 D-R-R-Small](https://user-images.githubusercontent.com/78007822/139849187-bad8a216-0a47-47d6-a9ab-3611595678cd.jpg)
+![Diabolist VR Wolf Emojii](https://user-images.githubusercontent.com/78007822/141852247-bd767256-9d19-44e5-bd72-71be62877fcf.png)
 
 #### - Latest DVR Guide Update, 11/15/2021
