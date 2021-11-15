@@ -80,7 +80,17 @@
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final Pre-Official Beta](https://user-images.githubusercontent.com/78007822/141837801-461e4440-a51f-44a7-914d-aaf9a725a73c.png)
 -
-**Diabolist VR mod list pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes: a custom flame Diablo intro and music overhaul, authentic in-game Diablo font, a town portal spell called Voidgate, the female Amazon from Diablo II visually improved and now with spear throwing mechanics, the Horadric Crafting Cube from Diablo II, the Imperius Solarion Spear and Tyrael Armor from Diablo III, hundreds of unique monsters with increased population, aggro range and added abilities, a sprawling multiple dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
+#### Diabolist VR mod list pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes: 
+ - **A custom flame Diablo intro.**
+ - **Authentic in-game Diablo font.**
+ - **Intro and in-game music overhaul.**
+ - **A town portal spell called Voidgate.**
+ - **A classicly generous 4 tier loot system.**
+ - **The Horadric Crafting Cube from Diablo II.**
+ - **The female Amazon from Diablo II visually improved & with spear throwing mechanics.**
+ - **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
+ - **Hundreds of unique monsters with increased population, with more aggro range and combat abilities.**
+ - **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 #
 [2]
 ## RECOMMENDED SPECS FOR DVR
@@ -117,9 +127,11 @@
 
 - **Loot Boxes are placed at merchants across 7 different cities, they are easy to find and they *can be* addictive, but loot keys are not cheap.**
 
+- **This mod list is a loot hoarders dream, and with that in mind, every new character you create starts with a 10,000lb carry weight ring.**
+
 - **Transmuting lower quality items into a higher quality ones, or convert items of one type into another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) please read the authors nexus page linked here to see more details on how to do this.**
 
-- **This mod list is a loot hoarders dream, and with that in mind, every new character you create starts with a 10,000lb carry weight ring.**
+- **Voidgate is a spell every player starts with in DVR, you simply access it from your magic menu and cast a dual portal to step into, for example: you're dungeon crawling and you want to goto town to sell or buy... ok, so you cast the spell and a blue swirling portal opens, now you open your map and goto your desired location (DVR lets you teleport out from ANY dungeon via your map), once you're finished, you simply cast the spell again and a 2nd portal opens, walk into the swirling portal, this returns you back to the spot where you were previously adventuring.**
 
 - **Fine-Tuned Challenge mod difficulty settings replace the traditional Skyrim difficulty settings, they flow in both directions for hard-mode, easy-mode, and everything in between... with a few *optional* cheat mods available for casual steam-rolling fun. Look for *QoL Enhancements, Difficulty Options, Cheats & Level Lists* on the left side of your MO2 window, you will find these cheat mods placed throughout this cateagory, right click them and 'visit on nexus' for more info.**
 
