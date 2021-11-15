@@ -115,7 +115,7 @@
 #
  - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of where you are or the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot, because when you sell items manually, merchants will only have 10x the amount of gold as vanilla Skyrim, this is nice, but this won't be nearly enough for what you will find and *want* to sell, all that being said... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of gold. Additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less for selling, along with other barter tweaks such as, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
 
-- **Loot Boxes are placed at merchants across 7 different cities, they are easy to find and they *can be* addictive.**
+- **Loot Boxes are placed at merchants across 7 different cities, they are easy to find and they *can be* addictive, loot keys are NOT cheap.**
 
 - **Transmuting lower quality items into a higher quality ones, or convert items of one type into another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) please read the authors nexus page linked here to see more details on how to do this.**
 
