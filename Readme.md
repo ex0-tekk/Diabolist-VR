@@ -80,7 +80,7 @@
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final Pre-Official Beta](https://user-images.githubusercontent.com/78007822/141837801-461e4440-a51f-44a7-914d-aaf9a725a73c.png)
 -
-**Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, a town portal spell called Voidgate, the female Amazon character from Diablo II with spear throwing mechanics, the Horadric Crafting Cube from Diablo II, the Imperius Solarion Spear and Tyrael Armor from Diablo III, increased overall population with hundreds of unique monsters, a sprawling multiple dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
+**Diabolist VR pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods, which includes a custom flame intro and music overhaul, authentic Diablo in-game font, a town portal spell called Voidgate, the female Amazon character from Diablo II with spear throwing mechanics, the Horadric Crafting Cube from Diablo II, the Imperius Solarion Spear and Tyrael Armor from Diablo III, hundreds of unique monsters with increased aggro range, a sprawling multiple dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 #
 [2]
 ## RECOMMENDED SPECS FOR DVR
