@@ -269,7 +269,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
  - **CRITICAL HITS: Most non-humans now have a 1 in 10 chance to do critical damage with melee or ranged attacks.**
  - **BLOCK-RUNNING, QUICK-DRAW, & FASTER MOVEMENT WHILE AIMING: Most humanoid enemies will frequently be pretty decent at positioning themselves in a fight and have these custom perks to mirror that.**
  - **CLEAVES: Most creatures in the world, but very rarely humanoids, attack in arcs, hitting everything in those arcs. These were added to punish players who always group their party close together when fighting something large and tough. If a giant can hit everyone, for instance, with a single swing, it will, the same goes for most other creatures.**
- - **THE BLOOD LUST: All living creatures drop blood, hearts, spinal fluid, and flesh, consumed by mortals, they do nothing, but when consumed by the cursed (vampires and werewolves), they restore health, stamina, and magicka. Likewise... the cursed are now unable to recieve any benefits from non-meat based food as well as stamina, health, and magicka potions... hearts can be consumed for stamina and health without being in werewolf form in order to still contribute to the leveling process.**
+ - **BLOOD LUST: All living creatures drop blood, hearts, spinal fluid, and flesh, consumed by mortals, they do nothing, but when consumed by the cursed (vampires and werewolves), they restore health, stamina, and magicka. Likewise... the cursed are now unable to recieve any benefits from non-meat based food as well as stamina, health, and magicka potions... hearts can be consumed for stamina and health without being in werewolf form in order to still contribute to the leveling process.**
  - **DRAGON COMBAT MODULE ADDITIONS: Dragons now have conjuration magic, disarming power words to combat weapon users, necromancy, and more breath weapons in the dlc areas. Common dragon-like creatures also have a large assortment of abilities.**
  - **NO KILLMOVES: This is for fighting to the very bitter end every single time, uninterrupted by killmove animations.**
  - **NUMIDIUM NORMAL WEAPON SOUNDS : This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.**
@@ -390,4 +390,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![Diabolist VR Wolf Right Final 2 0 D-R-R-Small](https://user-images.githubusercontent.com/78007822/139849187-bad8a216-0a47-47d6-a9ab-3611595678cd.jpg)
 
-#### - Latest DVR Guide Update, 11/13/2021
+#### - Latest DVR Guide Update, 11/14/2021
