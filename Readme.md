@@ -260,20 +260,31 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ## Mihail Monsters - RLE - SiC
 #### NOTE: DVR uses a combination of Mihails Monsters with Rogue Like Encounters (RLE) and Skyrim Immersive Creatures (SiC).
 #### RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.
-### RLE Combat Features, Quoted from Nexus:
+### RLE Combat Features, Quoted From Nexus:
  - **RAID ADDS: Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight, regular dragons get two or more dragonlings at 50% health, Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh (black daedroths wielding daedric greatswords) at 25%.**
+
  - **DIRE ARROWS: Distributed throughout the world, morrowind-style, are creature types that use enchanted arrows... these may be crafted or collected to be used at will, their damage ratings are much higher than normal arrows, and many of them explode upon impact.**
+
  - **MULTI-FORM ENEMIES: There is a growing list of special enemies in the world that have more than one form. By this, I mean when their health reaches zero, they change into a weaker or stronger version of themself. Some examples are Troll Pillages, Earth-bound Sinners, Grand Flame Atronachs, and certain Wisp Mothers.**
+
  - **ROGUES: Distributed throughout the world are versions of intelligent enemies that can visibly stealth and perform poisonous backstab attacks.**
+
  - **TRUE ARMOR: All creatures have armor/magic-resistence values added to their basic mesh relative to their mass and skin/fur thickness.**
+
  - **CRITICAL HITS: Most non-humans now have a 1 in 10 chance to do critical damage with melee or ranged attacks.**
+
  - **BLOCK-RUNNING, QUICK-DRAW, & FASTER MOVEMENT WHILE AIMING: Most humanoid enemies will frequently be pretty decent at positioning themselves in a fight and have these custom perks to mirror that.**
+
  - **CLEAVES: Most creatures in the world, but very rarely humanoids, attack in arcs, hitting everything in those arcs. These were added to punish players who always group their party close together when fighting something large and tough. If a giant can hit everyone, for instance, with a single swing, it will, the same goes for most other creatures.**
+
  - **BLOOD LUST: All living creatures drop blood, hearts, spinal fluid, and flesh, consumed by mortals, they do nothing, but when consumed by the cursed (vampires and werewolves), they restore health, stamina, and magicka. Likewise... the cursed are now unable to recieve any benefits from non-meat based food as well as stamina, health, and magicka potions... hearts can be consumed for stamina and health without being in werewolf form in order to still contribute to the leveling process.**
+
  - **DRAGON COMBAT MODULE ADDITIONS: Dragons now have conjuration magic, disarming power words to combat weapon users, necromancy, and more breath weapons in the dlc areas. Common dragon-like creatures also have a large assortment of abilities.**
+
  - **NO KILLMOVES: This is for fighting to the very bitter end every single time, uninterrupted by killmove animations.**
+
  - **NUMIDIUM NORMAL WEAPON SOUNDS : This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.**
- - **VANILLA BANDIT MAGIC: Don't like the new spells added?... well now you don't have to look at bandits using them!**
+
 #### NOTE: Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use Fine-Tuned from that point forward.
 #
 [5f]
