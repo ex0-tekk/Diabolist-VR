@@ -274,7 +274,6 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
  - **NO KILLMOVES: This is for fighting to the very bitter end every single time, uninterrupted by killmove animations.**
  - **NUMIDIUM NORMAL WEAPON SOUNDS : This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.**
  - **VANILLA BANDIT MAGIC: Don't like the new spells added?... well now you don't have to look at bandits using them!**
- - 
 #### Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use Fine-Tuned from that point forward.
 #
 [5f]
