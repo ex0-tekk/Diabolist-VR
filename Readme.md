@@ -80,7 +80,8 @@
 ## INTRODUCTION
 ![Diabolist VR Wolf Right Final Pre-Official Beta](https://user-images.githubusercontent.com/78007822/141837801-461e4440-a51f-44a7-914d-aaf9a725a73c.png)
 -
-#### Diabolist VR mod list pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes: 
+### Diabolist VR mod list pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes:
+ 
  - **A custom flame Diablo intro.**
  - **Authentic in-game Diablo font.**
  - **Intro and in-game music overhaul.**
@@ -297,7 +298,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 
  - **NUMIDIUM NORMAL WEAPON SOUNDS : This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.**
 
-#### NOTE: Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use Fine-Tuned from that point forward.
+### NOTE: Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use Fine-Tuned from that point forward.
 #
 [5f]
 ## Nethers Follower Framework
