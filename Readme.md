@@ -78,7 +78,7 @@
 #
 [1]
 ## INTRODUCTION
-![Diabolist VR Wolf Right Final Pre-Official Beta](https://user-images.githubusercontent.com/78007822/141837801-461e4440-a51f-44a7-914d-aaf9a725a73c.png)
+![Diabolist VR Wolf Right Final](https://user-images.githubusercontent.com/78007822/141993023-b5a211c0-10a1-44b2-a227-4449a16a7435.jpg)
 -
 ### Diabolist VR mod list pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes:
  
