@@ -118,10 +118,10 @@
 ### DVR uses a 4 tier loot system.
 ### The % equals the item drop rate.
 #
- - **Vanilla, 0 or 1 Enchant = 30%**
- - **Magic, 2 Enchants = 58%**
- - **Legendary, 3 Enchants = 9%**
- - **Mythic, 4 enchants = 3%**
+ - **Vanilla, 0 or 1 Enchant = 43%**
+ - **Magic, 2 Enchants = 50%**
+ - **Legendary, 3 Enchants = 5%**
+ - **Mythic, 4 enchants = 2%**
 #### NOTE: There is 10 randomly enchanted item variations on all tiers, EXCEPT Vanilla.
 #
  - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of where you are or the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot, because when you sell items manually, merchants will only have 10x the amount of gold as vanilla Skyrim, this is nice, but this won't be nearly enough for what you will find and *want* to sell, all that being said... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of gold. Additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less for selling, along with other barter tweaks such as, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
