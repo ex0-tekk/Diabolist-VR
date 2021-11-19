@@ -83,6 +83,7 @@
  
  - **A custom flame Diablo intro.**
  - **Authentic in-game Diablo font.**
+ - **Solarion Spear intro replacer.**
  - **Intro and in-game music overhaul.**
  - **A town portal spell called Voidgate.**
  - **A classicly generous 4 tier loot system.**
@@ -411,4 +412,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![DVR new logo small](https://user-images.githubusercontent.com/78007822/142502550-8445fbed-ed2e-4c2c-a5d8-8c55cf970180.png)
 
-#### - Latest DVR Guide Update, 11/15/2021
+#### - Latest DVR Guide Update, 11/19/2021
