@@ -138,7 +138,7 @@
 
 - **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful by coming across Legendary & Mythic items.**
 
-- **The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge.**
+- **The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge, this now includes the newly released [Physical VR Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/58605/), ⬅️️ click to see mod details.**
 
 - **VR controller functionality, physics, visuals, performance and LOD are all enhanced & improved through various tools, mods & .ini settings.**
 #
