@@ -410,6 +410,6 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Thanks for downloading Diabolist VR! 
 ### ...but most importantly...
 # Have fun monster hunting & loot hoarding!
-![DVR Logo Final 3 Small 420x](https://user-images.githubusercontent.com/78007822/142716000-79fb9e03-e235-496b-9fae-b01551705549.png)
+![DVR Logo Final 3 Small 420x](https://user-images.githubusercontent.com/78007822/142716053-46f4e8de-7059-4ae6-abd3-6ecbe1598f4e.png)
 
 #### - Latest DVR Guide Update, 11/19/2021
