@@ -82,8 +82,8 @@
 ### Diabolist VR mod list pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes:
  
  - **A custom flame Diablo intro.**
- - **Authentic in-game Diablo font.**
  - **Solarion Spear intro replacer.**
+ - **Authentic in-game Diablo font.**
  - **Intro and in-game music overhaul.**
  - **A town portal spell called Voidgate.**
  - **A classicly generous 4 tier loot system.**
