@@ -79,7 +79,7 @@
 [1]
 ## INTRODUCTION
 ![DVR Logo Final New](https://user-images.githubusercontent.com/78007822/142839162-d29e420d-c26c-44e2-8adb-9a6dddf3568d.png)
-### Diabolist VR mod list pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes:
+### Diabolist VR is a theme-based mod list that pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes:
  
  - **A custom flame Diablo intro.**
  - **Solarion Spear intro replacer.**
