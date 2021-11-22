@@ -308,7 +308,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ## Imaginator ENB Emulator
 ![Imaginator Settings](https://user-images.githubusercontent.com/78007822/139812380-f525b3de-92a9-4744-9a97-5c750cd55ee5.png)
 -
-#### NOTE: It is CRITICAL to have Sunlight and Sky at -2, ⬇️ these settings remove excess surface and snow glare.
+#### NOTE: It is HIGHLY RECOMMENDED to have Sunlight and Sky at -2, ⬇️ these settings remove excess surface and snow glare.
 ![Imaginator Settings 2](https://user-images.githubusercontent.com/78007822/139812436-f2dbf65d-a753-4d06-9a47-24266703d9c4.png)
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
 #### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
