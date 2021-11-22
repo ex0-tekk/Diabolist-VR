@@ -78,7 +78,7 @@
 #
 [1]
 ## INTRODUCTION
-![DVR Logo Final Medium 800x](https://user-images.githubusercontent.com/78007822/142714250-2fd878d1-678d-49e4-b804-e13363ff8e98.png)
+![DVR Logo Final New](https://user-images.githubusercontent.com/78007822/142839162-d29e420d-c26c-44e2-8adb-9a6dddf3568d.png)
 ### Diabolist VR mod list pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s, by adding 7 Diablo inspired mods and so much more, this includes:
  
  - **A custom flame Diablo intro.**
@@ -410,6 +410,6 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Thanks for downloading Diabolist VR! 
 ### ...but most importantly...
 # Have fun monster hunting & loot hoarding!
-![DVR Logo Final 3 Small 420x](https://user-images.githubusercontent.com/78007822/142716053-46f4e8de-7059-4ae6-abd3-6ecbe1598f4e.png)
+![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 11/20/2021
+#### - Latest DVR Guide Update, 11/22/2021
