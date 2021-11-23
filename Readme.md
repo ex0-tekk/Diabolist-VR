@@ -56,7 +56,7 @@
     
     - [5q] [Unread Books Glow](#unread-books-glow)
 
-    - [5s] [VRIK](#vrik)
+    - [5r] [VRIK](#vrik)
      
     - [5s] [Wonders of Weather](#wonders-of-weather)
 
