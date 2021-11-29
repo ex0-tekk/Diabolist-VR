@@ -49,18 +49,16 @@
     - [5m] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
 
     - [5n] [Timing is Everything](#timing-is-everything)
-
-    - [5o] [True Hunter](#true-hunter)
     
-    - [5p] [True Spear Combat](#true-spear-combat)
+    - [5o] [True Spear Combat](#true-spear-combat)
     
-    - [5q] [Unread Books Glow](#unread-books-glow)
+    - [5p] [Unread Books Glow](#unread-books-glow)
 
-    - [5r] [VRIK](#vrik)
+    - [5q] [VRIK](#vrik)
      
-    - [5s] [Wonders of Weather](#wonders-of-weather)
+    - [5r] [Wonders of Weather](#wonders-of-weather)
 
-    - [5t] [Ye Old MCM Menu](#ye-old-mcm-menu)
+    - [5s] [Ye Old MCM Menu](#ye-old-mcm-menu)
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
@@ -350,31 +348,26 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![Timing is Everything Settings](https://user-images.githubusercontent.com/78007822/139827581-999b3eb6-4e8e-4f70-be62-7b269bd88fe3.png)
 -
 [5o]
-## True Hunter
-#### NOTE: This mod reduces or increases all animal clutter, Higher % = potential performance impact.
-![True Hunter Settings](https://user-images.githubusercontent.com/78007822/139829124-a1184205-3602-4d99-8026-5531a5eba26c.png)
--
-[5p]
 ## True Spear Combat
 #### NOTE: This mod is ONLY used for NPC spear throwing, it is HIGHLY RECOMMENED to DISABLE ALL player options, including the random scripting, as seen in this screenshot.
 ![True Spear Combat](https://user-images.githubusercontent.com/78007822/139837809-576f44f6-5945-423a-8b81-50eeefcf4946.png)
 -
-[5q]
+[5p]
 ## Unread Books Glow
 #### NOTE: In general, plain books glow is not suggested, but it's great for book collecting.
 ![Unread Books Glow](https://user-images.githubusercontent.com/78007822/139838085-27dec7d9-bed1-49e9-9e42-9665622dcc9c.png)
 -
-[5r]
+[5q]
 ## VRIK
 #### NOTE: It is CRITICAL to DISABLE 'Adjust Held Weapons Position', otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
 ![VRIK Settings](https://user-images.githubusercontent.com/78007822/140565481-881ed992-5062-476f-bdce-4dd9af9b349d.png)
 -
-[5s]
+[5r]
 ## Wonders of Weather
 #### NOTE: These settings increase overall rain performance & fantasy visuals.
 ![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
 -
-[5t]
+[5s]
 ## Ye Old MCM Menu
 #### NOTE: Use this mod to backup all mod menu configs you have set... but first, use the BACKUP MOD SELECTION option and choose the mods you want saved, this is very helpful for loading all of your mod settings for multiple playthroughs.
 ![Ye'Old MCM Menu](https://user-images.githubusercontent.com/78007822/139839346-e83e7665-90b1-462a-bd14-24252eb0c2f5.png)
@@ -412,4 +405,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 11/22/2021
+#### - Latest DVR Guide Update, 11/29/2021
