@@ -84,7 +84,7 @@
  - **Authentic in-game Diablo font.**
  - **Intro and in-game music overhaul.**
  - **A town portal spell called Voidgate.**
- - **A classicly generous 4 tier loot system.**
+ - **A classicly generous 3 tier loot system.**
  - **The Horadric Crafting Cube from Diablo II.**
  - **The female Amazon from Diablo II visually improved & with spear throwing mechanics.**
  - **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
@@ -113,14 +113,13 @@
 #
 [3]
 ## MOD LIST FEATURES
-### DVR uses a 4 tier loot system.
-### The % equals the item drop rate.
+### DVR uses a 3 tier STAR Halgaris RPG loot system.
 #
- - **Vanilla, 0 or 1 Enchant = 43%**
- - **Magic, 2 Enchants = 50%**
- - **Legendary, 3 Enchants = 5%**
- - **Mythic, 4 enchants = 2%**
-#### NOTE: There is 10 randomly enchanted item variations on all tiers, EXCEPT Vanilla.
+ - **No Star, No enchant (Vanilla) = 15%** NOTE: _Some_ vanilla gear and quest items still have 1 or more enchants with No Star.
+ - **1 Star, 1 Enchant = 67%**
+ - **2 Stars, 2 Enchants = 15%**
+ - **3 Stars, 3 enchants = 3%**
+#### NOTE: There is 10 randomly enchanted item variations on all tiers, EXCEPT No Star, No Enchant (Vanilla).
 #
  - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of where you are or the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot and don't always want to travel to sell... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of gold. Additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less for selling, along with other barter tweaks such as, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
 
@@ -405,4 +404,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 11/29/2021
+#### - Latest DVR Guide Update, 11/30/2021
