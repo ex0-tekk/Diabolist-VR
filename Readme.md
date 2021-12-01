@@ -308,7 +308,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ## Imaginator ENB Emulator
 ![Imaginator Settings](https://user-images.githubusercontent.com/78007822/139812380-f525b3de-92a9-4744-9a97-5c750cd55ee5.png)
 -
-#### NOTE: It is HIGHLY RECOMMENDED to have Sunlight at -2 or -3, ⬇️ these settings remove excess surface and snow glare, -2 Sky is just my own preference but not required to reduce glare.
+#### NOTE: It is HIGHLY RECOMMENDED to have Sunlight at -2, ⬇️ these settings remove excess surface and snow glare, -2 Sky is just my own preference but not required to reduce glare.
 ![Imaginator Settings 2](https://user-images.githubusercontent.com/78007822/139812436-f2dbf65d-a753-4d06-9a47-24266703d9c4.png)
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
 #### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
@@ -320,7 +320,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 -
 [5i]
 ## Nemesis PCEA
-#### NOTE: These animations are HIGHLY RECOMMENDED for the Player and NPC.
+#### NOTE: These animations are Recommended for the Player and NPC.
 ![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
 -
 [5j]
@@ -412,4 +412,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 11/30/2021
+#### - Latest DVR Guide Update, 12/01/2021
