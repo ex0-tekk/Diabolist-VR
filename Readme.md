@@ -49,16 +49,18 @@
     - [5m] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
 
     - [5n] [Timing is Everything](#timing-is-everything)
-    
-    - [5o] [True Spear Combat](#true-spear-combat)
-    
-    - [5p] [Unread Books Glow](#unread-books-glow)
 
-    - [5q] [VRIK](#vrik)
+    - [5o] [True Hunter](#true-hunter)
+    
+    - [5p] [True Spear Combat](#true-spear-combat)
+    
+    - [5q] [Unread Books Glow](#unread-books-glow)
+
+    - [5r] [VRIK](#vrik)
      
-    - [5r] [Wonders of Weather](#wonders-of-weather)
+    - [5s] [Wonders of Weather](#wonders-of-weather)
 
-    - [5s] [Ye Old MCM Menu](#ye-old-mcm-menu)
+    - [5t] [Ye Old MCM Menu](#ye-old-mcm-menu)
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
@@ -113,12 +115,12 @@
 #
 [3]
 ## MOD LIST FEATURES
-### DVR uses a 3 tier STAR Halgaris RPG loot system.
+### DVR uses a 3 tier STAR Halgaris RPG loot system, % = Drop Rate.
 #
- - **No Star, No enchant (Vanilla) = 15%** - NOTE: _Some_ vanilla gear and quest items still have 1 or more enchants with No Star.
- - **1 Star, 1 Enchant = 67%**
- - **2 Stars, 2 Enchants = 15%**
- - **3 Stars, 3 enchants = 3%**
+ - **No Star = No enchant (Vanilla) = 15%** - NOTE: _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star.
+ - **1 Star = 1 Enchant = 67%**
+ - **2 Stars = 2 Enchants = 15%**
+ - **3 Stars = 3 enchants = 3%**
 #### NOTE: There is 10 randomly enchanted item variations on all tiers, EXCEPT No Star, No Enchant (Vanilla).
 #
  - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of where you are or the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot and don't always want to travel to sell... making income in DVR will NOT be an issue regardless of you or your followers selling items, due to the treasure chests, bosses and dragons also providing plenty of gold. Additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less for selling, along with other barter tweaks such as, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
@@ -347,26 +349,31 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![Timing is Everything Settings](https://user-images.githubusercontent.com/78007822/139827581-999b3eb6-4e8e-4f70-be62-7b269bd88fe3.png)
 -
 [5o]
+## True Hunter
+#### NOTE: This mod will increase ambient creatue population (rabbits, bears, mudcrabs, etc) which in turn, will increase RLE monster appearences you might encounter and might result in a performance impact, you can use default settings, or use the lower performance friendly numbers in the screenshot provided.
+![True Hunter Settings](https://user-images.githubusercontent.com/78007822/144154355-9ddb7717-335f-4b91-a719-eb2df029ec36.png)
+-
+[5p]
 ## True Spear Combat
 #### NOTE: This mod is ONLY used for NPC spear throwing, it is HIGHLY RECOMMENED to DISABLE ALL player options, including the random scripting, as seen in this screenshot.
 ![True Spear Combat](https://user-images.githubusercontent.com/78007822/139837809-576f44f6-5945-423a-8b81-50eeefcf4946.png)
 -
-[5p]
+[5q]
 ## Unread Books Glow
 #### NOTE: In general, plain books glow is not suggested, but it's great for book collecting.
 ![Unread Books Glow](https://user-images.githubusercontent.com/78007822/139838085-27dec7d9-bed1-49e9-9e42-9665622dcc9c.png)
 -
-[5q]
+[5r]
 ## VRIK
 #### NOTE: It is CRITICAL to DISABLE 'Adjust Held Weapons Position', otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
 ![VRIK Settings](https://user-images.githubusercontent.com/78007822/140565481-881ed992-5062-476f-bdce-4dd9af9b349d.png)
 -
-[5r]
+[5s]
 ## Wonders of Weather
 #### NOTE: These settings increase overall rain performance & fantasy visuals.
 ![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
 -
-[5s]
+[5t]
 ## Ye Old MCM Menu
 #### NOTE: Use this mod to backup all mod menu configs you have set... but first, use the BACKUP MOD SELECTION option and choose the mods you want saved, this is very helpful for loading all of your mod settings for multiple playthroughs.
 ![Ye'Old MCM Menu](https://user-images.githubusercontent.com/78007822/139839346-e83e7665-90b1-462a-bd14-24252eb0c2f5.png)
