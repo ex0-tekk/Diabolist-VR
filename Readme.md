@@ -115,9 +115,10 @@
 #
 [3]
 ## MOD LIST FEATURES
-### DVR uses a 3 tier STAR Halgaris RPG loot system, % = Drop Rate.
+### To save space on the in-game loot card, DVR now uses a 3 tier STAR Halgaris RPG loot system. 
+### % = Drop Rate.
 #
- - **No Star = No enchant (Vanilla) = 15%** - NOTE: _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star.
+ - **No Star = No enchant (Vanilla) = 15%** - NOTE: _Some_ vanilla gear and quest items still have 1 or more enchants with No Star.
  - **1 Star = 1 Enchant = 67%**
  - **2 Stars = 2 Enchants = 15%**
  - **3 Stars = 3 enchants = 3%**
