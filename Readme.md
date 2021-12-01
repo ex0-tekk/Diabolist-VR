@@ -350,7 +350,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 -
 [5o]
 ## True Hunter
-#### NOTE: This mod will increase ambient creatue population (rabbits, bears, mudcrabs, etc) which in turn, will increase RLE monster appearences you might encounter and might result in a performance impact, you can use default settings, or use the lower performance friendly numbers in the screenshot provided.
+#### NOTE: This mod will increase ambient creatue population (rabbits, bears, mudcrabs, etc) which in turn will increase RLE monster appearances you might encounter, this may result in a performance impact, you can use default settings, or try the lower performance friendly numbers in the screenshot provided.
 ![True Hunter Settings](https://user-images.githubusercontent.com/78007822/144154355-9ddb7717-335f-4b91-a719-eb2df029ec36.png)
 -
 [5p]
