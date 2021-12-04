@@ -386,7 +386,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 #
 [10]
 # DO NOT SORT DVR WITH LOOT
-#### NOTE: DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. DVR modlist support is EXCLUSIVE to the modlist provided, that being said, _If_ you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
+#### NOTE: DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. DVR support is EXCLUSIVE to the modlist provided, that being said, _If_ you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/139843104-bfc25312-5f4c-4fed-9919-fb064dbef888.png)
 -
 [11]
