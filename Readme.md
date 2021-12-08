@@ -30,7 +30,7 @@
     
     - [5d] [Fine-Tuned Challange](#fine-tuned-challange)
     
-    - [5e] [Mihail Monsters - RLE - SiC](#mihail-monsters---rle---sic)
+    - [5e] [RLE - SiC - Mihail Monsters](#rle---sic---mihail-monsters)
 
     - [5f] [Nethers Follower Framework](#nethers-follower-framework)
     
@@ -266,8 +266,8 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [5e]
-## Mihail Monsters - RLE - SiC
-#### NOTE: DVR uses a combination of Mihails Monsters with Rogue Like Encounters (RLE) and Skyrim Immersive Creatures (SiC).
+## RLE - SiC - Mihail Monsters
+#### NOTE: DVR uses 2 monster mods at it's core, Rogue Like Encounters, (RLE) Skyrim Immersive Creatures (SiC) and _some_ Mihail Monsters.
 #### RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.
 ### RLE Combat Features, Quoted From Nexus:
  - **RAID ADDS: Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight, regular dragons get two or more dragonlings at 50% health, Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh (black daedroths wielding daedric greatswords) at 25%.**
