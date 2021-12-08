@@ -304,7 +304,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ## Imaginator ENB Emulator
 ![Imaginator Settings](https://user-images.githubusercontent.com/78007822/139812380-f525b3de-92a9-4744-9a97-5c750cd55ee5.png)
 -
-#### NOTE: It is HIGHLY RECOMMENDED to have Sunlight at -1 or -2, ⬇️ these settings remove excess surface and snow glare, -2 Sky is just my own preference but not required to reduce glare.
+#### NOTE: It is HIGHLY RECOMMENDED to have Sunlight at -1 or -2, ⬇️ this setting removes excess surface and snow glare, -2 Sky is just my own preference but not required to reduce glare.
 ![Imaginator Settings 2](https://user-images.githubusercontent.com/78007822/139812436-f2dbf65d-a753-4d06-9a47-24266703d9c4.png)
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
 #### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
@@ -398,4 +398,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 12/04/2021
+#### - Latest DVR Guide Update, 12/08/2021
