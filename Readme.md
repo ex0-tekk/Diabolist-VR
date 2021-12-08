@@ -267,7 +267,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 -
 [5e]
 ## RLE - SiC - Mihail Monsters
-#### NOTE: DVR uses 2 monster mods at it's core, Rogue Like Encounters, (RLE) Skyrim Immersive Creatures (SiC) and _some_ Mihail Monsters.
+#### NOTE: DVR uses several monster mods at its core: Rogue Like Encounters, (RLE) Skyrim Immersive Creatures (SiC), Scary Night Spawner, Creepy Zombies, and _some_ individual Mihail Monsters, additionally, Skyrim Underground has it's own set of monsters.
 #### RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.
 ### RLE Combat Features, Quoted From Nexus:
  - **RAID ADDS: Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight, regular dragons get two or more dragonlings at 50% health, Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh (black daedroths wielding daedric greatswords) at 25%.**
