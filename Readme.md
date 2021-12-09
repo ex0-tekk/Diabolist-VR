@@ -20,7 +20,7 @@
     
     - [4f] [CPU Threads](#cpu-threads)
     
-- **[5] [Recommended MCM Settings](#recommended-mcm-settings)**
+- **[5] [Recommended and Critical MCM Settings](#recommended-and-critical-mcm-settings)**
 
     - [5a] [Be Seated](#be-seated)
     
@@ -241,7 +241,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 ### **You can close the SkyrimVR ini Tweaker now.**
 #
 [5]
-# RECOMMENDED MCM SETTINGS
+# RECOMMENDED AND CRITICAL MCM SETTINGS
 
 #### Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is HIGHLY RECOMMENDED to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
 #
