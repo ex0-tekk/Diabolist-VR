@@ -204,7 +204,7 @@
 
 - **Next, download [DiabolistVR](https://drive.google.com/drive/folders/100GIvYYJOzKz9Tdvt_K7wzdvKiEDj8Kx?usp=sharing).**
 
-- **Make a folder on any SSD drive with space and label it DVR.**
+- **Make a folder on the SSD drive you'll be using and label it DVR.**
 
 - **IMPORTANT REMINDER: -DO NOT- install ANYthing into your C:/Program Files or C:/Program Files (x86) folders, due to admin restrictions.**
 
