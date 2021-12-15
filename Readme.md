@@ -56,8 +56,6 @@
      
     - [5q] [Wonders of Weather](#wonders-of-weather)
 
-    - [5r] [Ye Old MCM Menu](#ye-old-mcm-menu)
-
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
 - **[7] [TAA On or Off](#taa-on-or-off)**
@@ -361,11 +359,6 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 #### NOTE: These settings increase overall rain performance & fantasy visuals.
 ![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
 -
-[5r]
-## Ye Old MCM Menu
-#### NOTE: Use this mod to backup all mod menu configs you have set... but first, use the BACKUP MOD SELECTION option and choose the mods you want saved, this is very helpful for loading all of your mod settings for multiple playthroughs.
-![Ye'Old MCM Menu](https://user-images.githubusercontent.com/78007822/139839346-e83e7665-90b1-462a-bd14-24252eb0c2f5.png)
--
 [6]
 # The Sharper Eye
 #### NOTE: With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and placed inside your root SkyrimVR folder, please click the link provided and read the mod page for more info.
@@ -399,4 +392,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 12/08/2021
+#### - Latest DVR Guide Update, 12/14/2021
