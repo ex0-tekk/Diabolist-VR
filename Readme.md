@@ -141,7 +141,7 @@
 #
 - **DVR comes with a new game-changing mod called [The Paarthurnax Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711), aside from this there are no other storyline content overhauls, while being a large yet surprisingly straight-forward mod list, DVR still hosts plenty of noticable changes, but the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
-- **Diabolist VR aims to be a *simple to setup*, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding. I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
+- **Diabolist VR aims to be performance friendly as a *simple to setup*, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding. I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
 #
 [4]
 ## GAMEPLAY PREP
@@ -392,4 +392,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 12/14/2021
+#### - Latest DVR Guide Update, 12/24/2021
