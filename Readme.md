@@ -198,15 +198,15 @@
 
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
 
-- **Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases).** ⬅️️**This First Step Is Mandatory**
+- **Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases).**
 
 - **Next, download [DiabolistVR](https://drive.google.com/drive/folders/100GIvYYJOzKz9Tdvt_K7wzdvKiEDj8Kx?usp=sharing).**
 
-- **Make a folder on the SSD drive you'll be using and label it DVR.**
+- **Next, make a folder on the SSD drive you'll be using and label it DVR.**
 
 - **IMPORTANT REMINDER: -DO NOT- install ANYthing into your C:/Program Files or C:/Program Files (x86) folders, due to admin restrictions.**
 
-- **Open the Wabbajack file you downloaded to begin the install process, on the bottom right, select the DVR folder you created & the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
+- **Download Diabolist VR from the Wabbajack VR section to begin the install process, once that initial download is done a new Wabbajack window will pop up, on the bottom right select the Install Location ( 3 Dots ... ) select the DVR folder you created, the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
 
 - **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.8.4.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading 600 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
 
