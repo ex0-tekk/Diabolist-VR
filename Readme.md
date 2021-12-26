@@ -93,7 +93,7 @@
 
 **This mod list was developed ON and FOR a modern higher-end PC.**
 
-**The initial wabbajack setup file is 3.53 GB & the finished install folder size is 99.5 GB, for a total size of roughly 104 GB, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
+**This modlist has a total size of roughly 100 GB once it's fully installed, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
 
 **I FOCUSED HEAVILY ON OPTIMIZING DVR during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMDs on higher-end modern PCs.**
 
