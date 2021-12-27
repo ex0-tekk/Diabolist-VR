@@ -72,8 +72,7 @@
 #
 [1]
 ## INTRODUCTION
-![DVR Logo Final New 800x](https://user-images.githubusercontent.com/78007822/145327653-ebdda405-f8bd-44bd-ac60-cbffd9637bda.png)
-
+![DVR Logo Final New 16-9 1080p](https://user-images.githubusercontent.com/78007822/147439146-04f82b08-81da-48a0-9c16-ba6f470ff093.png)
 ### Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s by adding 7 Diablo inspired mods and so much more, this includes:
  
  - **A custom flame Diablo intro.**
