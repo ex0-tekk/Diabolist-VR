@@ -155,7 +155,7 @@
  -
 ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
  -
-![v3-420](https://user-images.githubusercontent.com/78007822/147438086-021b7bc3-3d53-45f0-bb2d-4d9a21afe27a.png)
+![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
  - **It is also HIGHLY RECOMMENDED to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
  - **Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.**
  #
@@ -401,4 +401,4 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 12/25/2021
+#### - Latest DVR Guide Update, 12/26/2021
