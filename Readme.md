@@ -230,7 +230,7 @@
 ### **NOTE**: **Windows 11 users can ONLY USE MO2 2.4.2 or later**
 
 **Look inside the DVR folder & open ModOrganizer.exe (2.4.2)
-Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)**
+Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)**
 ### This configuration window will pop up.⬇️
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 
