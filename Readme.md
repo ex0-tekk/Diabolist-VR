@@ -144,11 +144,12 @@
 #
 [4]
 ## GAMEPLAY PREP
-***Here I will be using two terms over and over.**
-**HIGHLY RECOMMENDED and CRITICAL**
-**HR is IMPORTANT, but also with flexibility towards other configurations if the user desires.**
-**CR is MANDATORY, to make the game run properly, or as DVR is Intended to run, in all aspects.**
-**PLEASE pay attention to these words thoughout the rest of this guide.**
+### **Here I will be using two terms over and over.**
+### **HIGHLY RECOMMENDED and CRITICAL**
+### **HR is IMPORTANT, but also with flexibility towards other configurations if the user desires.**
+### **CR is MANDATORY, to make the game run properly, or as DVR is Intended to run, in all aspects.**
+### **PLEASE pay attention to these words thoughout the rest of this guide.**
+#
 [4a]
 ### Windows Antivirus and Firewall Settings
  - **It's HIGHLY RECOMMENDED to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings.**
@@ -211,13 +212,11 @@
 
 - **Download and install the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases).**
 
-- **Next, download [DiabolistVR](https://drive.google.com/drive/folders/100GIvYYJOzKz9Tdvt_K7wzdvKiEDj8Kx?usp=sharing).**
-
 - **Next, make a folder on the SSD drive you'll be using and label it DVR.**
 
 - **IMPORTANT REMINDER: -DO NOT- install ANYthing into your C:/Program Files or C:/Program Files (x86) folders, due to admin restrictions.**
 
-- **Download Diabolist VR from the Wabbajack VR section to begin the install process, once that initial download is done a new Wabbajack window will pop up, on the bottom right select the Install Location ( 3 Dots ... ) select the DVR folder you created, the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
+- **Download Diabolist VR from the Wabbajack VR drop down section to begin the install process, once that initial download is done a new Wabbajack window will pop up, on the bottom right select the Install Location ( 3 Dots ... ) select the DVR folder you created, the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
 
 - **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.8.4.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading 600 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
 
