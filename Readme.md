@@ -133,7 +133,7 @@
 
 - **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.**
 
-- **The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge, this now includes the newly released [Physical VR Dodge](https://www.nexusmods.com/skyrimspecialedition/mods/58605/), ⬅️️ click to see mod details.**
+- **The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge.
 
 - **VR controller functionality, physics, visuals, performance and LOD are all enhanced & improved through various tools, mods & .ini settings.**
 #
@@ -156,9 +156,9 @@
 ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
  -
 ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
+#
  - **It is also HIGHLY RECOMMENDED to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
  - **Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.**
- #
 ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
  - ### **When the Windows firewall options pop up, follow these steps below:**
  - **1. Click Inbound Rules**
