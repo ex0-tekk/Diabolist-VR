@@ -102,7 +102,7 @@
 ### DVR is developed and tested with this HMD and PC setup:
 
  - **Oculus Rift S**
- - **Win 10 ver. 1909 Fully Updated**
+ - **Win 10 ver.20H2 Fully Updated**
  - **Ryzen 7 3800x AMD Processor**
  - **32 Gigs of G-Skill 14-34 Low Latency RAM**
  - **Kingston NVMe M.2 1tb SSD**
