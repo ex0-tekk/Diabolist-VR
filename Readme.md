@@ -144,7 +144,7 @@
 #
 [4]
 ## GAMEPLAY PREP
-### **Here I will be using two terms over and over.**
+### **From here forward I will be using 2 terms over and over.**
 ### **HIGHLY RECOMMENDED  and  CRITICAL.**
 ### **HR is IMPORTANT, but also with flexibility towards other configurations if the user desires.**
 ### **CR is MANDATORY, to make the game run properly, or as DVR is Intended to run, in all aspects.**
