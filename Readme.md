@@ -8,7 +8,7 @@
 
 - **[4] [Gameplay Prep](#gameplay-prep)**
 
-    - [4a] [Antivirus and Windows Firewall Settings](#antivirus-and-windows-firewall-settings)
+    - [4a] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
 
     - [4b] [Windows Paging File Size](#windows-paging-file-size)
 
@@ -146,7 +146,7 @@
 [4]
 ## GAMEPLAY PREP
 [4a]
-### Antivirus and Windows Firewall Settings
+### Windows Antivirus and Firewall Settings
  - **It's HIGHLY RECOMMENDED to add SkyrimVR.exe and the Steam folder itself to your Windows Antivirus Exclusion settings, you may also want to add the ModOrganizer.exe file.**
 **Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
 **Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to pick the Steam folder and ModOrganizer.exe.**
