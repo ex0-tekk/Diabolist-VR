@@ -91,9 +91,9 @@
 [2]
 ## RECOMMENDED SPECS FOR DVR
 
-**This mod list was developed ON and FOR a modern higher-end PC.**
+**This modlist was developed ON and FOR a modern higher-end PC.**
 
-**This modlist has a total size of roughly 100 GB once it's fully installed, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
+**It has a total size of roughly 100 GB once it's fully installed, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
 
 **I FOCUSED HEAVILY ON OPTIMIZING DVR during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMDs on higher-end modern PCs.**
 
