@@ -8,7 +8,7 @@
 
 - **[4] [Gameplay Prep](#gameplay-prep)**
 
-    - [4a] [Windows Firewall Settings](#windows-firewall-settings)
+    - [4a] [Antivirus and Windows Firewall Settings](#antivirus-and-windows-firewall-settings)
 
     - [4b] [Windows Paging File Size](#windows-paging-file-size)
 
@@ -146,10 +146,19 @@
 [4]
 ## GAMEPLAY PREP
 [4a]
-### Windows Firewall Settings
- - **It is HIGHLY RECOMMENDED to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
+### Antivirus and Windows Firewall Settings
+ - **It's HIGHLY RECOMMENDED to add SkyrimVR.exe and the Steam folder itself to your Windows Antivirus Exclusion settings, you may also want to add the ModOrganizer.exe file.**
+**Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
+**Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to pick the Steam folder and ModOrganizer.exe.**
+ #
+![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
+ -
+![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
+ -
+![v3-420](https://user-images.githubusercontent.com/78007822/147438086-021b7bc3-3d53-45f0-bb2d-4d9a21afe27a.png)
+ - **It is also HIGHLY RECOMMENDED to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
  - **Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.**
- 
+ #
 ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
  - ### **When the Windows firewall options pop up, follow these steps below:**
  - **1. Click Inbound Rules**
