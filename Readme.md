@@ -252,6 +252,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # RECOMMENDED AND CRITICAL MCM SETTINGS
 
 #### Load the game through SKSE & create a new character, once you spawn in, it is HIGHLY RECOMMENDED to use these MCM settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
+#### To adjust these settings a bit easier during initial setup, open SteamVR View window, then block your VR sensor inside the VR headset with something to keep it active, and then just look at the VR window on your desktop while you adjust these settings, but this might be more difficult than just having the headset on and lifting it up to peek at your screen while you make changes, whatever is easier for you.
 #
 [5a]
 ## Be Seated
