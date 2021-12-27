@@ -147,7 +147,7 @@
 ## GAMEPLAY PREP
 [4a]
 ### Windows Antivirus and Firewall Settings
- - **It's HIGHLY RECOMMENDED to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings, you may also want to add the ModOrganizer.exe file.**
+ - **It's HIGHLY RECOMMENDED to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings.**
 **Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
 **Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to pick the Steam folder and ModOrganizer.exe.**
 
