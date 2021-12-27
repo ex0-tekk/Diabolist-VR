@@ -133,7 +133,7 @@
 
 - **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.**
 
-- **The latest must-have popular VR Quality of Life mods have all been added and fully updated to my knowledge.
+- **Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated to my knowledge.**
 
 - **VR controller functionality, physics, visuals, performance and LOD are all enhanced & improved through various tools, mods & .ini settings.**
 #
