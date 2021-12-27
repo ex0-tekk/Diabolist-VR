@@ -241,7 +241,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 [5]
 # RECOMMENDED AND CRITICAL MCM SETTINGS
 
-#### Load the game through SKSE & create a new character, once you spawn into the Realm of Lorkhan it is HIGHLY RECOMMENDED to use these settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
+#### Load the game through SKSE & create a new character, once you spawn in, it is HIGHLY RECOMMENDED to use these MCM settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
 #
 [5a]
 ## Be Seated
