@@ -84,7 +84,7 @@
  - **The Horadric Crafting Cube from Diablo II.**
  - **The female Amazon from Diablo II visually improved over the LE version.**
  - **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
- - **Hundreds of unique monsters with increased population, with more aggro range and combat abilities.**
+ - **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
  - **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 #
 [2]
