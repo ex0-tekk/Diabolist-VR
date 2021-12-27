@@ -283,7 +283,7 @@ Once it’s open, click on this icon. ➡️ ![Skyrim ini Tweaker Small](https:/
 
  - **DIRE ARROWS: Distributed throughout the world, morrowind-style, are creature types that use enchanted arrows... these may be crafted or collected to be used at will, their damage ratings are much higher than normal arrows, and many of them explode upon impact.**
 
- - **MULTI-FORM ENEMIES: There is a growing list of special enemies in the world that have more than one form. By this, I mean when their health reaches zero, they change into a weaker or stronger version of themself. Some examples are Troll Pillages, Earth-bound Sinners, Grand Flame Atronachs, and certain Wisp Mothers.**
+ - **MULTI-FORM ENEMIES: There is a growing list of special enemies in the world that have more than one form. By this, I mean when their health reaches zero, they change into a weaker or stronger version of themselves. Some examples are Troll Pillages, Earth-bound Sinners, Grand Flame Atronachs, and certain Wisp Mothers.**
 
  - **ROGUES: Distributed throughout the world are versions of intelligent enemies that can visibly stealth and perform poisonous backstab attacks.**
 
