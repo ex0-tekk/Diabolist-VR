@@ -362,7 +362,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [5p]
 ## VRIK
-#### NOTE: It is CRITICAL to DISABLE 'Adjust Held Weapons Position', otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
+#### NOTE: It is CRITICAL to leave 'Adjust Held Weapons Position' DISABLED, otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
 ![VRIK Settings](https://user-images.githubusercontent.com/78007822/140565481-881ed992-5062-476f-bdce-4dd9af9b349d.png)
 -
 [5q]
