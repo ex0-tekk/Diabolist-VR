@@ -90,7 +90,7 @@
 [2]
 ## RECOMMENDED SPECS FOR DVR
 
-**This modlist was developed on a modern higher-end PC, however, it's performance friendly and should run very well on lower spec systems.**
+**This modlist was developed on a modern higher-end PC, however, it's very performance friendly and should run well on lower spec systems.**
 
 **It has a total size of roughly 100 GB once it's fully installed, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
 
@@ -140,7 +140,7 @@
 #
 - **DVR comes with a new game-changing mod called [The Paarthurnax Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711), aside from this there are no other storyline content overhauls, while being a large yet surprisingly straight-forward mod list, DVR still hosts plenty of noticable changes, but the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
-- **Diabolist VR aims to be performance friendly as a *simple to setup*, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding. I tried my best to create a nostalgic Diablo vibe while adventuring through the province of Skyrim.**
+- **Diabolist VR aims to be performance friendly, a *simple to setup*, high-fantasy, Diablo themed mod list, based on dungeon crawling, monster hunting and loot hoarding.**
 #
 [4]
 ## GAMEPLAY PREP
@@ -152,7 +152,7 @@
 #
 [4a]
 ### Windows Antivirus and Firewall Settings
- - **It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings.**
+ - **It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings to prevent random CTD (even if you have antivirus turned off, it still background scans.)**
 **Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
 **Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to pick the Steam folder and ModOrganizer.exe.**
 
@@ -181,7 +181,7 @@
 [4b]
 ### Windows Paging File Size
  - **It is CRITICAL to set your pagefile size to 20GB (20,000mb).**
- - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB for more overhead, but this is just my preference.**
+ - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB, but this is due to having 32GB of physical Ram.**
  - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
  - **There is no need to apply this pagefile size setting to multiple hard drives.**
 **Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & how to configure the Windows Paging File Size is explained [HERE.](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)**
