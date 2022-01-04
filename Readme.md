@@ -152,7 +152,7 @@
 #
 [4a]
 ### Windows Antivirus and Firewall Settings
- - **It's HIGHLY RECOMMENDED to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings.**
+ - **It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings.**
 **Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
 **Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to pick the Steam folder and ModOrganizer.exe.**
 
@@ -160,7 +160,7 @@
 ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
 ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
 #
- - **It is also HIGHLY RECOMMENDED to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
+ - **It is also CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
  - **Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.**
 ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
  - ### **When the Windows firewall options pop up, follow these steps below:**
@@ -180,7 +180,7 @@
 ## **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.**
 [4b]
 ### Windows Paging File Size
- - **It is HIGHLY RECOMMENDED to set your pagefile size to 20GB (20,000mb).**
+ - **It is CRITICAL to set your pagefile size to 20GB (20,000mb).**
  - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB for more overhead, but this is just my preference.**
  - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
  - **There is no need to apply this pagefile size setting to multiple hard drives.**
