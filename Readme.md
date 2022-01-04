@@ -94,7 +94,7 @@
 
 **It has a total size of roughly 100 GB once it's fully installed, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
 
-**I FOCUSED HEAVILY ON OPTIMIZING DVR during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMD/PC configurations.**
+**I focused heavily on optimizing DVR during development and testing, via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMD/PC configurations.**
 
 **Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. I will go over that and other recommended settings throughout this guide.**
 
