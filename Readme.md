@@ -162,6 +162,7 @@
 #
  - **It is also CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
  - **Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.**
+#
 ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
  - ### **When the Windows firewall options pop up, follow these steps below:**
  - **1. Click Inbound Rules**
@@ -175,7 +176,7 @@
 ![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
 
 ![Firewall Settings 5](https://user-images.githubusercontent.com/78007822/140572430-5546eb0d-5fea-4ed7-8b4c-a9242217ebb2.png)
- - ### **Just name this to whatever you want, or copy the screenshot provided, then click finish.**
+ - ### **Just name this to whatever you want, or use what I have put in the screenshot provided, then click finish.**
 ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 ## **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.**
 [4b]
