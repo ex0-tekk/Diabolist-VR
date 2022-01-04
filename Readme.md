@@ -147,7 +147,7 @@
 ### **From here forward I will be using 2 terms over and over.**
 ### **HIGHLY RECOMMENDED  and  CRITICAL.**
 ### **HR is IMPORTANT, but also with flexibility towards other configurations if the user desires.**
-### **CR is MANDATORY, to make the game run properly, or as DVR is Intended to run, in all aspects.**
+### **CR is MANDATORY, to make the game run properly, or as DVR was intended to run, in all aspects.**
 ### **PLEASE pay attention to these words thoughout the rest of this guide.**
 #
 [4a]
@@ -230,7 +230,7 @@
 
 ### **NOTE**: **Windows 11 users can ONLY USE MO2 2.4.2 or later**
 
-**Look inside the DVR folder & open ModOrganizer.exe (2.4.2)
+**Look inside the DVR folder & open ModOrganizer.exe (2.4.4)
 Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)**
 ### This configuration window will pop up.⬇️
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
