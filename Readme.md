@@ -90,11 +90,11 @@
 [2]
 ## RECOMMENDED SPECS FOR DVR
 
-**This modlist was developed ON and FOR a modern higher-end PC.**
+**This modlist was developed on a modern higher-end PC, however, it's performance friendly and should run very well on lower spec systems.**
 
 **It has a total size of roughly 100 GB once it's fully installed, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
 
-**I FOCUSED HEAVILY ON OPTIMIZING DVR during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMDs on higher-end modern PCs.**
+**I FOCUSED HEAVILY ON OPTIMIZING DVR during development and testing via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMD/PC configurations.**
 
 **Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. I will go over that and other recommended settings throughout this guide.**
 
@@ -112,7 +112,7 @@
 ### To save space on the in-game loot card, DVR now uses a 3 tier STAR Halgaris RPG loot system. 
 ### % = Drop Rate.
 #
- - **No Star = No enchant (Vanilla) = 15%** - NOTE: _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star.
+ - **No Star = No enchant (Vanilla) = 15%** - NOTE: _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star, this cannot be changed.
  - **1 Star = 1 Enchant = 67%**
  - **2 Stars = 2 Enchants = 15%**
  - **3 Stars = 3 enchants = 3%**
