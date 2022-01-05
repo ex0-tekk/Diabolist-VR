@@ -90,11 +90,9 @@
 [2]
 ## RECOMMENDED SPECS FOR DVR
 
-**This modlist was developed on a modern higher-end PC, however, it's very performance friendly and should run well on lower spec systems.**
+**I focused heavily on optimizing DVR during development and testing, via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion and it should run well on many HMD/PC configurations.**
 
 **It has a total size of roughly 100 GB once it's fully installed, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD *should* be fine.**
-
-**I focused heavily on optimizing DVR during development and testing, via performance tools, mod settings, ini settings and using low DynDOLOD 3 @ 512k res with xLodGen Occlusion, most players *should* have good performance with multiple HMD/PC configurations.**
 
 **Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. I will go over that and other recommended settings throughout this guide.**
 
@@ -404,4 +402,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 01/03/2022
+#### - Latest DVR Guide Update, 01/05/2022
