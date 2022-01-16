@@ -37,24 +37,26 @@
     - [5g] [Imaginator ENB Emulator](#imaginator-enb-emulator)
     
     - [5h] [Immersive Creatures](#immersive-creatures)
-      
-    - [5i] [Nemesis PCEA](#nemesis-pcea)
-
-    - [5j] [R.A.S.S Weather](#rass-weather)
-      
-    - [5k] [Sounds of Skyrim - Civilization and Wilds](#sounds-of-skyrim---civilization-and-wilds)  
     
-    - [5l] [Storm Lightning](#storm-lightning)
+    - [5i] [MoreHUD VR](#morehud-vr)
+      
+    - [5j] [Nemesis PCEA](#nemesis-pcea)
 
-    - [5m] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
+    - [5k] [R.A.S.S Weather](#rass-weather)
+      
+    - [5l] [Sounds of Skyrim - Civilization and Wilds](#sounds-of-skyrim---civilization-and-wilds)  
+    
+    - [5m] [Storm Lightning](#storm-lightning)
 
-    - [5n] [Timing is Everything](#timing-is-everything)
+    - [5n] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
 
-    - [50] [Unread Books Glow](#unread-books-glow)
+    - [5o] [Timing is Everything](#timing-is-everything)
 
-    - [5p] [VRIK](#vrik)
+    - [5p] [Unread Books Glow](#unread-books-glow)
+
+    - [5q] [VRIK](#vrik)
      
-    - [5q] [Wonders of Weather](#wonders-of-weather)
+    - [5r] [Wonders of Weather](#wonders-of-weather)
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
@@ -271,12 +273,12 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [5d]
 ## Fine-Tuned Challange
-#### NOTE: DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell.
+#### DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [5e]
 ## RLE - SiC - Mihail Monsters
-#### NOTE: DVR uses several monster mods at its core: Rogue Like Encounters, (RLE) Skyrim Immersive Creatures (SiC), Scary Night Spawner, Creepy Zombies, and _some_ individual Mihail Monsters, additionally, Skyrim Underground has it's own set of monsters.
+#### DVR uses several monster mods at its core: Rogue Like Encounters, (RLE) Skyrim Immersive Creatures (SiC), Scary Night Spawner, Creepy Zombies, and _some_ individual Mihail Monsters, additionally, Skyrim Underground has it's own set of monsters.
 #### RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.
 ### RLE Combat Features, Quoted From Nexus:
  - **RAID ADDS: Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight, regular dragons get two or more dragonlings at 50% health, Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh (black daedroths wielding daedric greatswords) at 25%.**
@@ -305,7 +307,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #
 [5f]
 ## Nethers Follower Framework
-#### NOTE: Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with. 
+#### Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with. 
 #### Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels, so as to not be god-like DMG sponges.
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 -
@@ -313,84 +315,90 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 ## Imaginator ENB Emulator
 ![Imaginator Settings](https://user-images.githubusercontent.com/78007822/139812380-f525b3de-92a9-4744-9a97-5c750cd55ee5.png)
 -
-#### NOTE: It is HIGHLY RECOMMENDED to have Sunlight at -1 or -2, ⬇️ this setting removes excess surface and snow glare, -2 Sky is just my own preference but not required to reduce glare.
+#### It is HIGHLY RECOMMENDED to have Sunlight at -1 or -2, ⬇️ this setting removes excess surface and snow glare, -2 Sky is just my own preference but not required to reduce glare.
 ![Imaginator Settings 2](https://user-images.githubusercontent.com/78007822/139812436-f2dbf65d-a753-4d06-9a47-24266703d9c4.png)
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
 #### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
 #
 [5h]
 ## Immersive Creatures
-#### NOTE: If you want to minimize Non-Adult animal spawns (Wolf Pups 🐺) drop the additional animal spawn chance to 1%, in the Additional Spawns options.
+#### If you want to minimize Non-Adult animal spawns (Wolf Pups 🐺) drop the additional animal spawn chance to 1%, in the Additional Spawns options.
 ![Immersive Creatures No Wolf Pups](https://user-images.githubusercontent.com/78007822/139816694-d626fe76-e6fc-4afe-a077-e1e9121f45bf.png)
 -
 [5i]
-## Nemesis PCEA
-#### NOTE: These animations are Recommended for the Player and NPC.
-![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
+## MoreHUD VR
+#### It is HIGHLY RECOMMENDED to have Show Enemy Level and Show So!
+ul Level both DISABLED to avoid CTD, as there is a better color coded level display system by default.
+[MoreHUD VR](https://user-images.githubusercontent.com/78007822/149678366-e53a8e87-6a99-436d-acbd-baff44948817.png)
 -
 [5j]
+## Nemesis PCEA
+#### These animations are Recommended for the Player and NPC.
+![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
+-
+[5k]
 ## R.A.S.S Weather
 ![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
 #### NOTE: Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals ⬆️ and overall performance.
 #
-[5k]
+[5l]
 ## Sounds of Skyrim - Civilization and Wilds
-#### NOTE: These are the recommended DISABLED sounds for an overall better audio experience.
+#### These are the recommended DISABLED sounds for an overall better audio experience.
 ![SoS Civ Settings](https://user-images.githubusercontent.com/78007822/139822593-bc3a4b2a-7dd6-42ea-88ec-209f88bbfc12.png)
 ![SoS Wilds Settings](https://user-images.githubusercontent.com/78007822/139822728-0301c97a-eb06-42ce-b04a-f9ebf54131ad.png)
 -
-[5l]
+[5m]
 ## Storm Lightning
-#### NOTE: Use Realistic or Ultra Realistic for best VR results.
+#### Use Realistic or Ultra Realistic for best VR results.
 ![Storm Lightning Settings](https://user-images.githubusercontent.com/78007822/139826224-4534dba6-0899-43b7-984a-a42c791d9d43.png)
 -
-[5m]
+[5n]
 ## Strike Obstruction Timed Block
-#### NOTE: It is HIGHLY RECOMMENDED to DISABLE player parry mechanics, these animations are not triggered in VR.
+#### It is HIGHLY RECOMMENDED to DISABLE player parry mechanics, these animations are not triggered in VR.
 ![Strike Obstruction Timed Block Settings](https://user-images.githubusercontent.com/78007822/139826990-c155d19e-b1ca-42a6-92b1-4f5c3e749f7d.png)
 -
-[5n]
+[5o]
 ## Timing is Everything
-#### NOTE: It is HIGHLY RECOMMENDED to click ‘LOAD PRESET’ and ENABLE the Lexy FISSES settings.
+#### It is HIGHLY RECOMMENDED to click ‘LOAD PRESET’ and ENABLE the Lexy FISSES settings.
 ![Timing is Everything Settings](https://user-images.githubusercontent.com/78007822/139827581-999b3eb6-4e8e-4f70-be62-7b269bd88fe3.png)
 -
-[5o]
+[5p]
 ## Unread Books Glow
-#### NOTE: In general, plain books glow is not suggested, but it's great for book collecting.
+#### In general, plain books glow is not suggested, but it's great for book collecting.
 ![Unread Books Glow](https://user-images.githubusercontent.com/78007822/139838085-27dec7d9-bed1-49e9-9e42-9665622dcc9c.png)
 -
-[5p]
+[5q]
 ## VRIK
-#### NOTE: It is CRITICAL to leave 'Adjust Held Weapons Position' DISABLED, otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
+#### It is CRITICAL to leave 'Adjust Held Weapons Position' DISABLED, otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
 ![VRIK Settings](https://user-images.githubusercontent.com/78007822/140565481-881ed992-5062-476f-bdce-4dd9af9b349d.png)
 -
-[5q]
+[5r]
 ## Wonders of Weather
-#### NOTE: These settings increase overall rain performance & fantasy visuals.
+#### These settings increase overall rain performance & fantasy visuals.
 ![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
 -
 [6]
 # The Sharper Eye
-#### NOTE: With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen.
+#### With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen.
 ![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843882-792e6293-f0b9-4c05-8564-62e06bfce179.png)
 -
 [7]
 # TAA On or Off
-#### NOTE: TAA makes the distant image in VR have less jaggies (shimmer), personally i don't use this feature, as the mild shimmer doesn't bother me, however, it's turned ON by default with DVR, but if you'd like it turned OFF then it is CRITICAL to open your SkyrimVR ini Tweaker tool, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and simply change bTAAWater = 1 to bTAAWater = 0, otherwise you will see visual anomalies with water.
+#### TAA makes the distant image in VR have less jaggies (shimmer), personally i don't use this feature, as the mild shimmer doesn't bother me, however, it's turned ON by default with DVR, but if you'd like it turned OFF then it is CRITICAL to open your SkyrimVR ini Tweaker tool, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and simply change bTAAWater = 1 to bTAAWater = 0, otherwise you will see visual anomalies with water.
 #
 [8]
 # NVIDIA Settings
-#### NOTE: The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
+#### The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
 ![nVidia Settings 1](https://user-images.githubusercontent.com/78007822/141846168-66d13665-9fb0-4bc0-818e-823464b8eae4.png)
 ![nVidia Settings 2](https://user-images.githubusercontent.com/78007822/141846171-0938028d-1f22-4bbb-aa8c-8564271a7402.png)
 -
 [9]
 # SkyrimVR and SkyrimPrefs ini
-#### NOTE: If your game feels ‘Off’ or ‘Not Quite Right’ after installing and playing, or if you just want to reset your current Diabolist VR .ini [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘DVR\profiles\Diabolist VR’ folder, also make sure to replace these Skyrim.ini file inside your root Skyrim VR folder.
+#### If your game feels ‘Off’ or ‘Not Quite Right’ after installing and playing, or if you just want to reset your current Diabolist VR .ini [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘DVR\profiles\Diabolist VR’ folder, also make sure to replace these Skyrim.ini file inside your root Skyrim VR folder.
 #
 [10]
 # DO NOT SORT DVR WITH LOOT
-#### NOTE: DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. DVR support is EXCLUSIVE to the modlist provided, that being said, _If_ you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
+#### DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. DVR support is EXCLUSIVE to the modlist provided, that being said, _If_ you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/147396679-c555b0da-7da1-446c-9b08-50529a50b561.png)
 -
 [11]
@@ -402,4 +410,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 01/15/2022
+#### - Latest DVR Guide Update, 01/16/2022
