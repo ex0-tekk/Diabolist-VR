@@ -327,8 +327,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [5i]
 ## MoreHUD VR
-#### It is HIGHLY RECOMMENDED to have Show Enemy Level and Show So!
-ul Level both DISABLED to avoid CTD, as there is a better color coded level display system by default.
+#### It is CRITICAL to have Show Enemy Level and Show Soul Level both DISABLED to avoid CTD, also, there is a better color coded level display system installed by default.
 [MoreHUD VR](https://user-images.githubusercontent.com/78007822/149678366-e53a8e87-6a99-436d-acbd-baff44948817.png)
 -
 [5j]
