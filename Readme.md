@@ -327,8 +327,9 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [5i]
 ## MoreHUD VR
-#### It is CRITICAL to have Show Enemy Level and Show Soul Level both DISABLED to avoid CTD, also, there is a better color coded level display system installed by default.
+#### It is HIGHLY RECOMMENDED to have Show Enemy Level and Show Soul Level both DISABLED to avoid any possible CTD recently discovered.
 ![MoreHUD VR](https://user-images.githubusercontent.com/78007822/149678460-960f6d11-d8d2-446f-80ef-73bdc2763f77.png)
+#### NOTE: DVR uses a different color coded level display system by default, MoreHUD VR is used for other aspects but can be 100% disabled within MCM if it's causing users further CTD issues, yiou can check your Crash Logger VR log file for this, look for PROBABLE CALL STACK section of your crash-2022.log file, located in your C:\Documents\My Games\Skyrim VR\SKSE folder, if you see any AHZmoreHUD reference, simply disable the MoreHUDVR mod settings in MCM.
 -
 [5j]
 ## Nemesis PCEA
@@ -342,7 +343,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #
 [5l]
 ## Sounds of Skyrim - Civilization and Wilds
-#### These are the recommended DISABLED sounds for an overall better audio experience.
+#### These are the Recommended DISABLED sounds for an overall better audio experience.
 ![SoS Civ Settings](https://user-images.githubusercontent.com/78007822/139822593-bc3a4b2a-7dd6-42ea-88ec-209f88bbfc12.png)
 ![SoS Wilds Settings](https://user-images.githubusercontent.com/78007822/139822728-0301c97a-eb06-42ce-b04a-f9ebf54131ad.png)
 -
