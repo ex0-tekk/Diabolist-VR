@@ -261,14 +261,14 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [5b]
 ## Claralux Lighting
-#### NOTE: You MUST use Claralux settings at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then DISABLE IT TO CONTINUE.
+#### You MUST use Claralux settings at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then DISABLE IT TO CONTINUE.
 #### If you Fail to Disable this AFTER adjusting these options ⬇️ then your character will be frozen and unable to move when you return to your game.
 ![Claralux Settings](https://user-images.githubusercontent.com/78007822/139784108-e8e86f7f-9cf8-41b5-a4a1-f4fb22316a8c.png)
 ![Claralux Settings 2](https://user-images.githubusercontent.com/78007822/139784116-74f26356-f533-4e88-9492-467941ea62bf.png)
 -
 [5c]
 ## DynDOLOD
-#### NOTE: Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
+#### Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
 ![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
 -
 [5d]
@@ -318,7 +318,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #### It is HIGHLY RECOMMENDED to have Sunlight at -1 or -2, ⬇️ this setting removes excess surface and snow glare, -2 Sky is just my own preference but not required to reduce glare.
 ![Imaginator Settings 2](https://user-images.githubusercontent.com/78007822/139812436-f2dbf65d-a753-4d06-9a47-24266703d9c4.png)
 ![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
-#### NOTE: These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
+#### These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
 #
 [5h]
 ## Immersive Creatures
@@ -328,7 +328,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 [5i]
 ## MoreHUD VR
 #### It is CRITICAL to have Show Enemy Level and Show Soul Level both DISABLED to avoid CTD, also, there is a better color coded level display system installed by default.
-[MoreHUD VR](https://user-images.githubusercontent.com/78007822/149678366-e53a8e87-6a99-436d-acbd-baff44948817.png)
+![MoreHUD VR](https://user-images.githubusercontent.com/78007822/149678460-960f6d11-d8d2-446f-80ef-73bdc2763f77.png)
 -
 [5j]
 ## Nemesis PCEA
@@ -338,7 +338,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 [5k]
 ## R.A.S.S Weather
 ![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
-#### NOTE: Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals ⬆️ and overall performance.
+#### Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals ⬆️ and overall performance.
 #
 [5l]
 ## Sounds of Skyrim - Civilization and Wilds
