@@ -329,7 +329,8 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 ## MoreHUD VR
 #### It is HIGHLY RECOMMENDED to have Show Enemy Level and Show Soul Level both DISABLED to avoid any possible CTD recently discovered.
 ![MoreHUD VR](https://user-images.githubusercontent.com/78007822/149678460-960f6d11-d8d2-446f-80ef-73bdc2763f77.png)
-#### NOTE: DVR uses a different color coded level display system by default, MoreHUD VR is used for other aspects but can be 100% disabled within MCM if it's causing users further CTD issues, you can check your crash-2022.log file which is located inside your C:\Documents\My Games\Skyrim VR\SKSE folder, if you see any AHZmoreHUD.dll reference in the PROBABLE CALL STACK section of this log file, then simply disable ALL of the MoreHUDVR mod settings in MCM. NOTE: this mod will likely be removed in a future update.
+#### DVR uses a different color coded level display system by default, MoreHUD VR is used for other aspects but can be 100% disabled within MCM if it's causing users further CTD issues, you can check your crash-2022.log file which is located inside your C:\Documents\My Games\Skyrim VR\SKSE folder, if you see any AHZmoreHUD.dll reference in the PROBABLE CALL STACK section of this log file, then simply disable ALL of the MoreHUDVR mod settings in MCM. 
+NOTE: This mod will likely be removed in a future update.
 #
 [5j]
 ## Nemesis PCEA
