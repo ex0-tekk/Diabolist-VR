@@ -28,7 +28,7 @@
     
     - [5c] [DynDOLOD](#dyndolod)
     
-    - [5d] [Fine-Tuned Challange](#fine-tuned-challange)
+    - [5d] [Fine-Tuned Challenge](#fine-tuned-challange)
     
     - [5e] [RLE - SiC - Mihail Monsters](#rle---sic---mihail-monsters)
 
@@ -272,7 +272,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 ![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
 -
 [5d]
-## Fine-Tuned Challange
+## Fine-Tuned Challenge
 #### DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
@@ -411,4 +411,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 01/16/2022
+#### - Latest DVR Guide Update, 01/18/2022
