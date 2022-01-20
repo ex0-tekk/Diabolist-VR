@@ -380,7 +380,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #
 [8]
 # NVIDIA Settings
-#### The SkyrimVR specific nVidia settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
+#### The SkyrimVR specific nVidia Control Panel settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
 ![SkyrimVR nVidia Settings 1](https://user-images.githubusercontent.com/78007822/150439614-33ae9340-6c40-4e88-9260-c25b394a8895.png)
 ![SkyrimVR nVidia Settings 2](https://user-images.githubusercontent.com/78007822/150439617-67ba4a6d-8563-4bab-b556-db4609e5493e.png)
 #
