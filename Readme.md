@@ -20,7 +20,7 @@
     
     - [4f] [CPU Threads](#cpu-threads)
     
-- **[5] [MCM Recorder and Your Menu Settings](#mcm-recorder-and-your-menu-settings)
+- **[5] [MCM Recorder and Your Menu Settings](#mcm-recorder-and-your-menu-settings)**
 
     - [5a] [Be Seated](#be-seated)
     
