@@ -20,7 +20,7 @@
     
     - [4f] [CPU Threads](#cpu-threads)
     
-- **[5] [Recommended and Critical MCM Settings](#recommended-and-critical-mcm-settings)**
+- **[5] [MCM Recorder and Your Menu Settings](#mcm-recorder-and-your-menu-settings)
 
     - [5a] [Be Seated](#be-seated)
     
@@ -215,7 +215,7 @@
 
 - **Download Diabolist VR from the Wabbajack VR drop down section to begin the install process, once that initial download is done a new Wabbajack window will pop up, on the bottom right select the Install Location ( 3 Dots ... ) select the DVR folder you created, the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
 
-- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.9.4.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
+- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.9.5.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
 
 - **After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder, there *should* be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.**
 #
@@ -246,10 +246,12 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 ### **You can close the SkyrimVR ini Tweaker now.**
 #
 [5]
-# RECOMMENDED AND CRITICAL MCM SETTINGS
-
-#### Load the game through SKSE & create a new character, once you spawn in, it is HIGHLY RECOMMENDED to use these MCM settings shown below for the best DVR experience, performance and overall compatibility... however, for different results, experiment with your own settings.
-#### To adjust these MCM settings a bit easier, open SteamVR View window, then block your VR sensor inside the VR headset with something to keep it active, and then just look at the VR window on your desktop while you configure settings, but this might be more difficult than just having the headset on and lifting it up to peek at your screen while you make changes, whatever is easier for you.
+# MCM RECORDER and MENU SETTINGS
+#### Load the game through SKSE & create a new character, once you spawn into the game it is HIGHLY RECOMMENDED Start Recording with [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) before adjusting ANY of these MCM settings shown below for the best intended performance and overall compatibility. After this recording is done, your MCM settings will be saved for you to use with future new game saves and you can avoid doing these next daunting steps over and over.
+#
+#### Please click the MCM Recorder link provided above to visit this mods Nexus page to see more detailed mod information, the author also provides a YouTube tutorial to fully understand how this mod works, spoiler alert... it's really simple.
+#
+#### Open MCM and scroll roughly half way down the menu to open MCM RECORDER, then select START RECORDING and go back out to the main menu and scroll back up to the top, now start adjusting your MCM settings as shown below (and your own menu preferences too of course.) IT IS NOW RECORDING ALL OF YOUR MCM ADJUSTMENTS GOING FORWARD. When you are done setting your MCM menus remember to go back and click STOP RECORDING, so it actually SAVES your settings.
 #
 [5a]
 ## Be Seated
