@@ -250,7 +250,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #### Load the game through SKSE & create a new character, once you spawn into the game it is HIGHLY RECOMMENDED Start Recording with [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) before adjusting ANY of these MCM settings shown below for the best intended performance and overall compatibility. After this recording is done, your MCM settings will be saved for you to use with future new game saves and you can avoid doing these next daunting steps over and over.
 #
 #### Please click the MCM Recorder link provided above to visit this mods Nexus page to see more detailed mod information, the author also provides a YouTube tutorial to fully understand how this mod works, spoiler alert... it's really simple.
-#### Open MCM and scroll roughly half way down the menu to open MCM RECORDER, then select START RECORDING and go back out to the main menu and scroll back up to the top, now start adjusting your MCM settings as shown below (and your own menu preferences too of course.) IT IS NOW RECORDING ALL OF YOUR MCM ADJUSTMENTS GOING FORWARD. When you are done setting your MCM menus remember to go back and click STOP RECORDING, so it actually SAVES your settings.
+#### Open MCM and scroll roughly half way down the menu to open MCM RECORDER, then select -START RECORDING- and go back out to the main menu and scroll back up to the top, now start adjusting your MCM settings as shown below (and your own menu preferences too of course.) IT IS NOW RECORDING ALL OF YOUR MCM ADJUSTMENTS GOING FORWARD. When you are done setting your MCM menus remember to go back and click -STOP RECORDING-, so it actually SAVES your settings.
 #
 [5a]
 ## Be Seated
