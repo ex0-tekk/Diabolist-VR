@@ -28,33 +28,31 @@
     
     - [5c] [DynDOLOD](#dyndolod)
     
-    - [5d] [Fine-Tuned Challenge](#fine-tuned-challange)
+    - [5d] [Fine-Tuned Challenge](#fine-tuned-challenge)
     
     - [5e] [RLE - SiC - Mihail Monsters](#rle---sic---mihail-monsters)
 
     - [5f] [Nethers Follower Framework](#nethers-follower-framework)
     
     - [5g] [Imaginator ENB Emulator](#imaginator-enb-emulator)
-    
-    - [5h] [Immersive Creatures](#immersive-creatures)
       
-    - [5i] [Nemesis PCEA](#nemesis-pcea)
+    - [5h] [Nemesis PCEA](#nemesis-pcea)
 
-    - [5j] [R.A.S.S Weather](#rass-weather)
+    - [5i] [R.A.S.S Weather](#rass-weather)
       
-    - [5k] [Sounds of Skyrim - Civilization and Wilds](#sounds-of-skyrim---civilization-and-wilds)  
+    - [5j] [Sounds of Skyrim - Civilization and Wilds](#sounds-of-skyrim---civilization-and-wilds)  
     
-    - [5l] [Storm Lightning](#storm-lightning)
+    - [5k] [Storm Lightning](#storm-lightning)
 
-    - [5m] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
+    - [5l] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
 
-    - [5n] [Timing is Everything](#timing-is-everything)
+    - [5m] [Timing is Everything](#timing-is-everything)
 
-    - [5o] [Unread Books Glow](#unread-books-glow)
+    - [5n] [Unread Books Glow](#unread-books-glow)
 
-    - [5p] [VRIK](#vrik)
+    - [5o] [VRIK](#vrik)
      
-    - [5q] [Wonders of Weather](#wonders-of-weather)
+    - [5p] [Wonders of Weather](#wonders-of-weather)
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
@@ -319,52 +317,47 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #### These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
 #
 [5h]
-## Immersive Creatures
-#### If you want to minimize Non-Adult animal spawns (Wolf Pups 🐺) drop the additional animal spawn chance to 1%, in the Additional Spawns options.
-![Immersive Creatures No Wolf Pups](https://user-images.githubusercontent.com/78007822/139816694-d626fe76-e6fc-4afe-a077-e1e9121f45bf.png)
-#
-[5i]
 ## Nemesis PCEA
 #### These animations are Recommended for the Player and NPC.
 ![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
 -
-[5j]
+[5i]
 ## R.A.S.S Weather
 ![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
 #### Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals ⬆️ and overall performance.
 #
-[5k]
+[5j]
 ## Sounds of Skyrim - Civilization and Wilds
 #### These are the Recommended DISABLED sounds for an overall better audio experience.
 ![SoS Civ Settings](https://user-images.githubusercontent.com/78007822/139822593-bc3a4b2a-7dd6-42ea-88ec-209f88bbfc12.png)
 ![SoS Wilds Settings](https://user-images.githubusercontent.com/78007822/139822728-0301c97a-eb06-42ce-b04a-f9ebf54131ad.png)
 -
-[5l]
+[5k]
 ## Storm Lightning
 #### Use Realistic or Ultra Realistic for best VR results.
 ![Storm Lightning Settings](https://user-images.githubusercontent.com/78007822/139826224-4534dba6-0899-43b7-984a-a42c791d9d43.png)
 -
-[5m]
+[5l]
 ## Strike Obstruction Timed Block
 #### It is HIGHLY RECOMMENDED to DISABLE player parry mechanics, these animations are not triggered in VR.
 ![Strike Obstruction Timed Block Settings](https://user-images.githubusercontent.com/78007822/139826990-c155d19e-b1ca-42a6-92b1-4f5c3e749f7d.png)
 -
-[5n]
+[5m]
 ## Timing is Everything
 #### It is HIGHLY RECOMMENDED to click ‘LOAD PRESET’ and ENABLE the Lexy FISSES settings.
 ![Timing is Everything Settings](https://user-images.githubusercontent.com/78007822/139827581-999b3eb6-4e8e-4f70-be62-7b269bd88fe3.png)
 -
-[5o]
+[5n]
 ## Unread Books Glow
 #### In general, plain books glow is not suggested, but it's great for book collecting.
 ![Unread Books Glow](https://user-images.githubusercontent.com/78007822/139838085-27dec7d9-bed1-49e9-9e42-9665622dcc9c.png)
 -
-[5p]
+[5o]
 ## VRIK
 #### It is CRITICAL to leave 'Adjust Held Weapons Position' DISABLED, otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
 ![VRIK Settings](https://user-images.githubusercontent.com/78007822/140565481-881ed992-5062-476f-bdce-4dd9af9b349d.png)
 -
-[5q]
+[5p]
 ## Wonders of Weather
 #### These settings increase overall rain performance & fantasy visuals.
 ![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
@@ -402,4 +395,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 01/20/2022
+#### - Latest DVR Guide Update, 01/21/2022
