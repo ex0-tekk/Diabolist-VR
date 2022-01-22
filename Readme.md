@@ -251,6 +251,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #### Please click the MCM Recorder link provided above to visit this mods Nexus page to see more detailed mod information, the author also provides a YouTube tutorial to fully understand how this mod works, spoiler alert... it's really simple.
 #### Open MCM and scroll roughly half way down the menu to open MCM RECORDER, then select -START RECORDING- and go back out to the main menu and scroll back up to the top, now start adjusting your MCM settings as shown below (and your own MCM preferences of course.) 
 #### IT IS NOW RECORDING ALL OF YOUR MCM ADJUSTMENTS GOING FORWARD. When you are done setting your MCM menus remember to go back and click -STOP RECORDING-, so it actually SAVES your settings.
+#### To apply your saved MCM Recorder settings to a new game after this process, start a new game and goto the MCM RECORDER settings, and click on PLAY RECORDING, this will start the process of applying all the MCM steps you took previously as it was recording, this will take some time so just be patient and it will install your custom settings for you.
 #
 [5a]
 ## Be Seated
