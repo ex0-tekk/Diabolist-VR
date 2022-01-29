@@ -267,7 +267,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [5c]
 ## DynDOLOD
-#### Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the Realm of Lorkhan.
+#### Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the starting area.
 ![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
 -
 [5d]
