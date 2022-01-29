@@ -345,6 +345,9 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #### It is HIGHLY RECOMMENDED to DISABLE player parry mechanics, these animations are not triggered in VR.
 ![Strike Obstruction Timed Block Settings](https://user-images.githubusercontent.com/78007822/139826990-c155d19e-b1ca-42a6-92b1-4f5c3e749f7d.png)
 -
+![Strike Obstruction Timed Block Settings 2](https://user-images.githubusercontent.com/78007822/151681300-e7023be7-caa5-4c10-9f84-5194f455bb85.png)
+#### It is CRITICAL to adjust your block cone angle settings, otherwise basic shield blocking does not seem to work, personally I use 10 or 12 degrees, feel free to experiment with this.
+#
 [5m]
 ## Timing is Everything
 #### It is HIGHLY RECOMMENDED to click ‘LOAD PRESET’ and ENABLE the Lexy FISSES settings.
