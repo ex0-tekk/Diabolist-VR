@@ -74,11 +74,12 @@
 ### Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s by adding 7 Diablo inspired mods and so much more, this includes:
  
  - **A custom flame Diablo intro.**
- - **Solarion Spear intro replacer.**
  - **Authentic in-game Diablo font.**
+ - **Solarion Spear intro replacer.**
  - **Intro and in-game music overhaul.**
- - **A town portal spell called Voidgate.**
+ - **Gauntlet mouse cursor from Diablo II.**
  - **A classicly generous 3 tier loot system.**
+ - **A dual town portal spell called Voidgate.**
  - **The Horadric Crafting Cube from Diablo II.**
  - **The female Amazon from Diablo II visually improved over the LE version.**
  - **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
@@ -401,4 +402,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 01/29/2022
+#### - Latest DVR Guide Update, 02/02/2022
