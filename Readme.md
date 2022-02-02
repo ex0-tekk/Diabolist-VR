@@ -8,17 +8,19 @@
 
 - **[4] [Gameplay Prep](#gameplay-prep)**
 
-    - [4a] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
+    - [4a] [SkyrimVR Install](#skyrimvr-install)
+    
+    - [4b] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
 
-    - [4b] [Windows Paging File Size](#windows-paging-file-size)
+    - [4c] [Windows Paging File Size](#windows-paging-file-size)
 
-    - [4c] [SkyrimVR Install](#skyrimvr-install)
+    - [4d] [SkyrimVR Install](#skyrimvr-install)
     
-    - [4d] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
+    - [4e] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
     
-    - [4e] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
+    - [4f] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
     
-    - [4f] [CPU Threads](#cpu-threads)
+    - [4g] [CPU Threads](#cpu-threads)
     
 - **[5] [MCM Recorder and Your Menu Settings](#mcm-recorder-and-your-menu-settings)**
 
@@ -148,6 +150,23 @@
 ### **PLEASE pay attention to these words thoughout the rest of this guide.**
 #
 [4a]
+### SkyrimVR Install
+ - **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86) <- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+ 
+ - **Steam does not easily allow for new install folders, simply follow [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.**
+ 
+ - **After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, and also to adjust the game's vanilla settings.**
+ 
+ - **I have provided screenshots of the recommended SkyrimVR settings below, along with highly recommended MCM settings.**
+#### Refer to these screenshots when you first load the game and after Diabolist VR is installed ... as I will Not be explaining these settings in further detail aside from the screenshots i have added, most of this is self-explanatory and also based on your preference and PC performance.
+
+![VR Performance](https://user-images.githubusercontent.com/78007822/139745143-a3161f8d-8d2e-47ee-9644-e4aec59ac37a.png)
+![VR Performance 2](https://user-images.githubusercontent.com/78007822/139745160-74e1f1c6-192e-4812-becd-06e4bccbaa50.png)
+![VR Performance 3](https://user-images.githubusercontent.com/78007822/139745169-a60d5e27-e4b4-4b04-b948-1c88354fcccd.png)
+![VR General Settings Smaller](https://user-images.githubusercontent.com/78007822/139744742-34f38930-4fa2-4326-a0e2-4a6f051a9bc0.png)
+![VR General Settings 2 Smaller](https://user-images.githubusercontent.com/78007822/139744851-985379d3-d4f7-469b-8e1c-30ededa387ae.png)
+## When you are finished adjusting these settings above, simply close SkyrimVR and continue following this install guide.
+[4b]
 ### Windows Antivirus and Firewall Settings
  - **It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings to prevent random CTD (even if you have antivirus turned off, it still background scans.)**
 **Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
@@ -176,32 +195,14 @@
  - ### **Just name this to whatever you want, or use what I have put in the screenshot provided, then click finish.**
 ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 ## **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.**
-[4b]
+[4c]
 ### Windows Paging File Size
  - **It is CRITICAL to set your pagefile size to 20GB (20,000mb).**
  - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB, but this is due to having 32GB of physical Ram.**
  - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
  - **There is no need to apply this pagefile size setting to multiple hard drives.**
 **Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & how to configure the Windows Paging File Size is explained [HERE.](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)**
-
 ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
--
-[4c]
-### SkyrimVR Install
- - **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play with no other files added, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86)  ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
- 
- - **Steam does not easily allow for new install folders, simply follow [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.**
- 
- - **First, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, and also to adjust the game's vanilla settings.**
- 
- - **I have provided screenshots of the recommended SkyrimVR settings, along with highly recommended mod settings for DVR, however, all mod options in MCM are relatively safe to experiment with.**
-#### Refer to these screenshots below once you first load the game and after Diabolist VR is installed ... as I will Not be explaining these settings in further detail aside from the screenshot ‘NOTES’ i have added, most of this is self-explanatory and also based on your preference and PC performance.
-
-![VR Performance](https://user-images.githubusercontent.com/78007822/139745143-a3161f8d-8d2e-47ee-9644-e4aec59ac37a.png)
-![VR Performance 2](https://user-images.githubusercontent.com/78007822/139745160-74e1f1c6-192e-4812-becd-06e4bccbaa50.png)
-![VR Performance 3](https://user-images.githubusercontent.com/78007822/139745169-a60d5e27-e4b4-4b04-b948-1c88354fcccd.png)
-![VR General Settings Smaller](https://user-images.githubusercontent.com/78007822/139744742-34f38930-4fa2-4326-a0e2-4a6f051a9bc0.png)
-![VR General Settings 2 Smaller](https://user-images.githubusercontent.com/78007822/139744851-985379d3-d4f7-469b-8e1c-30ededa387ae.png)
 -
 [4d]
 ## Wabbajack and DVR Install
@@ -216,11 +217,11 @@
 
 - **Download Diabolist VR from the Wabbajack VR drop down section to begin the install process, once that initial download is done a new Wabbajack window will pop up, on the bottom right select the Install Location ( 3 Dots ... ) select the DVR folder you created, the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
 
-- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.9.7.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
+- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.9.8.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
 
 - **After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder, there *should* be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.**
 #
-[4e]
+[4f]
 ## SkyrimVR ini Tweaker
 
 **There are a few .ini settings you *should* be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.**
@@ -240,7 +241,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 
 **These 2 sets of numbers above will always equal the largest number of your headsets resolution & they *should* be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.**
 #
-[4f]
+[4g]
 ## CPU Threads
 
 **iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [DVR Discord](https://discord.gg/HuqU54gPcv)**
