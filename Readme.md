@@ -79,7 +79,7 @@
  - **Intro and in-game music overhaul.**
  - **Gauntlet mouse cursor from Diablo II.**
  - **A classicly generous 3 tier loot system.**
- - **A dual town portal spell called Voidgate.**
+ - **A dual town portal spell called 'Voidgate'.**
  - **The Horadric Crafting Cube from Diablo II.**
  - **The female Amazon from Diablo II visually improved over the LE version.**
  - **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
