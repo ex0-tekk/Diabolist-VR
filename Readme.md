@@ -324,7 +324,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #
 [5h]
 ## Nemesis PCEA
-#### These animations are Recommended for the Player and NPC.
+#### These animations are Highly Recommended for the Player and NPC.
 ![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
 -
 [5i]
