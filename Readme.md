@@ -367,7 +367,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 ## Wonders of Weather
 #### These settings increase overall rain performance & fantasy visuals.
 ![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
-## When you are finished adjusting these settings above, simply SAVE YOUR GAME and close SkyrimVR to continue following this install guide.
+## When you are finished adjusting these settings above, simply STOP MCM Recorder, SAVE YOUR GAME and close SkyrimVR to continue following this install guide.
 [6]
 # The Sharper Eye
 #### With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen.
