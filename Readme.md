@@ -201,7 +201,8 @@
  - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB, but this is due to having 32GB of physical Ram.**
  - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
  - **There is no need to apply this pagefile size setting to multiple hard drives.**
-**Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & how to configure the Windows Paging File Size is explained [HERE](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)    
+ - **Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & how to configure the Windows Paging File Size is explained [HERE](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)**
+#
 ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 #
 [4d]
@@ -304,7 +305,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 
  - **NUMIDIUM NORMAL WEAPON SOUNDS : This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.**
 
-### NOTE: Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use Fine-Tuned from that point forward.
+### NOTE: Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use the Fine-Tuned Difficulty MCM settings from that point forward.
 #
 [5f]
 ## Nethers Follower Framework
