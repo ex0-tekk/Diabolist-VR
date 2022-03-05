@@ -22,39 +22,13 @@
     
     - [4g] [CPU Threads](#cpu-threads)
     
-- **[5] [MCM Recorder and Your Menu Settings](#mcm-recorder-and-your-menu-settings)**
-
-    - [5a] [Be Seated](#be-seated)
+- **[5] [MCM Recorder Auto-Load Settings](#mcm-recorder-auto-load-settings)**
     
-    - [5b] [Claralux Lighting](#claralux-lighting)
+    - [5a] [Fine-Tuned Challenge](#fine-tuned-challenge)
     
-    - [5c] [DynDOLOD](#dyndolod)
-    
-    - [5d] [Fine-Tuned Challenge](#fine-tuned-challenge)
-    
-    - [5e] [RLE - SiC - Mihail Monsters](#rle---sic---mihail-monsters)
+    - [5b] [RLE-SiC-Mihail Monsters](#rle-sic-mihail-monsters)
 
-    - [5f] [Nethers Follower Framework](#nethers-follower-framework)
-    
-    - [5g] [Imaginator ENB Emulator](#imaginator-enb-emulator)
-      
-    - [5h] [Nemesis PCEA](#nemesis-pcea)
-
-    - [5i] [R.A.S.S Weather](#rass-weather)
-      
-    - [5j] [Sounds of Skyrim - Civilization and Wilds](#sounds-of-skyrim---civilization-and-wilds)  
-    
-    - [5k] [Storm Lightning](#storm-lightning)
-
-    - [5l] [Strike Obstruction Timed Block](#strike-obstruction-timed-block)
-
-    - [5m] [Timing is Everything](#timing-is-everything)
-
-    - [5n] [Unread Books Glow](#unread-books-glow)
-
-    - [5o] [VRIK](#vrik)
-     
-    - [5p] [Wonders of Weather](#wonders-of-weather)
+    - [5c] [Nethers Follower Framework](#nethers-follower-framework)
 
 - **[6] [The Sharper Eye](#the-sharper-eye)**
 
@@ -67,8 +41,6 @@
 - **[10] [DO NOT SORT DVR WITH LOOT](#do-not-sort-dvr-with-loot)**
 
 - **[11] [INSTALL IS COMPLETE](#install-is-complete)**
-
-
 #
 [1]
 ## INTRODUCTION
@@ -249,37 +221,19 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 ### **You can close the SkyrimVR ini Tweaker now.**
 #
 [5]
-# MCM RECORDER and YOUR MENU SETTINGS
-#### Load the game through SKSE on the top right section of ModOrganizer, once you finish creating a new character and you spawn into the starting area it is HIGHLY RECOMMENDED to Start Recording with [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) before adjusting ANY of these MCM settings shown below, a good portion of these settings are Highly Recommended and some are CRITICAL for the best DVR performance and overall compatibility. After you stop recording then your MCM settings will be saved for you to use with future new game saves and you can avoid manually adjusting these settings going forward.
-#### Please click the MCM Recorder link provided above to visit this mods Nexus page to see more detailed mod information, the author also provides a short YouTube video to help you fully understand how this mod works, spoiler alert... it's really simple.
-#### Open MCM and scroll roughly half way down the menu and open MCM RECORDER, then select -START RECORDING- and go back out to the main menu and scroll back up to the top, now start adjusting your MCM settings as they are shown below (and adjust your own MCM preferences too of course.) 
-#### NOTE: IT IS NOW RECORDING ALL OF YOUR MCM ADJUSTMENTS. When you are done setting your MCM menus remember to go back and click -STOP RECORDING-, so it actually SAVES your settings.
-#### These Are Additional Install Steps For Later Game Saves: To apply your saved MCM Recorder settings to a new game after this initial process, you can start a new game and goto the MCM RECORDER settings, and click on PLAY RECORDING, this will start (Load) the process of applying all the MCM settings that you adjusted previously, this will take some time to apply so just be patient and it will install your custom settings for you.
-#### Lastly, if adjusting these settings is difficult to do from inside your VR headset, I would suggest using something to block your VR sensor temporarily so you can always see the screen and adjust these settings on your desktop, you can do this by opening your 'Display VR View' in SteamVR and use it to see menu settings for adjustments, you will have to get creative for this part, this is why having an MCM Recorder is nice, so you don't have to manually apply these settings over and over.
+## MCM Recorder Auto-Load Settings
+#### Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating a new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings for DVR. [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) These Auto-Load settings are Highly Recommended and some are CRITICAL for the best DVR experience. This process will give users a notification if they try to interrupt and it will warn them to let it finish, when it's done loading you will be notified.
+![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
+![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
+#### The MCM Recorder nexus link is provided above for further information, the author provides a short YouTube video to help you fully understand how this mod works.
 #
 [5a]
-## Be Seated
-![Be Seated](https://user-images.githubusercontent.com/78007822/139783752-e59b4400-2e79-4a7b-bd4c-f95f4552de28.png)
--
-[5b]
-## Claralux Lighting
-#### You MUST use Claralux settings at night, simply enable the TOGGLE LIGHT LEVEL TEST MODE option past 6pm to change options, then DISABLE IT TO CONTINUE.
-#### If you Fail to Disable this AFTER adjusting these options ⬇️ then your character will be frozen and unable to move when you return to your game.
-![Claralux Settings](https://user-images.githubusercontent.com/78007822/139784108-e8e86f7f-9cf8-41b5-a4a1-f4fb22316a8c.png)
-![Claralux Settings 2](https://user-images.githubusercontent.com/78007822/139784116-74f26356-f533-4e88-9492-467941ea62bf.png)
--
-[5c]
-## DynDOLOD
-#### Enable Large Ref Fix, DynDOLOD will auto-activate when you leave the starting area.
-![DynDOLOD Settings](https://user-images.githubusercontent.com/78007822/139785164-ab8ac947-0fcd-4ed3-920c-bc1aa5a8c266.png)
--
-[5d]
 ## Fine-Tuned Challenge
 #### DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
-[5e]
-## RLE - SiC - Mihail Monsters
+[5b]
+## RLE-SiC-Mihail Monsters
 #### DVR uses several monster mods at its core: Hosting over 50 Mihail Monsters, along with Rogue Like Encounters(RLE), Skyrim Immersive Creatures(SiC), Scary Night Spawner(SNS) and Creepy Zombies(CZ).. additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.
 #### RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.
 ### RLE Combat Features, Quoted From Nexus:
@@ -307,68 +261,12 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 
 ### NOTE: Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use the Fine-Tuned Difficulty MCM settings from that point forward.
 #
-[5f]
+[5c]
 ## Nethers Follower Framework
 #### Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with. 
 #### Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels, so as to not be god-like DMG sponges.
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
--
-[5g]
-## Imaginator ENB Emulator
-![Imaginator Settings](https://user-images.githubusercontent.com/78007822/139812380-f525b3de-92a9-4744-9a97-5c750cd55ee5.png)
-#### Brightness, Contrast and Saturation set at 2 is HIGHLY RECOMMENDED.⬆️
-#
-#### It is HIGHLY RECOMMENDED to have Sunlight at -1 or -2, ⬇️ this setting removes excess surface and snow glare, -2 Sky is just my own preference but not required to reduce glare.
-![Imaginator Settings 2](https://user-images.githubusercontent.com/78007822/139812436-f2dbf65d-a753-4d06-9a47-24266703d9c4.png)
-![Imaginator Settings 3](https://user-images.githubusercontent.com/78007822/139812485-4348a4ec-36c8-4aef-b240-b98293cadbf9.png)
-#### These 4 tintor colors set to 1 will help remove the excess blue/green tint within Skyrim. ⬆️
-#
-[5h]
-## Nemesis PCEA
-#### These animations are Highly Recommended for the Player and NPC.
-![Nemesis PCEA Settings](https://user-images.githubusercontent.com/78007822/139820342-a119bb60-493e-4131-a2ed-7da9499fc004.png)
--
-[5i]
-## R.A.S.S Weather
-![R A S S Settings](https://user-images.githubusercontent.com/78007822/139821113-f1368d48-a4d5-41e7-a46f-d0e900d8eaf3.png)
-#### Camera Visual Effects DISABLED is HIGHLY RECOMMENDED for better VR visuals ⬆️ and overall performance.
-#
-[5j]
-## Sounds of Skyrim - Civilization and Wilds
-#### These are the Recommended DISABLED sounds for an overall better audio experience.
-![SoS Civ Settings](https://user-images.githubusercontent.com/78007822/139822593-bc3a4b2a-7dd6-42ea-88ec-209f88bbfc12.png)
-![SoS Wilds Settings](https://user-images.githubusercontent.com/78007822/139822728-0301c97a-eb06-42ce-b04a-f9ebf54131ad.png)
--
-[5k]
-## Storm Lightning
-#### Use Realistic or Ultra Realistic for best VR results.
-![Storm Lightning Settings](https://user-images.githubusercontent.com/78007822/139826224-4534dba6-0899-43b7-984a-a42c791d9d43.png)
--
-[5l]
-## Strike Obstruction Timed Block
-#### It is HIGHLY RECOMMENDED to DISABLE player parry mechanics, these animations are not triggered in VR.
-![Strike Obstruction Timed Block Settings](https://user-images.githubusercontent.com/78007822/139826990-c155d19e-b1ca-42a6-92b1-4f5c3e749f7d.png)
-#
-[5m]
-## Timing is Everything
-#### It is HIGHLY RECOMMENDED to click ‘LOAD PRESET’ and ENABLE the Lexy FISSES settings.
-![Timing is Everything Settings](https://user-images.githubusercontent.com/78007822/139827581-999b3eb6-4e8e-4f70-be62-7b269bd88fe3.png)
--
-[5n]
-## Unread Books Glow
-#### In general, plain books glow is not suggested, but it's great for book collecting.
-![Unread Books Glow](https://user-images.githubusercontent.com/78007822/139838085-27dec7d9-bed1-49e9-9e42-9665622dcc9c.png)
--
-[5o]
-## VRIK
-#### It is CRITICAL to leave 'Adjust Held Weapons Position' DISABLED, otherwise staff casting crosshairs are off-center, and using a bow & arrow will feel awkward.
-![VRIK Settings](https://user-images.githubusercontent.com/78007822/140565481-881ed992-5062-476f-bdce-4dd9af9b349d.png)
--
-[5p]
-## Wonders of Weather
-#### These settings increase overall rain performance & fantasy visuals.
-![WoW Settings](https://user-images.githubusercontent.com/78007822/139839212-26e1ba6f-9108-4146-b1fb-21bea4cb44ef.png)
-## When you are finished adjusting these settings above, simply STOP MCM Recorder, SAVE YOUR GAME and close SkyrimVR to continue following this install guide.
+
 [6]
 # The Sharper Eye
 #### With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen.
@@ -402,4 +300,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 03/03/2022
+#### - Latest DVR Guide Update, 03/05/2022
