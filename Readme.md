@@ -263,7 +263,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 
  - **NUMIDIUM NORMAL WEAPON SOUNDS : This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.**
 
-### NOTE: Adept difficulty is also CRITICAL for Skyrim Immersive Creatures to work with Fine-Tuned Challenge.
+### NOTE: Adept difficulty is CRITICAL for ALL creature mods in DVR to work with Fine-Tuned Challenge.
 #
 [5c]
 ## Nethers Follower Framework
