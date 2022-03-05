@@ -245,7 +245,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 
  - **DIRE ARROWS: Distributed throughout the world, morrowind-style, are creature types that use enchanted arrows... these may be crafted or collected to be used at will, their damage ratings are much higher than normal arrows, and many of them explode upon impact.**
 
- - **MULTI-FORM ENEMIES: There is a growing list of special enemies in the world that have more than one form. By this, I mean when their health reaches zero, they change into a weaker or stronger version of themselves. Some examples are Troll Pillages, Earth-bound Sinners, Grand Flame Atronachs, and certain Wisp Mothers.**
+ - **MULTI-FORM ENEMIES: There is special enemies in the world that have more than one form, by this I mean when their health reaches zero, they change into a weaker or stronger version of themselves. Some examples are Troll Pillages, Earth-bound Sinners, Grand Flame Atronachs, and certain Wisp Mothers.**
 
  - **ROGUES: Distributed throughout the world are versions of intelligent enemies that can visibly stealth and perform poisonous backstab attacks.**
 
@@ -263,7 +263,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 
  - **NUMIDIUM NORMAL WEAPON SOUNDS : This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.**
 
-### NOTE: Adept difficulty is also HIGHLY RECOMMENDED for Skyrim Immersive Creatures (SiC), these settings can be accessed within the Immersive Creatures MCM options, then use the Fine-Tuned Difficulty MCM settings from that point forward.
+### NOTE: Adept difficulty is also CRITICAL for Skyrim Immersive Creatures to work with Fine-Tuned Challenge.
 #
 [5c]
 ## Nethers Follower Framework
