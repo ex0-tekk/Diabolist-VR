@@ -105,7 +105,7 @@
 
 - **Fine-Tuned Challenge mod difficulty settings replace the traditional Skyrim difficulty settings, they flow in both directions for hard-mode, easy-mode, and everything in between... with a few *optional* cheat mods available for casual steam-rolling fun. Look for *QoL Enhancements, Difficulty Options, Cheats & Level Lists* on the left side of your MO2 window, you will find these cheat mods placed throughout this category, right click them and 'visit on nexus' for more info.**
 
-- **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.**
+- **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to increase the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.**
 
 - **Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated to my knowledge.**
 
