@@ -107,13 +107,13 @@
 
 - **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to increase the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.**
 
-- **Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated to my knowledge.**
+- **Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated to my knowledge and will be updated as DVR evolves over time.**
 
 - **VR controller functionality, physics, visuals, performance and LOD are all enhanced & improved through various tools, mods & .ini settings.**
 #
  - **MILD NSFW WARNING: (18+) This mod list uses CBBE Physics but with under-armor coverage for females, it also features bikini armor for you to craft, this all can be changed in CBBE BodySlide tool from the MO2 dropdown menu if you want no panties and no bras in your playthrough, please post in the Discord DVR Support Chat room for help with this CBBE recompile if needed.**
 #
-- **DVR comes with a new game-changing mod called [The Paarthurnax Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711), aside from this there are no other storyline content overhauls, while being a large yet surprisingly straight-forward mod list, DVR still hosts plenty of noticable changes, but the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
+- **While being a large yet surprisingly straight-forward mod list, DVR still hosts plenty of noticable changes, but the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
 
 - **Diabolist VR is a high performance, simple to setup, Diablo themed VR modlist... based on dungeon crawling, monster hunting and loot hoarding.**
 #
@@ -304,4 +304,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have fun monster hunting & loot hoarding!
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
-#### - Latest DVR Guide Update, 03/29/2022
+#### - Latest DVR Guide Update, 04/05/2022
