@@ -10,11 +10,11 @@
 
     - [4a] [SkyrimVR Install](#skyrimvr-install)
     
-    - [4b] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
+    - [4b] [Visual C Runtime Installs](#visual-c-runtime-installs)
+    
+    - [4c] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
 
-    - [4c] [Windows Paging File Size](#windows-paging-file-size)
-
-    - [4d] [SkyrimVR Install](#skyrimvr-install)
+    - [4d] [Windows Paging File Size](#windows-paging-file-size)
     
     - [4e] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
     
@@ -143,6 +143,10 @@
 ![VR General Settings 2 Smaller](https://user-images.githubusercontent.com/78007822/139744851-985379d3-d4f7-469b-8e1c-30ededa387ae.png)
 ## When you are finished adjusting these settings above, simply close SkyrimVR and continue following this install guide.
 [4b]
+### Visual C Runtime Installs
+ - **It's CRITICAL to install the All-In-One [Visual C Runtime Packages](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available, as the Feb 2022 release is a requirement for the 3D audio files from the [Binaural 3D Surround Sound for SkrimVR](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description)** mod from Nexus, simply install the AIO package to cover all Visual C updates.
+#
+[4c]
 ### Windows Antivirus and Firewall Settings
  - **It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings to prevent random CTD (even if you have antivirus turned off, it still background scans.)**
 **Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
@@ -171,7 +175,7 @@
  - ### **Just name this to whatever you want, or use what I have put in the screenshot provided, then click finish.**
 ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 ## **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.**
-[4c]
+[4d]
 ### Windows Paging File Size
  - **It is CRITICAL to set your pagefile size to 20GB (20,000mb).**
  - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB, but this is due to having 32GB of physical Ram.**
@@ -181,7 +185,7 @@
 #
 ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 #
-[4d]
+[4e]
 ## Wabbajack and DVR Install
 
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
