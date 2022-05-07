@@ -1,46 +1,46 @@
 # Diabolist VR Install Guide
 
-- **[1] [Introduction](#introduction)**
+- **[1 Introduction](#introduction)**
 
-- **[2] [Recommended Specs for DVR](#recommended-specs-for-dvr)**
+- **[2 Recommended Specs for DVR](#recommended-specs-for-dvr)**
 
-- **[3] [Mod List Features](#mod-list-features)**
+- **[3 Mod List Features](#mod-list-features)**
 
-- **[4] [Gameplay Prep](#gameplay-prep)**
+- **[4 Gameplay Prep](#gameplay-prep)**
 
-    - [4a] [SkyrimVR Install](#skyrimvr-install)
+    - [4a SkyrimVR Install](#skyrimvr-install)
     
-    - [4b] [Visual C Runtime Installs](#visual-c-runtime-installs)
+    - [4b Visual C Runtime Installs](#visual-c-runtime-installs)
     
-    - [4c] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
+    - [4c Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
 
-    - [4d] [Windows Paging File Size](#windows-paging-file-size)
+    - [4d Windows Paging File Size](#windows-paging-file-size)
     
-    - [4e] [Wabbajack and DVR Install](#wabbajack-and-dvr-install)
+    - [4e Wabbajack and DVR Install](#wabbajack-and-dvr-install)
     
-    - [4f] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
+    - [4f SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
     
-    - [4g] [CPU Threads](#cpu-threads)
+    - [4g CPU Threads](#cpu-threads)
     
-- **[5] [MCM Recorder Auto-Load Settings](#mcm-recorder-auto-load-settings)**
+- **[5 MCM Recorder Auto-Load Settings](#mcm-recorder-auto-load-settings)**
     
-    - [5a] [Fine-Tuned Challenge](#fine-tuned-challenge)
+    - [5a Fine-Tuned Challenge](#fine-tuned-challenge)
     
-    - [5b] [RLE-SiC-Mihail Monsters](#rle-sic-mihail-monsters)
+    - [5b RLE-SiC-Mihail Monsters](#rle-sic-mihail-monsters)
 
-    - [5c] [Nethers Follower Framework](#nethers-follower-framework)
+    - [5c Nethers Follower Framework](#nethers-follower-framework)
 
-- **[6] [The Sharper Eye](#the-sharper-eye)**
+- **[6 The Sharper Eye](#the-sharper-eye)**
 
-- **[7] [TAA On or Off](#taa-on-or-off)**
+- **[7 TAA On or Off](#taa-on-or-off)**
 
-- **[8] [Nvidia Settings](#nvidia-settings)**
+- **[8 Nvidia Settings](#nvidia-settings)**
 
-- **[9] [SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs-ini)**
+- **[9 SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs-ini)**
 
-- **[10] [DO NOT SORT DVR WITH LOOT](#do-not-sort-dvr-with-loot)**
+- **[10 DO NOT SORT DVR WITH LOOT](#do-not-sort-dvr-with-loot)**
 
-- **[11] [INSTALL IS COMPLETE](#install-is-complete)**
+- **[11 INSTALL IS COMPLETE](#install-is-complete)**
 #
 [1]
 ## INTRODUCTION
