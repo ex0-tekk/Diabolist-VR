@@ -2,6 +2,8 @@
 
 ![DVR Logo Final New 16-9 1080p](https://user-images.githubusercontent.com/78007822/147439146-04f82b08-81da-48a0-9c16-ba6f470ff093.png)
 
+---
+
 ## **DVR Install Index**
 
 ---
@@ -13,20 +15,20 @@
 ---
 
 - **[4 - Gameplay Prep](#4---gameplay-prep)**
-  - [4A - SkyrimVR Install](#4a---skyrimvr-install)
-  - [4B - Visual C Runtime Installs](#4b---visual-c-runtime-installs)
-  - [4C - Windows Antivirus and Firewall Settings](#4c---windows-antivirus-and-firewall-settings)
-  - [4D - Windows Paging File Size](#4d---windows-paging-file-size)
-  - [4E - Wabbajack and DVR Install](#4e---wabbajack-and-dvr-install)
-  - [4F - SkyrimVR ini Tweaker](#4f---skyrimvr-ini-tweaker)
-  - [4G - CPU Threads](#4g---cpu-threads)
+  - **[4A - SkyrimVR Install](#4a---skyrimvr-install)**
+  - **[4B - Visual C Runtime Installs](#4b---visual-c-runtime-installs)**
+  - **[4C - Windows Antivirus and Firewall Settings](#4c---windows-antivirus-and-firewall-settings)**
+  - **[4D - Windows Paging File Size](#4d---windows-paging-file-size)**
+  - **[4E - Wabbajack and DVR Install](#4e---wabbajack-and-dvr-install)**
+  - **[4F - SkyrimVR ini Tweaker](#4f---skyrimvr-ini-tweaker)**
+  - **[4G - CPU Threads](#4g---cpu-threads)**
   
 ---
 
 - **[5 - MCM Recorder Auto-Load Settings](#5---mcm-recorder-auto-load-settings)**
-  - [5A - Fine-Tuned Challenge](#5a---fine-tuned-challenge)
-  - [5B - RLE-SiC-Mihail Monsters](#5b---rle-sic-mihail-monsters)
-  - [5C - Nethers Follower Framework](#5c---nethers-follower-framework)
+  - **[5A - Fine-Tuned Challenge](#5a---fine-tuned-challenge)**
+  - **[5B - RLE-SiC-Mihail Monsters](#5b---rle-sic-mihail-monsters)**
+  - **[5C - Nethers Follower Framework](#5c---nethers-follower-framework)**
   
 ---
 
@@ -40,6 +42,8 @@
 ---
 
 ## **1 - INTRODUCTION**
+
+---
 
 **Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s by adding 8 Diablo inspired mods and so much more, this includes:**
 
@@ -59,6 +63,8 @@
 ---
 
 ## **2 - RECOMMENDED SPECS FOR DVR**
+
+---
 
 DVR should run well on medium to high end PC-VR configurations, I focused **heavily** on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
@@ -87,6 +93,8 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 ---
 
 ## **3 - MOD LIST FEATURES**
+
+---
 
 To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot system
 
@@ -124,6 +132,8 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
 ---
 
 ## **4 - GAMEPLAY PREP**
+
+---
 
 From here forward I will be using 2 terms **over and over**.
 
@@ -169,10 +179,11 @@ Open your windows search function and type in Firewall, then click on **'Windows
 
 **When the Windows Firewall options pops up, follow these steps below:**
 
-- **1. Click Inbound Rules**
-- **2. Click New Rule**
-- **3. Click Program, then Next.**
-
+```ini
+1. Click Inbound Rules
+2. Click New Rule
+3. Click Program, then Next.
+```
 ![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
 
 **Now direct this window as shown below to your SkyrimVR root folder and select SkyrimVR.exe.**
@@ -191,7 +202,11 @@ Open your windows search function and type in Firewall, then click on **'Windows
 
 **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR THE OUTBOUND BLOCK OPTIONS, AS THESE STEPS YOU'VE JUST COMPLETED ONLY COVER INBOUND BLOCKING.**
 
+---
+
 ### **4D - Windows Paging File Size**
+
+---
 
 - It is **CRITICAL** to set your **pagefile size to 20GB (20,000mb).**
 20GB is the **modded SkyrimVR standard** if you have 16GB RAM, I personally use 40GB pagefile size with 32GB of physical RAM, as I prefer the extra overhead.
@@ -201,7 +216,11 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
   ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 
+---
+
 ### **4E - Wabbajack and DVR Install**
+
+---
 
 **NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
 
@@ -217,7 +236,11 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 - After install is finished, close the Wabbajack window & proceed to the DVR folder, open the folder called **GameFilesFolder**, then drag & drop ALL of these files into your SkyrimVR root folder, there _should_ be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.
 
+---
+
 ### **4F - SkyrimVR ini Tweaker**
+
+---
 
 There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
@@ -240,7 +263,11 @@ Once it’s open, click on this icon.
 
 - These 2 sets of numbers above will **always** equal the largest number of your headsets resolution & they _should_ be adjusted with this ini configuration tool to match your HMD, for best in-game menu size.
 
+---
+
 ### **4G - CPU Threads**
+
+---
 
 iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [DVR Discord](https://discord.gg/HuqU54gPcv)
 
@@ -292,7 +319,11 @@ RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module,
 
 - **NUMIDIUM NORMAL WEAPON SOUNDS:** This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.
 
-### **5C Nethers Follower Framework**
+---
+
+### **5C - Nethers Follower Framework**
+
+---
 
 Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with
 
@@ -304,6 +335,8 @@ Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/6
 
 ## **6 - The Sharper Eye**
 
+---
+
 With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen
 
 ![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843882-792e6293-f0b9-4c05-8564-62e06bfce179.png)
@@ -312,6 +345,8 @@ With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyr
 
 ## **7 - TAA On or Off**
 
+---
+
 TAA makes the distant image in VR have less jaggies (shimmer), and it's turned ON by default with DVR, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, **if you don't want TAA**, then simply **disable it** via the options in game when you are playing, additionally, it is **CRITICAL** to open your SkyrimVR ini Tweaker tool again...
 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png)
 then set bTAAWater = 0, otherwise you may see visual anomalies with water.
@@ -319,6 +354,8 @@ then set bTAAWater = 0, otherwise you may see visual anomalies with water.
 ---
 
 ## **8 - NVIDIA Settings**
+
+---
 
 The SkyrimVR specific nVidia Control Panel settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
 
@@ -329,17 +366,23 @@ The SkyrimVR specific nVidia Control Panel settings I have provided are for bett
 
 ## **9 - SkyrimVR and SkyrimPrefs ini**
 
+---
+
 If you want to reset your Diabolist VR .ini files back to install defaults: [**skyrimprefs.ini & skyrimvr.ini**](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘DVR\profiles\Diabolist VR’ folder, also make sure to grab the Skyrim.ini file and place it inside your root SkyrimVR folder
 
 ---
 
 ## **10 - DO NOT SORT DVR WITH LOOT**
 
+---
+
 DVR has been manually sorted from top to bottom & **using loot WILL destroy the correct plugin order**, if you add more mods, **you will NEED to know where to place those new plugins and loose files**, you will also **need to incorporate them into the many custom made patches (if this is needed)**, additionally, **I WILL NOT provide support with changing ANY aspect of this modlist. DVR support is EXCLUSIVE to the modlist provided**, that being said, **_If_** you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/147396679-c555b0da-7da1-446c-9b08-50529a50b561.png)
 
 ---
 
 ## **11 - INSTALL IS COMPLETE**
+
+---
 
 - **You’re Ready to Play!**
 
@@ -350,3 +393,5 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
 Latest DVR Guide Update, 05/08/2022.
+
+---
