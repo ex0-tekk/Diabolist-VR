@@ -81,7 +81,7 @@ A complete DVR install has a total size of roughly 100 GB, it’s **HIGHLY RECOM
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
-### **DVR is developed and tested with this PC-VR setup:**
+### DVR is developed and tested with this PC-VR setup:
 
 - Oculus Rift S.
 - Win 10 ver.20H2 Fully Updated.
@@ -145,7 +145,11 @@ From here forward I will be using 2 terms **over and over**.
 
 **PLEASE pay attention to these 2 words thoughout the rest of this guide.**
 
+---
+
 ### **4A - SkyrimVR Install**
+
+---
 
 - It is **CRITICAL to have a 100% fresh install of SkyrimVR** available & ready to play, It is also **CRITICAL** to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86) **<- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
@@ -153,11 +157,19 @@ From here forward I will be using 2 terms **over and over**.
 
 - After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.**
 
+---
+
 ### **4B - Visual C Runtime Installs**
+
+---
 
 - It's **CRITICAL** to install the All-In-One **[Visual C Runtime Packages](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)** available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the **[Binaural 3D Surround Sound for SkrimVR](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description)** mod on the Nexus, simply install the AIO package to cover all Visual C updates.
 
+---
+
 ### **4C - Windows Antivirus and Firewall Settings**
+
+---
 
 - It's **CRITICAL** to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings, this is to prevent random CTD _**(even if you have antivirus turned off, it still performs background scans.)**_
 
