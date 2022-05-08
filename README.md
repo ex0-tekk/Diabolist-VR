@@ -13,20 +13,20 @@
 ---
 
 - **[4 - Gameplay Prep](#4---gameplay-prep)**
-  - [4a - SkyrimVR Install](#4a---skyrimvr-install)
-  - [4b - Visual C Runtime Installs](#4b---visual-c-runtime-installs)
-  - [4c - Windows Antivirus and Firewall Settings](#4c---windows-antivirus-and-firewall-settings)
-  - [4d - Windows Paging File Size](#4d---windows-paging-file-size)
-  - [4e - Wabbajack and DVR Install](#4e---wabbajack-and-dvr-install)
-  - [4f - SkyrimVR ini Tweaker](#4f---skyrimvr-ini-tweaker)
-  - [4g - CPU Threads](#4g---cpu-threads)
+  - [4A - SkyrimVR Install](#4a---skyrimvr-install)
+  - [4B - Visual C Runtime Installs](#4b---visual-c-runtime-installs)
+  - [4C - Windows Antivirus and Firewall Settings](#4c---windows-antivirus-and-firewall-settings)
+  - [4D - Windows Paging File Size](#4d---windows-paging-file-size)
+  - [4E - Wabbajack and DVR Install](#4e---wabbajack-and-dvr-install)
+  - [4F - SkyrimVR ini Tweaker](#4f---skyrimvr-ini-tweaker)
+  - [4G - CPU Threads](#4g---cpu-threads)
   
 ---
 
 - **[5 - MCM Recorder Auto-Load Settings](#5---mcm-recorder-auto-load-settings)**
-  - [5a - Fine-Tuned Challenge](#5a---fine-tuned-challenge)
-  - [5b - RLE-SiC-Mihail Monsters](#5b---rle-sic-mihail-monsters)
-  - [5c - Nethers Follower Framework](#5c---nethers-follower-framework)
+  - [5A - Fine-Tuned Challenge](#5a---fine-tuned-challenge)
+  - [5B - RLE-SiC-Mihail Monsters](#5b---rle-sic-mihail-monsters)
+  - [5C - Nethers Follower Framework](#5c---nethers-follower-framework)
   
 ---
 
