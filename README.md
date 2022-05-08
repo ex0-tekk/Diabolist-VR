@@ -62,8 +62,6 @@
 
 DVR should run well on medium to high end PC-VR configurations, I focused **heavily** on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
----
-
 **Minimum and Recommended Specs for DVR:**
 
 - 20xx graphics cards **_(30xx cards are highly recommended, and 1080 should still work but it will be laggy and require further performance tweaking, users will need to troubleshoot these issues on their own.)_**
@@ -127,8 +125,6 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
 
 ## **4 - GAMEPLAY PREP**
 
----
-
 From here forward I will be using 2 terms **over and over**.
 
   **HIGHLY RECOMMENDED  and  CRITICAL.**
@@ -139,8 +135,6 @@ From here forward I will be using 2 terms **over and over**.
 
 **PLEASE pay attention to these 2 words thoughout the rest of this guide.**
 
----
-
 ### **4a - SkyrimVR Install**
 
 - It is **CRITICAL to have a 100% fresh install of SkyrimVR** available & ready to play, It is also **CRITICAL** to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86) **<- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
@@ -149,13 +143,9 @@ From here forward I will be using 2 terms **over and over**.
 
 - After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.**
 
----
-
 ### **4b - Visual C Runtime Installs**
 
 - It's **CRITICAL** to install the All-In-One **[Visual C Runtime Packages](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)** available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the **[Binaural 3D Surround Sound for SkrimVR](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description)** mod on the Nexus, simply install the AIO package to cover all Visual C updates.
-
----
 
 ### **4c - Windows Antivirus and Firewall Settings**
 
@@ -165,19 +155,13 @@ From here forward I will be using 2 terms **over and over**.
   
 - Now select **Add an exclusion** and point it towards your **SkyrimVR.exe** and then **repeat this a second time to include ModOrganizer.exe.**
 
----
-
 ![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
 ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
 ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
 
----
-
 It is **CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound)**, within your windows **firewall settings**, to prevent random CTD produced by Bethesda server pings.
 
 Open your windows search function and type in Firewall, then click on **'Windows Defender Firewall with Advanced Security.**
-
----
 
 ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
 
@@ -205,9 +189,7 @@ Name this field below to whatever you want or use what I have put in the screens
 
 ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 
-### **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR THE OUTBOUND BLOCK OPTIONS, AS THESE STEPS YOU'VE JUST COMPLETED ONLY COVER INBOUND BLOCKING.**
-
----
+**NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR THE OUTBOUND BLOCK OPTIONS, AS THESE STEPS YOU'VE JUST COMPLETED ONLY COVER INBOUND BLOCKING.**
 
 ### **4d - Windows Paging File Size**
 
@@ -219,11 +201,9 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
   ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 
----
-
 ### **4e - Wabbajack and DVR Install**
 
-**NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY. 😵**
+**NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
 
 - Download and install the [**Latest Version of Wabbajack**](https://github.com/wabbajack-tools/wabbajack/releases).
 
@@ -236,8 +216,6 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 - Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [**Diabolist VR 2.9.9d.wabbajack.manifest.json**](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [**Wabbajack Manifest Website**](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
 
 - After install is finished, close the Wabbajack window & proceed to the DVR folder, open the folder called **GameFilesFolder**, then drag & drop ALL of these files into your SkyrimVR root folder, there _should_ be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.
-  
----
 
 ### **4f - SkyrimVR ini Tweaker**
 
@@ -250,7 +228,7 @@ Once it’s open, click on this icon.
 
 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)
 
-**This configuration window will pop up.⬇️**
+**This configuration window will pop up ⬇️.**
 
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 
@@ -261,8 +239,6 @@ Once it’s open, click on this icon.
 - iHudMenuTextureSize = 2172 -  and -  iProjectedMenuTextureSize = 2172
 
 - These 2 sets of numbers above will **always** equal the largest number of your headsets resolution & they _should_ be adjusted with this ini configuration tool to match your HMD, for best in-game menu size.
-  
----
 
 ### **4g - CPU Threads**
 
@@ -276,31 +252,21 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 
 Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating a new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, It will **Auto-Load and Streamline ALL Highly Recommeneded and Critical specific settings for DVR**. These Auto-Load settings are **Highly Recommended and some are CRITICAL** for the best DVR experience. **This process will give users a notification if they try to interrupt and it will warn them to let it finish, when it's done loading you will be notified.**
 
----
-
 ![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
 The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) nexus link is provided for further information, the author provides a short YouTube video to help you fully understand how this mod works.
 
----
-
-## **5a - Fine-Tuned Challenge**
+### **5a - Fine-Tuned Challenge**
 
 **DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod**, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell
 
----
-
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
-
----
 
 ### **5b - RLE-SiC-Mihail Monsters**
 
 DVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO (or both), and to optimize and minimize any 4k textures down to 1k or 2k: Hosting over 50 Mihail Monsters, along with Rogue Like Encounters(RLE), Skyrim Immersive Creatures(SiC), Scary Night Spawner(SNS) and Creepy Zombies(CZ).. additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons
 
 RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects
-
----
 
 **RLE Combat Features, Quoted From Nexus:**
 
@@ -326,9 +292,7 @@ RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module,
 
 - **NUMIDIUM NORMAL WEAPON SOUNDS:** This is for the god-weapons dropped by children of numidium bosses in dwemer dungeons as they might sound too loud and noisey for some.
 
----
-
-## **5c Nethers Follower Framework**
+### **5c Nethers Follower Framework**
 
 Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with
 
@@ -343,6 +307,8 @@ Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/6
 With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen
 
 ![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843882-792e6293-f0b9-4c05-8564-62e06bfce179.png)
+
+---
 
 ## **7 - TAA On or Off**
 
