@@ -175,7 +175,7 @@ Open your windows search function and type in Firewall, then click on **'Windows
 
 ![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
 
-Now direct this window to your SkyrimVR root folder and select SkyrimVR.exe
+**Now direct this window as shown below to your SkyrimVR root folder and select SkyrimVR.exe.**
 
 ![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
 
