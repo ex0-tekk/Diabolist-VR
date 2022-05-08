@@ -256,7 +256,7 @@ Start DVR through SKSE on the top right section of ModOrganizer, once you finish
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
 The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) nexus link is provided for further information, the author provides a short YouTube video to help you fully understand how this mod works.
 
-### **5a - Fine-Tuned Challenge**
+### **5A - Fine-Tuned Challenge**
 
 **DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod**, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell
 
