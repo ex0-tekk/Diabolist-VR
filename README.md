@@ -41,9 +41,7 @@
 
 ## **1 - INTRODUCTION**
 
----
-
-### **Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s by adding 8 Diablo inspired mods and so much more, this includes:**
+**Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s by adding 8 Diablo inspired mods and so much more, this includes:**
 
 - Solarion Spear intro replacer.
 - A custom flame Diablo intro.
@@ -62,15 +60,11 @@
 
 ## **2 - RECOMMENDED SPECS FOR DVR**
 
----
-
 DVR should run well on medium to high end PC-VR configurations, I focused **heavily** on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
 ---
 
-## **Minimum and Recommended Specs for DVR:**
-
----
+**Minimum and Recommended Specs for DVR:**
 
 - 20xx graphics cards **_(30xx cards are highly recommended, and 1080 should still work but it will be laggy and require further performance tweaking, users will need to troubleshoot these issues on their own.)_**
 - AMD Ryzen-5 or Intel-5. _(7 or 9 is recommended.)_
@@ -96,11 +90,9 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ## **3 - MOD LIST FEATURES**
 
----
+To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot system
 
-### To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot system
-
-### % = Drop Rate
+% = Drop Rate
 
 - **No Star = No enchant (Vanilla) = 15%**
 - **1 Star = 1 Enchant = 67%**
@@ -145,7 +137,7 @@ From here forward I will be using 2 terms **over and over**.
 
 - CR is **MANDATORY**, to make the game run properly, or as DVR was intended to run, in all aspects.
 
-## **PLEASE pay attention to these 2 words thoughout the rest of this guide.**
+**PLEASE pay attention to these 2 words thoughout the rest of this guide.**
 
 ---
 
@@ -183,13 +175,13 @@ From here forward I will be using 2 terms **over and over**.
 
 It is **CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound)**, within your windows **firewall settings**, to prevent random CTD produced by Bethesda server pings.
 
-### Open your windows search function and type in Firewall, then click on **'Windows Defender Firewall with Advanced Security.**
+Open your windows search function and type in Firewall, then click on **'Windows Defender Firewall with Advanced Security.**
 
 ---
 
 ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
 
-## **When the Windows Firewall options pops up, follow these steps below:**
+**When the Windows Firewall options pops up, follow these steps below:**
 
 - **1. Click Inbound Rules**
 - **2. Click New Rule**
@@ -201,7 +193,7 @@ Now direct this window to your SkyrimVR root folder and select SkyrimVR.exe
 
 ![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
 
-### **Make SURE you select BLOCK, another window will pop up with Domain, Private and Public, make sure they are all selected.**
+**Make SURE you select BLOCK, another window will pop up with Domain, Private and Public, make sure they are all selected.**
 
 ![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
 
@@ -217,9 +209,7 @@ Name this field below to whatever you want or use what I have put in the screens
 
 ---
 
-## **4d - Windows Paging File Size**
-
----
+### **4d - Windows Paging File Size**
 
 - It is **CRITICAL** to set your **pagefile size to 20GB (20,000mb).**
 20GB is the **modded SkyrimVR standard** if you have 16GB RAM, I personally use 40GB pagefile size with 32GB of physical RAM, as I prefer the extra overhead.
@@ -231,9 +221,9 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-## **4e - Wabbajack and DVR Install**
+### **4e - Wabbajack and DVR Install**
 
-### **NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY. 😵**
+**NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY. 😵**
 
 - Download and install the [**Latest Version of Wabbajack**](https://github.com/wabbajack-tools/wabbajack/releases).
 
@@ -249,7 +239,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
   
 ---
 
-## **4f - SkyrimVR ini Tweaker**
+### **4f - SkyrimVR ini Tweaker**
 
 There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
@@ -260,7 +250,7 @@ Once it’s open, click on this icon.
 
 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)
 
-### **This configuration window will pop up.⬇️**
+**This configuration window will pop up.⬇️**
 
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 
@@ -274,17 +264,16 @@ Once it’s open, click on this icon.
   
 ---
 
-## **4g - CPU Threads**
+### **4g - CPU Threads**
 
 iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [DVR Discord](https://discord.gg/HuqU54gPcv)
 
-### **You can close the SkyrimVR ini Tweaker now.**
+**You can close the SkyrimVR ini Tweaker now.**
 
 ---
 
 ## **5 - MCM Recorder Auto-Load Settings**
 
----
 Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating a new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, It will **Auto-Load and Streamline ALL Highly Recommeneded and Critical specific settings for DVR**. These Auto-Load settings are **Highly Recommended and some are CRITICAL** for the best DVR experience. **This process will give users a notification if they try to interrupt and it will warn them to let it finish, when it's done loading you will be notified.**
 
 ---
@@ -307,15 +296,13 @@ The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) ne
 
 ### **5b - RLE-SiC-Mihail Monsters**
 
----
+DVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO (or both), and to optimize and minimize any 4k textures down to 1k or 2k: Hosting over 50 Mihail Monsters, along with Rogue Like Encounters(RLE), Skyrim Immersive Creatures(SiC), Scary Night Spawner(SNS) and Creepy Zombies(CZ).. additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons
 
-### DVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO (or both), and to optimize and minimize any 4k textures down to 1k or 2k: Hosting over 50 Mihail Monsters, along with Rogue Like Encounters(RLE), Skyrim Immersive Creatures(SiC), Scary Night Spawner(SNS) and Creepy Zombies(CZ).. additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons
-
-### RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects
+RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects
 
 ---
 
-### **RLE Combat Features, Quoted From Nexus**
+**RLE Combat Features, Quoted From Nexus:**
 
 - **RAID ADDS:** Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight, regular dragons get two or more dragonlings at 50% health, Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh (black daedroths wielding daedric greatswords) at 25%.
 
@@ -342,8 +329,6 @@ The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) ne
 ---
 
 ## **5c Nethers Follower Framework**
-
----
 
 Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with
 
@@ -390,11 +375,11 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 ## **11 - INSTALL IS COMPLETE**
 
-- ### **You’re Ready to Play!**
+- **You’re Ready to Play!**
 
-- ### **Please post on [**DVR Discord**](https://discord.com/invite/HuqU54gPcv) if you need any modlist support.**
+- **Please post on [**DVR Discord**](https://discord.com/invite/HuqU54gPcv) if you need any modlist support.**
 
-## **Thanks for downloading Diabolist VR...but most importantly... Have fun monster hunting & loot hoarding.**
+**Thanks for downloading Diabolist VR...but most importantly... Have fun monster hunting & loot hoarding.**
 
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
