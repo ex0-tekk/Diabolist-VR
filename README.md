@@ -159,6 +159,8 @@ From here forward I will be using 2 terms **over and over**.
 ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
 ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
 
+---
+
 It is **CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound)**, within your windows **firewall settings**, to prevent random CTD produced by Bethesda server pings.
 
 Open your windows search function and type in Firewall, then click on **'Windows Defender Firewall with Advanced Security.**
@@ -176,8 +178,6 @@ Open your windows search function and type in Firewall, then click on **'Windows
 Now direct this window to your SkyrimVR root folder and select SkyrimVR.exe
 
 ![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
-
-**Make SURE you select BLOCK, another window will pop up with Domain, Private and Public, make sure they are all selected.**
 
 ![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
 
