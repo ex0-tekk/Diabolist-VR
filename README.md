@@ -343,7 +343,7 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 - **You’re Ready to Play!**
 
-- **Please post on [**DVR Discord**](https://discord.com/invite/HuqU54gPcv) if you need any modlist support.**
+- **Please post on [DVR Discord](https://discord.com/invite/HuqU54gPcv) if you need any modlist support.**
 
 **Thanks for downloading Diabolist VR...but most importantly... Have fun monster hunting & loot hoarding.**
 
