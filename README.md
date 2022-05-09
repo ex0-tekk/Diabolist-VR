@@ -117,7 +117,9 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
 
 - Voidgate is a spell every player starts with in DVR, you simply access it from your magic menu and cast a dual portal to step into, for example: you're dungeon crawling and you want to goto town to sell or buy... ok, so you cast the spell and a blue swirling portal opens, now you open your map and goto your desired location (DVR lets you teleport out from ANY dungeon via your map), once you're finished, you simply cast the spell again and a 2nd portal opens, walk into the swirling portal, this returns you back to the spot where you were previously adventuring.
 
-- Fine-Tuned Challenge mod difficulty settings replace the traditional Skyrim difficulty settings, they flow in both directions for hard-mode, easy-mode, and everything in between... with a few _optional_ cheat mods available for casual steam-rolling fun. Look for _QoL Enhancements, Difficulty Options, Cheats & Level Lists_ on the left side of your MO2 window, you will find these cheat mods placed throughout this category, right click them and 'visit on nexus' for more info.
+- **The Fine-Tuned Challenge mod replaces the traditional Skyrim difficulty settings, they flow in both directions for hard-mode, easy-mode, and everything in between,** with a few _optional_ cheat mods available for casual steam-rolling fun.
+
+-  **Look for _QoL Enhancements, Difficulty Options, Cheats & Level Lists_ on the left side of your MO2 window and click on Visit Nexus if you'd like to read what they do, you will find these _OPTIONAL_ cheat mods placed throughout this category and these cheats are directly accessed in game through your inventory or MCM.**
 
 - All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to increase the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.
 
