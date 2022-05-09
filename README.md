@@ -400,16 +400,16 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 ---
 
 - **You’re Ready to Play!**
-- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you any need additional support **or** if you find any game breaking bugs.
+- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you need any additional support **or** if you find any critical bugs to report.
 - Friendly general chat is also available. **:)**
-  
+
 ---
 
-Thanks for downloading Diabolist VR
+**Thanks for downloading Diabolist VR.**
 
-**...but most importantly...**
+**...but most importantly ...**
 
-**Have fun monster hunting & loot hoarding!!**
+**Have fun Dungeon Crawling, Monster Hunting and Loot Hoarding!**
 
 ![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
 
