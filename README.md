@@ -113,7 +113,7 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
 
 - This mod list is a **loot hoarders dream**, and with that in mind, every new character you create starts with a **10,000lb carry weight ring.**
 
-- Transmuting lower quality items into a higher quality ones, or convert items of one type into another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) please read the authors nexus page linked here to see more details on how to do this.
+- Transmuting lower quality items into a higher quality ones, or convert items of one type into another with the [**Horadric Cube from Diablo II**](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) please read the authors nexus page linked here to see more details on how to do this.
 
 - Voidgate is a spell every player starts with in DVR, you simply access it from your magic menu and cast a dual portal to step into, for example: you're dungeon crawling and you want to goto town to sell or buy... ok, so you cast the spell and a blue swirling portal opens, now you open your map and goto your desired location (DVR lets you teleport out from ANY dungeon via your map), once you're finished, you simply cast the spell again and a 2nd portal opens, walk into the swirling portal, this returns you back to the spot where you were previously adventuring.
 
@@ -159,7 +159,7 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
 
 - Steam does not easily allow for new install folders, **follow [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.**
 
-- After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.**
+- After you have **confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above**, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.**
 
 ---
 
