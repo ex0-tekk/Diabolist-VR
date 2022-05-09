@@ -135,15 +135,17 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
 
 ---
 
-From here forward I will be using 2 terms **over and over**.
+**From here forward, I will be using 2 terms Over and Over.**
 
-  **HIGHLY RECOMMENDED  and  CRITICAL.**
+**HIGHLY RECOMMENDED**  and  **CRITICAL.**
+  
+---
 
-- HR is **IMPORTANT**, but also with flexibility towards other configurations if the user desires.
+- **HIGHLY RECOMMENDED is IMPORTANT**, but also with flexibility towards other configurations if the player desires.
 
-- CR is **MANDATORY**, to make the game run properly, or as DVR was intended to run, in all aspects.
+- **CRITICAL is MANDATORY** and **-MUST BE DONE-** in order to make the game run properly, or as DVR was intended to run, in all aspects.
 
-**PLEASE pay attention to these 2 words thoughout the rest of this guide.**
+- **PLEASE PAY ATTENTION TO THESE 2 WORDS FOR THE REST OF THIS INSTALL GUIDE.**
 
 ---
 
