@@ -119,7 +119,7 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
 
 - **The Fine-Tuned Challenge mod replaces the traditional Skyrim difficulty settings, they flow in both directions for hard-mode, easy-mode, and everything in between,** with a few _optional_ cheat mods available for casual steam-rolling fun.
 
--  **Look for _QoL Enhancements, Difficulty Options, Cheats & Level Lists_ on the left side of your MO2 window and click on Visit Nexus if you'd like to read what they do, you will find these _OPTIONAL_ cheat mods placed throughout this category and these cheats are directly accessed in game through your inventory or MCM.**
+- **Look for _QoL Enhancements, Difficulty Options, Cheats & Level Lists_ on the left side of your MO2 window and click on Visit on Nexus if you'd like to read what they do, you will find these _OPTIONAL_ cheat mods placed throughout this category and these cheats are directly accessed in game through your inventory or MCM.**
 
 - All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to increase the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.
 
