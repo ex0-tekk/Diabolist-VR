@@ -316,12 +316,15 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating a new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, It will **Auto-Load and Streamline ALL Highly Recommeneded and Critical specific settings for DVR**. These Auto-Load settings are **Highly Recommended and some are CRITICAL** for the best DVR experience. **This process will give users a notification if they try to interrupt and it will warn them to let it finish, when it's done loading you will be notified.**
+- Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating your new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, **It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings.** 
 
-![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
+- **These Auto-Load settings are Highly Recommended and some are CRITICAL for the best LoSVR experience.** This process will give users a notification if they try to interrupt and it will warn them to let it finish, **PLEASE LET THIS FINISH**, when it's done loading you will be notified.
+
+  ![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
-The **[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)** 
-nexus link is provided for further information, the author provides a short YouTube video to help you fully understand how this mod works.
+
+- The **[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)** 
+nexus link is provided for further information and the author provides a short YouTube video to help you fully understand how this mod works.
 
 ---
 
@@ -329,7 +332,7 @@ nexus link is provided for further information, the author provides a short YouT
 
 ---
 
-**DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod**, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, **this mod simply REPLACES the vanilla difficulty settings with detailed % numbers.** Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but **for the best experience you would set the multipliers progressively higher**, for example I use: Easy: 130%, Medium: 140%, Hard: 150%, Very Hard: 160%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 80% Dmg Inflicted and 120% Dmg Taken, **I also take followers on my adventures, you'll probably want too aswell.**
+**DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod**, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, **this mod simply REPLACES the vanilla difficulty settings with detailed % numbers.** Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but **for the best experience you would set the multipliers progressively higher**, for example **I use: Easy: 130%, Medium: 140%, Hard: 150%, Very Hard: 160%**, then adjust the Dmg taken & Dmg inflicted sliders based on your own preferences, **I use 80% Dmg Inflicted and 120% Dmg Taken, I also take followers on my adventures, you'll probably want to do the same..**
 
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 
