@@ -182,18 +182,24 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
 - Now select **Add an exclusion** and point it towards your **SkyrimVR.exe** and then **repeat this a second time to include ModOrganizer.exe.**
 
 ![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
+
 ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
+
 ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
 
 ---
 
-It is **CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound)**, within your windows **firewall settings**, to prevent random CTD produced by Bethesda server pings.
+### **WINDOWS FIREWALL**
 
-Open your windows search function and type in Firewall, then click on **'Windows Defender Firewall with Advanced Security.**
+---
+
+- It is **CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound)**, within your windows **firewall settings**, to prevent random CTD produced by Bethesda server pings.
+
+- Open your windows search function and type in Firewall, then click on **'Windows Defender Firewall with Advanced Security.**
 
 ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
 
-**When the Windows Firewall options pops up, follow these steps below:**
+- **When the Windows Firewall options pops up, follow these steps below:**
 
 ```ini
 1. Click Inbound Rules
@@ -203,21 +209,21 @@ Open your windows search function and type in Firewall, then click on **'Windows
 
 ![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
 
-**Now direct this window as shown below to your SkyrimVR root folder and select SkyrimVR.exe.**
+- **Now direct this window as shown below to your SkyrimVR root folder and select SkyrimVR.exe.**
 
 ![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
 
 ![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
 
-**Make SURE you select BLOCK** and another window will pop up with Domain, Private and Public, **make sure they are ALL selected**
+- **Make SURE you select BLOCK** and another window will pop up with Domain, Private and Public, **make sure they are ALL selected**
 
 ![Firewall Settings 5](https://user-images.githubusercontent.com/78007822/140572430-5546eb0d-5fea-4ed7-8b4c-a9242217ebb2.png)
 
-**Name this field below to whatever you want** or use what I have put in the screenshot provided, then **click finish.**
+- **Name this field below to whatever you want** or use what I have put in the screenshot provided, then **click finish.**
 
 ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 
-**NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR THE OUTBOUND BLOCK OPTIONS, AS THESE STEPS YOU'VE JUST COMPLETED ONLY COVER INBOUND BLOCKING.**
+- **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR THE OUTBOUND BLOCK OPTIONS, AS THESE STEPS YOU'VE JUST COMPLETED ONLY COVER INBOUND BLOCKING.**
 
 ---
 
@@ -231,7 +237,7 @@ Open your windows search function and type in Firewall, then click on **'Windows
 - There is **no need** to apply this pagefile size setting to multiple hard drives.
 Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is **HIGHLY RECOMMENDED** while using the pagefile setup with 1 free hard drive in this fashion and this info and how to configure the Windows Paging File Size is explained [**HERE**](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)
 
-  ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
+![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 
 ---
 
@@ -240,6 +246,8 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 ---
 
 **NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
+
+---
 
 - Download and install the [**Latest Version of Wabbajack**](https://github.com/wabbajack-tools/wabbajack/releases).
 
@@ -259,24 +267,28 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
+- There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
-**NOTE**: Windows 11 users can **ONLY** use ModOrganizer 2.4.2 or later.
+- **NOTE**: Windows 11 users can **ONLY** use ModOrganizer 2.4.2 or later.
 
-Look inside the DVR folder & open ModOrganizer.exe (2.4.4)
-Once it’s open, click on this icon.
+- **Look inside the DVR folder & open ModOrganizer.exe**
 
+- Once it’s open, click on this icon.
 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)
 
-**This configuration window will pop up ⬇️.**
+- **This configuration window will pop up ⬇️.**
 
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 
 - Having personalized .ini tweaks will help overall visuals based on SuperSampling settings.
 
 - **Example:** using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Oculus Rift S, and this resolution is reflected with two .ini settings.
+  
+```ini
+iHudMenuTextureSize = 2172
 
-- iHudMenuTextureSize = 2172 -  and -  iProjectedMenuTextureSize = 2172
+iProjectedMenuTextureSize = 2172
+```
 
 - These 2 sets of numbers above will **always** equal the largest number of your headsets resolution & they _should_ be adjusted with this ini configuration tool to match your HMD, for best in-game menu size.
 
@@ -286,7 +298,13 @@ Once it’s open, click on this icon.
 
 ---
 
-iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [DVR Discord](https://discord.gg/HuqU54gPcv)
+```ini
+iNumHWThreads = ?
+
+iNumThreads = ?
+```
+
+- These numbers represent how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, don't hesitate to post in the [**DVR Discord**](https://discord.gg/HuqU54gPcv) support channel.
 
 **You can close the SkyrimVR ini Tweaker now.**
 
@@ -294,25 +312,39 @@ iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set
 
 ## **5 - MCM Recorder Auto-Load Settings**
 
+---
+
 Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating a new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, It will **Auto-Load and Streamline ALL Highly Recommeneded and Critical specific settings for DVR**. These Auto-Load settings are **Highly Recommended and some are CRITICAL** for the best DVR experience. **This process will give users a notification if they try to interrupt and it will warn them to let it finish, when it's done loading you will be notified.**
 
 ![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
 The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) nexus link is provided for further information, the author provides a short YouTube video to help you fully understand how this mod works.
 
+---
+
 ### **5A - Fine-Tuned Challenge**
 
-**DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod**, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell
+---
+
+**DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod**, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, **this mod simply REPLACES the vanilla difficulty settings with detailed % numbers.** Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but **for the best experience you would set the multipliers progressively higher**, for example I use: Easy: 130%, Medium: 140%, Hard: 150%, Very Hard: 160%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 80% Dmg Inflicted and 120% Dmg Taken, **I also take followers on my adventures, you'll probably want too aswell.**
 
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 
+---
+
 ### **5B - RLE-SiC-Mihail Monsters**
+
+---
 
 DVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO (or both), and to optimize and minimize any 4k textures down to 1k or 2k: Hosting over 50 Mihail Monsters, along with Rogue Like Encounters(RLE), Skyrim Immersive Creatures(SiC), Scary Night Spawner(SNS) and Creepy Zombies(CZ).. additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons
 
-RLE provides 3 Combat modules to pick from and DVR uses the Clean Combat Module, which only alters the enemy combat styles, this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects
+RLE provides 3 Combat modules to pick from and **DVR uses the Clean Combat Module**, which only alters the enemy combat styles, **this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.**
 
-**RLE Combat Features, Quoted From Nexus:**
+---
+
+## **RLE Combat Features, Quoted From Nexus:**
+
+---
 
 - **RAID ADDS:** Dragons (and many other creatures) now have mmo-style adds which spawn mid-fight, regular dragons get two or more dragonlings at 50% health, Alduin gets dragonlings at 50% and 2 or more Blackguards of Akatosh (black daedroths wielding daedric greatswords) at 25%.
 
