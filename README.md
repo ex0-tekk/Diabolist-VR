@@ -9,7 +9,7 @@
 ---
 
 - **[1 - Introduction](#1---introduction)**
-- **[2 - Recommended Specs for DVR](#2---recommended-specs-for-dvr)**
+- **[2 - PC Requirements for DVR](#2---pc-requirements-for-dvr)**
 - **[3 - Mod List Features](#3---mod-list-features)**
   
 ---
@@ -45,7 +45,7 @@
 
 ---
 
-**Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s by adding 8 Diablo inspired mods and so much more, this includes:**
+**Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding 8 Diablo inspired mods and so much more, this includes:**
 
 - Solarion Spear intro replacer.
 - A custom flame Diablo intro.
@@ -62,13 +62,13 @@
 
 ---
 
-## **2 - RECOMMENDED SPECS FOR DVR**
+## **2 - PC REQUIREMENTS FOR DVR**
 
 ---
 
-DVR should run well on modern medium to high end PC-VR configurations, as **I focused heavily on optimizing all performance related settings** via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
+DVR should run well on modern PC-VR configurations from medium to high end, **I focused heavily on optimizing all performance related settings** via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
-**Minimum and Recommended Specs for DVR:**
+### **Minimum and Recommended PC-VR Setup for DVR:**
 
 - 20xx graphics cards **_(30xx cards are highly recommended, and 1080 should still work but it will be laggy and require further performance tweaking, users will need to troubleshoot these issues on their own.)_**
 - AMD Ryzen-5 or Intel-5. _(7 or 9 is recommended.)_
@@ -81,7 +81,9 @@ A complete DVR install has a total size of roughly 100 GB, it’s **HIGHLY RECOM
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
-### DVR is developed and tested with this PC-VR setup:
+---
+
+**DVR is developed and tested with this PC-VR setup:**
 
 - Oculus Rift S.
 - Win 10 ver.20H2 Fully Updated.
@@ -96,16 +98,16 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot system
+**To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot system.**
 
-% = Drop Rate
+**The Percentages displayed below are the item drop rates.**
 
 - **No Star = No enchant (Vanilla) = 15%**
 - **1 Star = 1 Enchant = 67%**
 - **2 Stars = 2 Enchants = 15%**
 - **3 Stars = 3 enchants = 3%**
   
-**NOTE:** _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star, this cannot be changed, additionally, there is 10 randomly enchanted item variations on all tiers, EXCEPT No Star & No Enchant (Vanilla).
+**NOTE:** _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star, this cannot be changed, **additionally, there is 10 randomly enchanted item variations on all tiers, EXCEPT No Star & No Enchant (Vanilla).**
 
 - The loot system in DVR is **VERY GENEROUS**, just like the Diablo series is known for, so you will **often** be upgrading, tossing away or selling items, **Nethers Follower Framework** provides a dialogue option to make your followers run to town and sell any gear you give them regardless of where you are or the funds available on merchants, **using this feature is HIGHLY RECOMMENDED** as you continue gathering loot if you don't want to always travel and sell. Making income in DVR should not be an issue regardless of you and your followers selling items, due to the boss chests and dragons providing plenty of gold, additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less income for selling all items, along with other barter tweaks such as:increased merchant gold, increased ferry and horse carriage costs, sleeping at the inn costs more and other currency adjustments.
 
@@ -200,7 +202,6 @@ To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot
   ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
 
 - **When the Windows Firewall options pops up, follow these steps below:**
-
 
 - Click Inbound Rules
 - Click New Rule
