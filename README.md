@@ -81,7 +81,7 @@ A complete DVR install has a total size of roughly 100 GB, it’s **HIGHLY RECOM
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
-### DVR is developed and tested with this PC-VR setup
+### DVR is developed and tested with this PC-VR setup:
 
 - Oculus Rift S.
 - Win 10 ver.20H2 Fully Updated.
