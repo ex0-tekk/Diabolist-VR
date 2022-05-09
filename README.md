@@ -45,16 +45,18 @@
 
 ---
 
-**Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding 8 Diablo inspired mods and so much more, this includes:**
+**Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding 10 Diablo inspired mods and so much more, this includes:**
 
-- Solarion Spear intro replacer.
 - A custom flame Diablo intro.
+- Solarion Spear intro replacer.
 - Authentic in-game Diablo font.
 - Intro and in-game music overhaul.
+- The Secret Cow level from Diablo II.
 - Gauntlet mouse cursor from Diablo II.
 - A classicly generous 3 tier loot system.
 - A dual town portal spell called Voidgate.
 - The Horadric Crafting Cube from Diablo II.
+- Various weapons inspired by the Diablo series.
 - The female Amazon from Diablo II visually improved over the LE version.
 - The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.
 - Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.
@@ -306,7 +308,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, **if more help is needed with this, don't hesitate to post in the **[DVR Discord](https://discord.gg/HuqU54gPcv)** support channel.
+- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, **if more help is needed with this, don't hesitate to post in the**[DVR Discord](https://discord.gg/HuqU54gPcv)** support channel.
 
 - ### **You can close the SkyrimVR ini Tweaker now.**
 
@@ -316,14 +318,14 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-- Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating your new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, **It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings.** 
+- Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating your new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, **It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings.**
 
 - **These Auto-Load settings are Highly Recommended and some are CRITICAL for the best LoSVR experience.** This process will give users a notification if they try to interrupt and it will warn them to let it finish, **PLEASE LET THIS FINISH**, when it's done loading you will be notified.
 
   ![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
 
-- The **[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)** 
+- The **[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)**
 nexus link is provided for further information and the author provides a short YouTube video to help you fully understand how this mod works.
 
 ---
