@@ -8,40 +8,40 @@
 
 ---
 
-- **[1 - Introduction](#1---introduction)**
-- **[2 - PC Requirements for DVR](#2---pc-requirements-for-dvr)**
-- **[3 - Mod List Features](#3---mod-list-features)**
+- **[1. Introduction](#1.-introduction)**
+- **[2. PC Requirements for DVR](#2.-pc-requirements-for-dvr)**
+- **[3. Mod List Features](#3.-mod-list-features)**
   
 ---
 
-- **[4 - Gameplay Prep](#4---gameplay-prep)**
-  - **[4A - SkyrimVR Install](#4a---skyrimvr-install)**
-  - **[4B - Visual C Runtime Installs](#4b---visual-c-runtime-installs)**
-  - **[4C - Windows Antivirus and Firewall Settings](#4c---windows-antivirus-and-firewall-settings)**
-  - **[4D - Windows Paging File Size](#4d---windows-paging-file-size)**
-  - **[4E - Wabbajack and DVR Install](#4e---wabbajack-and-dvr-install)**
-  - **[4F - SkyrimVR ini Tweaker](#4f---skyrimvr-ini-tweaker)**
-  - **[4G - CPU Threads](#4g---cpu-threads)**
+- **[4. Gameplay Prep](#4.-gameplay-prep)**
+  - **[4A. SkyrimVR Install](#4a.-skyrimvr-install)**
+  - **[4B. Visual C Runtime Installs](#4b.-visual-c-runtime-installs)**
+  - **[4C. Windows Antivirus and Firewall Settings](#4c.-windows-antivirus-and-firewall-settings)**
+  - **[4D. Windows Paging File Size](#4d.-windows-paging-file-size)**
+  - **[4E. Wabbajack and DVR Install](#4e.-wabbajack-and-dvr-install)**
+  - **[4F. SkyrimVR ini Tweaker](#4f.-skyrimvr-ini-tweaker)**
+  - **[4G. CPU Threads](#4g.-cpu-threads)**
   
 ---
 
-- **[5 - MCM Recorder Auto-Load Settings](#5---mcm-recorder-auto-load-settings)**
-  - **[5A - Fine-Tuned Challenge](#5a---fine-tuned-challenge)**
-  - **[5B - RLE-SiC-Mihail Monsters](#5b---rle-sic-mihail-monsters)**
-  - **[5C - Nethers Follower Framework](#5c---nethers-follower-framework)**
+- **[5. MCM Recorder Auto-Load Settings](#5.-mcm-recorder-auto-load-settings)**
+  - **[5A. Fine-Tuned Challenge](#5a.-fine-tuned-challenge)**
+  - **[5B. RLE-SiC-Mihail Monsters](#5b.-rle-sic-mihail-monsters)**
+  - **[5C. Nethers Follower Framework](#5c.-nethers-follower-framework)**
   
 ---
 
-- **[6 - The Sharper Eye](#6---the-sharper-eye)**
-- **[7 - TAA On or Off](#7---taa-on-or-off)**
-- **[8 - Nvidia Settings](#8---nvidia-settings)**
-- **[9 - SkyrimVR and SkyrimPrefs ini](#9---skyrimvr-and-skyrimprefs-ini)**
-- **[10 - DO NOT SORT DVR WITH LOOT](#do-not-sort-dvr-with-loot)**
-- **[11 - INSTALL IS COMPLETE](#11--install-is-complete)**
+- **[6. The Sharper Eye](#6.-the-sharper-eye)**
+- **[7. TAA On or Off](#7.-taa-on-or-off)**
+- **[8. Nvidia Settings](#8.-nvidia-settings)**
+- **[9. SkyrimVR and SkyrimPrefs ini](#9.-skyrimvr-and-skyrimprefs-ini)**
+- **[10. DO NOT SORT DVR WITH LOOT](#10.-do-not-sort-dvr-with-loot)**
+- **[11. INSTALL IS COMPLETE](#11.-install-is-complete)**
 
 ---
 
-## **1 - INTRODUCTION**
+## **1. INTRODUCTION**
 
 ---
 
@@ -62,7 +62,7 @@
 
 ---
 
-## **2 - PC REQUIREMENTS FOR DVR**
+## **2. PC REQUIREMENTS FOR DVR**
 
 ---
 
@@ -94,7 +94,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-## **3 - MOD LIST FEATURES**
+## **3. MOD LIST FEATURES**
 
 ---
 
@@ -135,7 +135,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-## **4 - GAMEPLAY PREP**
+## **4. GAMEPLAY PREP**
 
 ---
 
@@ -153,7 +153,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-### **4A - SkyrimVR Install**
+### **4A. SkyrimVR Install**
 
 ---
 
@@ -165,7 +165,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-### **4B - Visual C Runtime Installs**
+### **4B. Visual C Runtime Installs**
 
 ---
 
@@ -173,7 +173,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-### **4C - Windows Antivirus and Firewall Settings**
+### **4C. Windows Antivirus and Firewall Settings**
 
 ---
 
@@ -191,7 +191,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-### **WINDOWS FIREWALL**
+- ### **WINDOWS FIREWALL**
 
 ---
 
@@ -227,7 +227,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-### **4D - Windows Paging File Size**
+### **4D. Windows Paging File Size**
 
 ---
 
@@ -241,7 +241,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-### **4E - Wabbajack and DVR Install**
+### **4E. Wabbajack and DVR Install**
 
 ---
 
@@ -263,7 +263,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-### **4F - SkyrimVR ini Tweaker**
+### **4F. SkyrimVR ini Tweaker**
 
 ---
 
@@ -296,7 +296,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-### **4G - CPU Threads**
+### **4G. CPU Threads**
 
 ---
 
@@ -312,7 +312,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-## **5 - MCM Recorder Auto-Load Settings**
+## **5. MCM Recorder Auto-Load Settings**
 
 ---
 
@@ -324,7 +324,7 @@ The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) ne
 
 ---
 
-### **5A - Fine-Tuned Challenge**
+### **5A. Fine-Tuned Challenge**
 
 ---
 
@@ -334,7 +334,7 @@ The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) ne
 
 ---
 
-### **5B - RLE-SiC-Mihail Monsters**
+### **5B. RLE-SiC-Mihail Monsters**
 
 ---
 
@@ -372,7 +372,7 @@ RLE provides 3 Combat modules to pick from and **DVR uses the Clean Combat Modul
 
 ---
 
-### **5C - Nethers Follower Framework**
+### **5C. Nethers Follower Framework**
 
 ---
 
@@ -384,7 +384,7 @@ Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/6
 
 ---
 
-## **6 - The Sharper Eye**
+## **6. The Sharper Eye**
 
 ---
 
@@ -394,7 +394,7 @@ With SteamVR, **I recommend** using [**The Sharper Eye mod**](https://www.nexusm
 
 ---
 
-## **7 - TAA On or Off**
+## **7. TAA On or Off**
 
 ---
 
@@ -404,7 +404,7 @@ then set bTAAWater = 0, otherwise you may see visual anomalies with water.
 
 ---
 
-## **8 - NVIDIA Settings**
+## **8. NVIDIA Settings**
 
 ---
 
@@ -415,7 +415,7 @@ The SkyrimVR specific nVidia Control Panel settings I have provided are for bett
 
 ---
 
-## **9 - SkyrimVR and SkyrimPrefs ini**
+## **9. SkyrimVR and SkyrimPrefs ini**
 
 ---
 
@@ -423,7 +423,7 @@ If you want to reset your Diabolist VR .ini files back to install defaults: [**s
 
 ---
 
-## **10 - DO NOT SORT DVR WITH LOOT**
+## **10. DO NOT SORT DVR WITH LOOT**
 
 ---
 
@@ -431,7 +431,7 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 ---
 
-## **11 - INSTALL IS COMPLETE**
+## **11. INSTALL IS COMPLETE**
 
 ---
 
