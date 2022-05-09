@@ -320,7 +320,8 @@ Start DVR through SKSE on the top right section of ModOrganizer, once you finish
 
 ![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
-The **[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)** nexus link is provided for further information, the author provides a short YouTube video to help you fully understand how this mod works.
+The **[MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719)** 
+nexus link is provided for further information, the author provides a short YouTube video to help you fully understand how this mod works.
 
 ---
 
@@ -376,9 +377,9 @@ RLE provides 3 Combat modules to pick from and **DVR uses the Clean Combat Modul
 
 ---
 
-Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with
+Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful **[PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704)** from the author of this mod, if needed, as NFF has a slew of options to get acquainted with
 
-Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530). This mod is a set of rings located in a Riverwood chest near the trader merchant, these will help your followers effectively TAKE DAMAGE at higher levels, so as to not be god-like DMG sponges if you decide to NOT Use Nethers Follower Framework for these exact same options.
+Also included is **[Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530).** This mod is a set of rings located in a Riverwood chest near the trader merchant, these will help your followers effectively TAKE DAMAGE at higher levels, so as to not be god-like DMG sponges if you decide to NOT Use Nethers Follower Framework for these exact same options.
 
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 
@@ -388,7 +389,7 @@ Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/6
 
 ---
 
-With SteamVR, **I recommend** using [**The Sharper Eye mod**](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen
+With SteamVR, **I recommend** using **[The Sharper Eye mod](https://www.nexusmods.com/skyrimspecialedition/mods/46999/)** with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen
 
 ![The Sharper Eye](https://user-images.githubusercontent.com/78007822/139843882-792e6293-f0b9-4c05-8564-62e06bfce179.png)
 
