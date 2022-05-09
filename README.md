@@ -398,9 +398,15 @@ With SteamVR, **I recommend** using [**The Sharper Eye mod**](https://www.nexusm
 
 ---
 
-TAA makes the distant image in VR have less jaggies (shimmer), and it's turned ON by default with DVR, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, **if you don't want TAA**, then simply **disable it** via the options in game when you are playing, additionally, it is **CRITICAL** to open your SkyrimVR ini Tweaker tool again...
-![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png)
-then set bTAAWater = 0, otherwise you may see visual anomalies with water.
+TAA makes the distant image in VR have less jaggies (shimmer), and it's **turned ON by default**, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, **if you don't want TAA, then simply open your SkyrimVR ini Tweaker tool ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and disable it with these ini settings shown below.**
+
+---
+
+bTAAWater = 0
+
+bUseTAA = 0
+
+ Additionally, it is **CRITICAL** these steps are **ONLY taken IF you decide to disable TAA.**
 
 ---
 
