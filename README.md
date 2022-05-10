@@ -104,9 +104,9 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 **The Percentages displayed below are the item drop rates.**
 
-- **No Star = No enchant (Vanilla) = 15%**
-- **1 Star = 1 Enchant = 67%**
-- **2 Stars = 2 Enchants = 15%**
+- **No Star = No enchant (Vanilla) = 60%**
+- **1 Star = 1 Enchant = 30%**
+- **2 Stars = 2 Enchants = 7%**
 - **3 Stars = 3 enchants = 3%**
   
 **NOTE:** _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star, this cannot be changed, **additionally, there is 10 randomly enchanted item variations on all tiers, EXCEPT No Star & No Enchant (Vanilla).**
