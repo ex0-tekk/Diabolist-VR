@@ -26,8 +26,11 @@
 ---
 
 - **[5. MCM Recorder Auto-Load Settings](#5.-mcm-recorder-auto-load-settings)**
+  
   - **[5A. Fine-Tuned Challenge](#5a.-fine-tuned-challenge)**
+  
   - **[5B. RLE-SiC-Mihail Monsters](#5b.-rle-sic-mihail-monsters)**
+  
   - **[5C. Nethers Follower Framework](#5c.-nethers-follower-framework)**
   
 ---
