@@ -460,7 +460,8 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 **Have fun Dungeon Crawling, Monster Hunting and Loot Hoarding!**
 
-![DVR Flame Banner Footer](https://user-images.githubusercontent.com/78007822/167721395-669de923-9608-415b-98be-099ffe96af2c.png)
+![DVR Flame Banner Footer](https://user-images.githubusercontent.com/78007822/167721606-8675ef17-d6e8-4353-a376-5f5c61306479.png)
+
 
 Latest DVR Guide Update, 05/09/2022.
 
