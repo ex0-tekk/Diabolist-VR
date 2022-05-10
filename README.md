@@ -1,6 +1,7 @@
 # Diabolist VR Install Guide
 
-![DVR Flame Banner](https://user-images.githubusercontent.com/78007822/167716409-de09a53b-d0e5-4395-b09e-f28255e7f8b3.jpg)
+![DVR Flame Banner Header](https://user-images.githubusercontent.com/78007822/167721350-d832133f-a067-4c42-90a1-2569b356b969.png)
+
 
 ---
 
@@ -459,7 +460,7 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 **Have fun Dungeon Crawling, Monster Hunting and Loot Hoarding!**
 
-![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
+![DVR Flame Banner Footer](https://user-images.githubusercontent.com/78007822/167721395-669de923-9608-415b-98be-099ffe96af2c.png)
 
 Latest DVR Guide Update, 05/09/2022.
 
