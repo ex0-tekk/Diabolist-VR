@@ -1,6 +1,6 @@
 # Diabolist VR Install Guide
 
-![DVR Logo Final New 16-9 1080p](https://user-images.githubusercontent.com/78007822/147439146-04f82b08-81da-48a0-9c16-ba6f470ff093.png)
+![DVR Flame Banner](https://user-images.githubusercontent.com/78007822/167716409-de09a53b-d0e5-4395-b09e-f28255e7f8b3.jpg)
 
 ---
 
