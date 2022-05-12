@@ -1,6 +1,7 @@
 # Diabolist VR Install Guide
 
-![DVR Logo Final New 16-9 1080p](https://user-images.githubusercontent.com/78007822/147439146-04f82b08-81da-48a0-9c16-ba6f470ff093.png)
+![DVR Flame Banner Header](https://user-images.githubusercontent.com/78007822/167721350-d832133f-a067-4c42-90a1-2569b356b969.png)
+
 
 ---
 
@@ -8,39 +9,36 @@
 
 ---
 
-- **[1. Introduction](#1.-introduction)**
-- **[2. PC Requirements for DVR](#2.-pc-requirements-for-dvr)**
-- **[3. Mod List Features](#3.-mod-list-features)**
+- **[1. Introduction](#1-introduction)**
+- **[2. PC Requirements for DVR](#2-pc-requirements-for-dvr)**
+- **[3. Mod List Features](#3-mod-list-features)**
   
 ---
 
-- **[4. Gameplay Prep](#4.-gameplay-prep)**
-  - **[4A. SkyrimVR Install](#4a.-skyrimvr-install)**
-  - **[4B. Visual C Runtime Installs](#4b.-visual-c-runtime-installs)**
-  - **[4C. Windows Antivirus and Firewall Settings](#4c.-windows-antivirus-and-firewall-settings)**
-  - **[4D. Windows Paging File Size](#4d.-windows-paging-file-size)**
-  - **[4E. Wabbajack and DVR Install](#4e.-wabbajack-and-dvr-install)**
-  - **[4F. SkyrimVR ini Tweaker](#4f.-skyrimvr-ini-tweaker)**
-  - **[4G. CPU Threads](#4g.-cpu-threads)**
+- **[4. Gameplay Prep](#4-gameplay-prep)**
+  - **[4A. SkyrimVR Install](#4a-skyrimvr-install)**
+  - **[4B. Visual C Runtime Installs](#4b-visual-c-runtime-installs)**
+  - **[4C. Windows Antivirus and Firewall Settings](#4c-windows-antivirus-and-firewall-settings)**
+  - **[4D. Windows Paging File Size](#4d-windows-paging-file-size)**
+  - **[4E. Wabbajack and DVR Install](#4e-wabbajack-and-dvr-install)**
+  - **[4F. SkyrimVR ini Tweaker](#4f-skyrimvr-ini-tweaker)**
+  - **[4G. CPU Threads](#4g-cpu-threads)**
   
 ---
 
-- **[5. MCM Recorder Auto-Load Settings](#5.-mcm-recorder-auto-load-settings)**
-  
-  - **[5A. Fine-Tuned Challenge](#5a.-fine-tuned-challenge)**
-  
-  - **[5B. RLE-SiC-Mihail Monsters](#5b.-rle-sic-mihail-monsters)**
-  
-  - **[5C. Nethers Follower Framework](#5c.-nethers-follower-framework)**
+- **[5. MCM Recorder Auto-Load Settings](#5-mcm-recorder-auto-load-settings)**
+  - **[5A. Fine-Tuned Challenge](#5a-fine-tuned-challenge)**
+  - **[5B. RLE-SiC-Mihail Monsters](#5b-rle-sic-mihail-monsters)**
+  - **[5C. Nethers Follower Framework](#5c-nethers-follower-framework)**
   
 ---
 
-- **[6. The Sharper Eye](#6.-the-sharper-eye)**
-- **[7. TAA On or Off](#7.-taa-on-or-off)**
-- **[8. Nvidia Settings](#8.-nvidia-settings)**
-- **[9. SkyrimVR and SkyrimPrefs ini](#9.-skyrimvr-and-skyrimprefs-ini)**
-- **[10. DO NOT SORT DVR WITH LOOT](#10.-do-not-sort-dvr-with-loot)**
-- **[11. INSTALL IS COMPLETE](#11.-install-is-complete)**
+- **[6. The Sharper Eye](#6-the-sharper-eye)**
+- **[7. TAA On or Off](#7-taa-on-or-off)**
+- **[8. Nvidia Settings](#8-nvidia-settings)**
+- **[9. SkyrimVR and SkyrimPrefs ini](#9-skyrimvr-and-skyrimprefs-ini)**
+- **[10. DO NOT SORT DVR WITH LOOT](#10-do-not-sort-dvr-with-loot)**
+- **[11. INSTALL IS COMPLETE](#11-install-is-complete)**
 
 ---
 
@@ -95,7 +93,7 @@ DVR should run well on modern PC-VR configurations from medium to high end, **I 
 
 **This should be a good start for decent performance.**
 
-A complete DVR install has a total size of roughly 100 GB, it’s **HIGHLY RECOMMENDED** that you **install this on a NVMe M.2 SSD for optimal performance**, although traditional SSD _should_ be fine.
+A complete DVR install has a total size of roughly 110 GB, (_this size includes the initial DVR wabbajack file_) it’s **HIGHLY RECOMMENDED** that you **install this on a NVMe M.2 SSD for optimal performance**, although traditional SSD _should_ be fine.
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
@@ -175,11 +173,11 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-- It is **CRITICAL to have a 100% fresh install of SkyrimVR** available & ready to play, It is also **CRITICAL** to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86) **<- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play**, It is also **CRITICAL** to **have your STEAM and SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86)** <- ignore these 2 folders for the entire process of this install guide, due to possible **admin rights restrictions.** **Typically the BEST place to have Steam and SkyrimVR installed is on the ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
 
-- Steam does not easily allow for new install folders, **follow [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.**
+- If you want to use a drive OFF of your C Drive to install SkyrimVR, that's fine too, but STEAM MUST BE INSTALLED OUTSIDE OF C:/Program Files  and  C:/Program Files (x86) , simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams install locations once it's ready to use, but **the Root C drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and DVR.**
 
-- After you have **confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above**, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.**
+- After you have confirmed SkyrimVR is installed in a folder outside of those 2 Program File folders mentioned above, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
 ---
 
@@ -324,7 +322,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, **if more help is needed with this, don't hesitate to post in the**[DVR Discord](https://discord.gg/HuqU54gPcv)** support channel.
+- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, **if more help is needed with this, don't hesitate to post in the** [**Discord DVR Support Chat Channel**](https://discord.gg/HuqU54gPcv).
 
 - ### **You can close the SkyrimVR ini Tweaker now.**
 
@@ -336,7 +334,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 - Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating your new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, **It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings.**
 
-- **These Auto-Load settings are Highly Recommended and some are CRITICAL for the best LoSVR experience.** This process will give users a notification if they try to interrupt and it will warn them to let it finish, **PLEASE LET THIS FINISH**, when it's done loading you will be notified.
+- **These Auto-Load settings are Highly Recommended and some are CRITICAL for the best DVR experience.** This process will give users a notification if they try to interrupt and it will warn them to let it finish, **PLEASE LET THIS FINISH**, when it's done loading you will be notified.
 
   ![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
@@ -366,7 +364,7 @@ RLE provides 3 Combat modules to pick from and **DVR uses the Clean Combat Modul
 
 ---
 
-### **RLE Combat Features, Quoted From Nexus:**
+### **RLE Combat Features, Quoted From The Author:**
 
 ---
 
@@ -464,7 +462,7 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 ---
 
 - **You’re Ready to Play!**
-- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you need any additional support **or** if you find any critical bugs to report.
+- Please post on [**LoSVR / DVR Discord**](https://discord.com/invite/HuqU54gPcv) support channels if you need any additional support **or** if you find any critical bugs to report.
 - Friendly general chat is also available. **:)**
 
 ---
@@ -475,8 +473,9 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 **Have fun Dungeon Crawling, Monster Hunting and Loot Hoarding!**
 
-![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
+![DVR Flame Banner Footer](https://user-images.githubusercontent.com/78007822/167721606-8675ef17-d6e8-4353-a376-5f5c61306479.png)
 
-Latest DVR Guide Update, 05/09/2022.
+
+Latest DVR Guide Update, 05/10/2022.
 
 ---
