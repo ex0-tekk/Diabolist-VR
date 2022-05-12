@@ -174,7 +174,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE.** 
 
-C:/Program Files  and  C:/Program Files (x86) <- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+C:\Program Files  and  C:\Program Files (x86) <- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
 **It is also HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
 
