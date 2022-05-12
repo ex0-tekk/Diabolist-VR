@@ -321,7 +321,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 - Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating your new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, **It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings.**
 
-- **These Auto-Load settings are Highly Recommended and some are CRITICAL for the best LoSVR experience.** This process will give users a notification if they try to interrupt and it will warn them to let it finish, **PLEASE LET THIS FINISH**, when it's done loading you will be notified.
+- **These Auto-Load settings are Highly Recommended and some are CRITICAL for the best DVR experience.** This process will give users a notification if they try to interrupt and it will warn them to let it finish, **PLEASE LET THIS FINISH**, when it's done loading you will be notified.
 
   ![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
