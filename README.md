@@ -2,7 +2,6 @@
 
 ![DVR Flame Banner Header](https://user-images.githubusercontent.com/78007822/167721350-d832133f-a067-4c42-90a1-2569b356b969.png)
 
-
 ---
 
 ## **DVR Install Index**
@@ -475,7 +474,6 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 ![DVR Flame Banner Footer](https://user-images.githubusercontent.com/78007822/167721606-8675ef17-d6e8-4353-a376-5f5c61306479.png)
 
-
-Latest DVR Guide Update, 05/10/2022.
+Latest DVR Guide Update, 05/12/2022.
 
 ---
