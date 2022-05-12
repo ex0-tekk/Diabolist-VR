@@ -172,11 +172,13 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE** and **OUTSIDE of**  C:/Program Files  and  C:/Program Files (x86) <- **ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE.** 
 
-**It is HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
+C:/Program Files  and  C:/Program Files (x86) <- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
-- If you want to use a drive for Steam or skyrimVR OFF of your C Drive, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams game install locations, but **the Root C drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and DVR.**
+**It is also HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
+
+- If you want to use another drive for Steam or SkyrimVR, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams game install locations, but regardless of this, **The root C drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and DVR.**
 
 - After you have confirmed SkyrimVR is installed in a folder outside of those 2 Program File folders mentioned above, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
