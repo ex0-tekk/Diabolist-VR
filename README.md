@@ -180,7 +180,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 
 **It is also HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE.**
 
-### **EXAMPLE**
+### **EXAMPLE:**
 
 **Steam Install Location:**
 
