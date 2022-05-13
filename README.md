@@ -190,7 +190,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 
 - C:\Steam\steamapps\common\SkyrimVR
 
-**Legend of SkyrimVR Install Location:**
+**Diabolist VR Install Location:**
 
 - C:\DVR
 
