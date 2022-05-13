@@ -286,13 +286,13 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-- Download and install the [**Latest Version of Wabbajack**](https://github.com/wabbajack-tools/wabbajack/releases).
+- Download and install [**Wabbajack**](https://www.wabbajack.org/).
 
 - Next, make a folder **Preferably ON THE ROOT C DRIVE** and label it **DVR**.
 
 - **IMPORTANT REMINDER:** **-DO NOT-** install **ANYthing** into your C:/Program Files or C:/Program Files (x86) folders, due to admin restrictions.
 
-- **Download Diabolist VR from the Wabbajack VR drop down section to begin the install process**, once that initial download is done, a new Wabbajack window will pop up, go ahead and select the **Installation Location (3 Dots ...)** on the right side middle field section, then select the DVR folder you created peviously, **preferably on the Root C Drive to make things easier**, once you do that the download section will automatically pick the Mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
+- **Download Diabolist VR from the Wabbajack VR drop down menu on the top section of the software to begin the install process**, once that initial download is done, a new Wabbajack window will pop up, go ahead and select the **Installation Location (3 Dots ...)** on the right side middle field section, then select the DVR folder you created peviously, **preferably on the Root C Drive to make things easier**, once you do that the download section will automatically pick the Mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
 - Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 500 mods so just be patient & let it finish, if it Freezes or Fails Install (**this may happen several times during the download and install process**), simply start the process over, just re-open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off, **If you Cannot download this file whatsoever**, then **please join the** [**DVR & LoSVR Discord**](https://discord.com/invite/HuqU54gPcv) for further assistance and a mirrored link to the same file.
 
