@@ -15,7 +15,7 @@
 ---
 
 - **[4. Gameplay Prep](#4-gameplay-prep)**
-  - **[4A. SkyrimVR Install](#4a-skyrimvr-install)**
+  - **[4A. SkyrimVR and Steam Install](#4a-skyrimvr-and-steam-install)**
   - **[4B. Visual C Runtime Installs](#4b-visual-c-runtime-installs)**
   - **[4C. Windows Antivirus and Firewall Settings](#4c-windows-antivirus-and-firewall-settings)**
   - **[4D. Windows Paging File Size](#4d-windows-paging-file-size)**
@@ -45,35 +45,35 @@
 
 ---
 
-**Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding 10 Diablo inspired mods and so much more, this includes:**
+### **Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding 10 Diablo inspired mods and so much more, this includes:**
 
-- ### **A custom flame Diablo intro.**
+- **A custom flame Diablo intro.**
   
-- ### **Solarion Spear intro replacer.**
+- **Solarion Spear intro replacer.**
   
-- ### **Authentic in-game Diablo font.**
+- **Authentic in-game Diablo font.**
   
-- ### **Intro and in-game music overhaul.**
+- **Intro and in-game music overhaul.**
   
-- ### **The Secret Cow level from Diablo II**
+- **The Secret Cow level from Diablo II**
   
-- ### **Gauntlet mouse cursor from Diablo II.**
+- **Gauntlet mouse cursor from Diablo II.**
   
-- ### **A classicly generous 3 tier loot system.**
+- **A classicly generous 3 tier loot system.**
   
-- ### **A dual town portal spell called Voidgate.**
+- **A dual town portal spell called Voidgate.**
   
-- ### **The Horadric Crafting Cube from Diablo II.**
+- **The Horadric Crafting Cube from Diablo II.**
   
-- ### **Various weapons inspired by the Diablo series.**
+- **Various weapons inspired by the Diablo series.**
   
-- ### **The female Amazon from Diablo II visually improved over the LE version.**
+- **The female Amazon from Diablo II visually improved over the LE version.**
   
-- ### **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
+- **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
   
-- ### **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
+- **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
   
-- ### **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
+- **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 
 ---
 
@@ -168,7 +168,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-### **4A. SkyrimVR Install**
+### **4A. SkyrimVR and Steam Install**
 
 ---
 
@@ -277,19 +277,19 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 ---
 
-**NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
+### **NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
 
 ---
 
 - Download and install the [**Latest Version of Wabbajack**](https://github.com/wabbajack-tools/wabbajack/releases).
 
-- Next, make a folder on the SSD drive you'll be using and label it **DVR**.
+- Next, make a folder **Preferably ON THE ROOT C DRIVE** and label it **DVR**.
 
 - **IMPORTANT REMINDER:** **-DO NOT-** install **ANYthing** into your C:/Program Files or C:/Program Files (x86) folders, due to admin restrictions.
 
 - **Download Diabolist VR from the Wabbajack VR drop down section to begin the install process**, once that initial download is done, a new Wabbajack window will pop up, go ahead and select the **Installation Location (3 Dots ...)** on the right side middle field section, then select the DVR folder you created peviously, **preferably on the Root C Drive to make things easier**, once you do that the download section will automatically pick the Mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
-- Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, (you may have to do this several times), simply re-open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
+- Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 500 mods so just be patient & let it finish, if it Freezes or Fails Install (**this may happen several times during the download and install process**), simply start the process over, just re-open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off, **If you Cannot download this file whatsoever**, then please join the [DVR & LoSVR Discord](https://discord.com/invite/HuqU54gPcv) for further assistance and a mirrored link to the same file.
 
 - After install is finished, close the Wabbajack window & proceed to the DVR folder, open the folder called **GameFilesFolder**, then drag & drop ALL of these files into your SkyrimVR root folder, there _should_ be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.
 
