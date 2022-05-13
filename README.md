@@ -57,7 +57,7 @@
   
 - **Intro and in-game music overhaul.**
   
-- **The Secret Cow level from Diablo II**
+- **The Secret Cow level from Diablo II.**
   
 - **Gauntlet mouse cursor from Diablo II.**
   
