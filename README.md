@@ -45,35 +45,37 @@
 
 ---
 
-**Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding 10 Diablo inspired mods and so much more, this includes:**
+### **Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding 10 Diablo inspired mods and so much more, this includes:**
 
-- ### **A custom flame Diablo intro.**
+---
+
+- **A custom flame Diablo intro.**
   
-- ### **Solarion Spear intro replacer.**
+- **Solarion Spear intro replacer.**
   
-- ### **Authentic in-game Diablo font.**
+- **Authentic in-game Diablo font.**
   
-- ### **Intro and in-game music overhaul.**
+- **Intro and in-game music overhaul.**
   
-- ### **The Secret Cow level from Diablo II**
+- **The Secret Cow level from Diablo II**
   
-- ### **Gauntlet mouse cursor from Diablo II.**
+- **Gauntlet mouse cursor from Diablo II.**
   
-- ### **A classicly generous 3 tier loot system.**
+- **A classicly generous 3 tier loot system.**
   
-- ### **A dual town portal spell called Voidgate.**
+- **A dual town portal spell called Voidgate.**
   
-- ### **The Horadric Crafting Cube from Diablo II.**
+- **The Horadric Crafting Cube from Diablo II.**
   
-- ### **Various weapons inspired by the Diablo series.**
+- **Various weapons inspired by the Diablo series.**
   
-- ### **The female Amazon from Diablo II visually improved over the LE version.**
+- **The female Amazon from Diablo II visually improved over the LE version.**
   
-- ### **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
+- **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
   
-- ### **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
+- **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
   
-- ### **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
+- **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 
 ---
 
