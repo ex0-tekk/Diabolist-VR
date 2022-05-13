@@ -291,7 +291,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 - Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading over 500 mods so just be patient & let it finish, if it Freezes or Fails Install (**this may happen several times during the download and install process**), simply start the process over, just re-open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off, **If you Cannot download this file whatsoever**, then **please join the** [**DVR & LoSVR Discord**](https://discord.com/invite/HuqU54gPcv) for further assistance and a mirrored link to the same file.
 
-- After install is finished, close the Wabbajack window & proceed to the DVR folder, open the folder called **GameFilesFolder**, then drag & drop ALL of these files into your SkyrimVR root folder, there _should_ be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.
+- After install is finished, close the Wabbajack window & proceed to the DVR folder, open the folder called **Game Files Folder**, then **drag & drop ALL of these files into your SkyrimVR root folder**, there _should_ be **only 1 overwrite notification** for the Skyrim.ini file, this overwrite is correct, **do it.**
 
 ---
 
