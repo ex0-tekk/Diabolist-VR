@@ -94,7 +94,7 @@ DVR should run well on modern PC-VR configurations from medium to high end, **I 
 
 **This should be a good start for decent performance.**
 
-A complete DVR install has a total size of roughly 110 GB, (_this size includes the initial DVR wabbajack file_) it’s **HIGHLY RECOMMENDED** that you **install this on a NVMe M.2 SSD for optimal performance**, although traditional SSD _should_ be fine.
+A complete DVR install has a total size of roughly 110 GB, (_this size includes the initial DVR wabbajack file_)
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
