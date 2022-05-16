@@ -439,7 +439,7 @@ With SteamVR, **I Highly Recommend** using **[The Sharper Eye mod](https://www.n
 
 ---
 
-TAA makes the distant image in VR have less jaggies (shimmer), but also is a large performance impact, i dont mind a tiny bit of shimmer and a sharper image, over blurry FPS drops, and with DVR, TAA is **turned OFF by default**, but if you decide to use it, it will be enhanced by a TAA auto-load feature from FPS Stabilizer that tweaks the sharpness of TAA, however, **you must open your SkyrimVR ini Tweaker tool ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and enable these ini settings shown below to keep using TAAS without manually enabeling it everytime you load your game.**
+TAA makes the distant image in VR have less jaggies (shimmer), but also is a rather noticable performance impact, personally I dont mind a tiny bit of shimmer and a sharper image over blurry FPS drop rates, and with DVR TAA is **turned OFF by default**, but if you decide to use it, it will be enhanced by a TAA auto-load feature from FPS Stabilizer that tweaks the sharpness of TAA, however, **you must open your SkyrimVR ini Tweaker tool ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and enable these ini settings shown below to keep using TAAS without manually enabeling it everytime you load your game.**
 
 ---
 
