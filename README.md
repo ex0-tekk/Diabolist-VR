@@ -429,7 +429,7 @@ Also included is **[Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods
 
 ---
 
-With SteamVR, **I Highly Recommend** using **[The Sharper Eye mod](https://www.nexusmods.com/skyrimspecialedition/mods/46999/)** with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image without TAA for BEST overall performance, there is also performance mode available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen when clicking the HOME Button.
+With SteamVR, **I Highly Recommend** using **[The Sharper Eye mod](https://www.nexusmods.com/skyrimspecialedition/mods/46999/)** with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings **I use for a relatively sharp image without TAA for BEST overall performance**, there is also performance mode available on the bottom right corner but it really is not needed, my settings are on par with PErsomance mode, but, Click it if you want to experiment, **to Enable this windoe below**, **click HOME on your keyboard** to open and close this window, it will be visible on your desktop VR screen when clicking the HOME Button.
 
 ![Sharper Eye Settings](https://user-images.githubusercontent.com/78007822/168633499-93cde32b-afc2-41d3-a74d-74e1c469f374.png)
 
@@ -439,7 +439,9 @@ With SteamVR, **I Highly Recommend** using **[The Sharper Eye mod](https://www.n
 
 ---
 
-TAA makes the distant image in VR have less jaggies (shimmer), but also is a rather noticable performance impact, personally I dont mind a tiny bit of shimmer and a sharper image over blurry FPS drop rates, and with DVR TAA is **turned OFF by default**, but if you decide to use it, it will be enhanced by a TAA auto-load feature from FPS Stabilizer that tweaks the sharpness of TAA, however, **you must open your SkyrimVR ini Tweaker tool ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and enable these ini settings shown below to keep using TAAS without manually enabeling it everytime you load your game.**
+TAA makes the distant image in VR have less jaggies (less shimmer but more blur), but this setting also has a rather noticable performance impact, personally I dont mind a tiny bit of shimmer with a sharper image over a blurry FPS drop rates, so **this mod list comes with TAA Turned OFF by default**, but if you decide to enable this setting then it will be enhanced by a TAA auto-load feature from FPS Stabilizer, this just tweaks the sharpness of TAA, however, **you must open your SkyrimVR ini Tweaker tool ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and **enable these ini 2 settings (1 for TAA itself, 1 for TAA Water)** and example is shown below, this setting is to keep using TAA without manually enabeling it everytime you load your game, and the water is needed to avoid visual glitches while TAA is enabled.** 
+
+(**OVERALL, I SUGGEST LEAVING TAA OFF FOR THE BEST IMAGE QUALITY WHILE USING SHARPER EYE, WITH MY CUSTOM SETTINGS.**)
 
 ---
 
