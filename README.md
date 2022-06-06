@@ -417,9 +417,7 @@ RLE provides 3 Combat modules to pick from and **DVR uses the Clean Combat Modul
 
 ---
 
-Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful **[PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704)** from the author of this mod, if needed, as NFF has a slew of options to get acquainted with
-
-Also included is **[Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530).** This mod is a set of rings located in a Riverwood chest near the trader merchant, these will help your followers effectively TAKE DAMAGE at higher levels, so as to not be god-like DMG sponges if you decide to NOT Use Nethers Follower Framework for these exact same options.
+Difficulty Settings for Followers GIVING DAMAGE and TAKING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over years of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful **[PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704)** from the author of this mod, if needed, as NFF has a slew of options to get acquainted with.
 
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 
@@ -439,17 +437,17 @@ With SteamVR, **I Highly Recommend** using **[The Sharper Eye mod](https://www.n
 
 ---
 
-TAA makes the distant image in VR have less jaggies (less shimmer but more blur), but this setting also has a rather noticable performance impact, personally I dont mind a tiny bit of shimmer with a sharper image over a blurry FPS drop rates, so **this mod list comes with TAA Turned OFF by default**, but if you decide to enable this setting then it will be enhanced by a TAA auto-load feature from FPS Stabilizer, this just tweaks the sharpness of TAA, however, **you must open your SkyrimVR ini Tweaker tool ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and **enable these ini 2 settings (1 for TAA itself, 1 for TAA Water)** and example is shown below, this setting is to keep using TAA without manually enabeling it everytime you load your game, and the water is needed to avoid visual glitches while TAA is enabled.** 
+TAA makes the distant image in VR have less jaggies (less shimmer but more blur), but this setting may have a noticable performance impact on your PC performance, personally I dont mind a tiny bit of blur with my newly revised FPS Stabilizer settings, so **this mod list comes with TAA Turned ON by default, but if you decide to disable this setting then you must open your SkyrimVR ini Tweaker tool** ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and **disable these ini 2 settings.**
 
-(**OVERALL, I SUGGEST LEAVING TAA OFF FOR THE BEST IMAGE QUALITY WHILE USING SHARPER EYE, WITH MY CUSTOM SETTINGS.**)
+bTAAWater = 0
 
----
+bUseTAA = 0
 
-bTAAWater = 1
+**NOTE:** These steps are Only Needed **IF** you decide to Disable TAA.
 
-bUseTAA = 1
+**I SUGGEST LEAVING TAA ON FOR THE BEST IMAGE QUALITY WHILE USING SHARPER EYE COMBINED WITH MY CUSTOM FPS STABLIZER TAA SETTINGS.**
 
- Additionally, it is **CRITICAL** these steps are **ONLY taken IF you decide to Enable TAA.**
+**However, TAA On or Off is ultimately a personal preference.**
 
 ---
 
