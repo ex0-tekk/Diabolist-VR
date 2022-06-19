@@ -51,7 +51,7 @@
 
 - **A custom flame Diablo intro.**
   
-- **Solarion Spear intro replacer.**
+- **Custom lootbox intro replacer.**
   
 - **Authentic in-game Diablo font.**
   
@@ -67,7 +67,7 @@
   
 - **The Horadric Crafting Cube from Diablo II.**
   
-- **Various weapons inspired by the Diablo series.**
+- **Various weapons and armor inspired by the Diablo series.**
   
 - **The female Amazon from Diablo II visually improved over the LE version.**
   
@@ -77,6 +77,7 @@
   
 - **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 
+- **A new worldspace to explore called Dark Glade, this is a new mod installed that fits with DVR Reimagined nicely but is inspired by Dark Souls.**
 ---
 
 ## **2. PC REQUIREMENTS FOR DVR**
