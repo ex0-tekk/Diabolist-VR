@@ -273,7 +273,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 20GB is the **modded SkyrimVR standard** if you have 16GB RAM, I personally use 40GB pagefile size with 32GB of physical RAM, as I prefer the extra overhead.
 - Use this number for **both** the initial size and max size on 1 free SSD with enough space.
 - There is **no need** to apply this pagefile size setting to multiple hard drives.
-Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is **HIGHLY RECOMMENDED** while using the pagefile setup with 1 free hard drive in this fashion and this info and how to configure the Windows Paging File Size is explained [**HERE**](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)
+Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is needed while using the pagefile setup with 1 free hard drive in this fashion, how to configure the Windows Paging File Size and additional info regarding System Managed Size is explained [**HERE**](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)
 
   ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 
