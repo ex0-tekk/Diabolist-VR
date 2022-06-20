@@ -67,7 +67,7 @@
   
 - **The Horadric Crafting Cube from Diablo II.**
   
-- **Various weapons and armor inspired by the Diablo series.**
+- **Various weapons and armor inspired by or inspiring the Diablo series.**
   
 - **The female Amazon from Diablo II visually improved over the LE version.**
   
