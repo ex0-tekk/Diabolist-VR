@@ -378,7 +378,7 @@ nexus link is provided for further information and the author provides a short Y
 
 ---
 
-### **5B. Monster Mods
+### **5B. Monster Mods**
 
 ---
 
