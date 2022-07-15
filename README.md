@@ -383,7 +383,18 @@ nexus link is provided for further information and the author provides a short Y
 
 ---
 
-DVR uses several heavily customized monster mods at its core: Rogue Like Encounters (RLE), Skyrim Immersive Creatures (SiC), Monster Mod 2022 (MMod), 4thUnknowns (4th), Scary Night Spawner (SNS) and Creepy Zombies (CZ). Also installed is Skyrim Underground (SU), this mod has it's own set of monsters spread out between 2 massive underground dungeons, there is also **a new dungeon added with 3.0 Reimagined called Dark Glade, which can be accessed through a trap door on a boat sitting at the Solitude docks.**
+### DVR uses several heavily customized monster mods at its core:
+
+**Skyrim Immersive Creatures (SiC)**  
+**Rogue Like Encounters (RLE)**  
+**Monster Mod 2022 (MMod)**  
+**Scary Night Spawner (SNS)**  
+**Creepy Zombies (CZom)**  
+**4thUnknowns (4th)**  
+
+**These mods have been cleaned, optimized and all level lists have been overhauled to reflect a Diablo theme, this means very low wildlife population with increased random monster spawns.**
+
+Also installed is Skyrim Underground (SU), this mod has it's own set of monsters spread out between 2 massive underground dungeons, there is also **a new dungeon added with 3.0 Reimagined called Dark Glade, which can be accessed through a trap door on a boat sitting at the Solitude docks.**
 
 RLE provides 3 Combat modules to pick from and **DVR uses the Clean Combat Module**, which only alters the enemy combat styles, **this module adds NO further difficulty, and it lets Fine-Tuned Challenge handle all base difficulty aspects.**
 
@@ -500,6 +511,6 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 ![DVR Flame Banner Footer](https://user-images.githubusercontent.com/78007822/167721606-8675ef17-d6e8-4353-a376-5f5c61306479.png)
 
-Latest DVR Guide Update, 06/22/2022.
+Latest DVR Guide Update, 07/15/2022.
 
 ---
