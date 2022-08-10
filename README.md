@@ -387,6 +387,7 @@ nexus link is provided for further information and the author provides a short Y
 ### DVR uses several heavily customized monster mods at its core:
 
 **Skyrim Immersive Creatures (SiC)**  
+**Here There Be Monsters (HTM)**  
 **Rogue Like Encounters (RLE)**  
 **Monster Mod 2022 (MMod)**  
 **Scary Night Spawner (SNS)**  
