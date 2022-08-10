@@ -1,6 +1,7 @@
 # Diabolist VR Install Guide
 
-![Diabolist VR Reimagined Banner 720p](https://user-images.githubusercontent.com/78007822/174462816-e67c8b88-2b37-4bc0-a8ee-e8e9b268117d.jpg)
+![DVR 3 5 Flame Banner Header 1432](https://user-images.githubusercontent.com/78007822/184031982-1ce42b08-76e2-4748-ae04-e98c610c8f5b.png)
+
 
 ---
 
@@ -511,6 +512,6 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 ![DVR Flame Banner Footer](https://user-images.githubusercontent.com/78007822/167721606-8675ef17-d6e8-4353-a376-5f5c61306479.png)
 
-Latest DVR Guide Update, 07/15/2022.
+Latest DVR Guide Update, 08/10/2022.
 
 ---
