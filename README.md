@@ -443,7 +443,9 @@ Difficulty Settings for Followers GIVING DAMAGE and TAKING DAMAGE can be adjuste
 
 ---
 
-With SteamVR, **I Highly Recommend** using **[The Sharper Eye mod](https://www.nexusmods.com/skyrimspecialedition/mods/46999/)** with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with TAA enabled, There is also performance mode available on the bottom right corner but it is NOT Needed, as My Settings are on par with peformance mode, but click it if you want to experiment anyways. **To Enable or Disable this window shown below, click the HOME Button.**
+With SteamVR, **I Highly Recommend** using **[The Sharper Eye mod](https://www.nexusmods.com/skyrimspecialedition/mods/46999/)** with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with TAA enabled, There is also performance mode available on the bottom right corner but it is NOT Needed, as My Settings are on par with peformance mode, but click it if you want to experiment anyways. 
+
+**To Enable or Disable this window shown below, click the HOME Button.**
 
 ![Sharper Eye Settings](https://user-images.githubusercontent.com/78007822/168633499-93cde32b-afc2-41d3-a74d-74e1c469f374.png)
 
