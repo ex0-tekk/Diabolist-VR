@@ -45,7 +45,7 @@
 
 ---
 
-### **Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding 10 Diablo inspired mods and so much more, this includes:**
+### **Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding Action RPG of the late 90s, it does this by adding Diablo inspired mods and so much more, this includes:**
 
 ---
 
