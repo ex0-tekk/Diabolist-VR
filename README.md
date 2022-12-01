@@ -392,6 +392,7 @@ nexus link is provided for further information and the author provides a short Y
 **Scary Night Spawner (SNS)**  
 **Creepy Zombies (CZom)**  
 **4thUnknowns (4th)**  
+**Mihail Monsters**  
 
 **These mods have been cleaned, optimized and all level lists have been overhauled to reflect a Diablo theme, this means very low wildlife population with increased random monster spawns.**
 
