@@ -1,6 +1,6 @@
 # Diabolist VR Install Guide
 
-![DVR 4 0 Flame Banner Header 1080](https://user-images.githubusercontent.com/78007822/205042943-dd0b4a90-ae5a-492e-bf1d-79aaa4cabad7.png)
+![DVR Flame Banner Header 1080](https://user-images.githubusercontent.com/78007822/205055085-b3829e3d-3121-42a7-865e-0af6c5ae4e5e.png)
 
 ---
 
