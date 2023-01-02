@@ -515,6 +515,6 @@ DVR has been manually sorted from top to bottom & **using loot WILL destroy the 
 
 ![DVR Flame Banner Footer](https://user-images.githubusercontent.com/78007822/167721606-8675ef17-d6e8-4353-a376-5f5c61306479.png)
 
-Latest DVR Guide Update, 12/01/2022.
+Latest DVR Guide Update, 01/02/2023.
 
 ---
