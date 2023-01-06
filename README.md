@@ -220,7 +220,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 
 - Go to **Start > Settings > Update & Security > Windows Security > Virus & threat protection,** under **Virus & threat protection** settings, select **Manage settings,** and then under **Exclusions**, select **Add or remove exclusions.**
   
-- Now select **Add an exclusion** and point it towards your **SkyrimVR.exe** and then **repeat this a second time to include ModOrganizer.exe.**
+- Now select **Add an exclusion** and point it towards your **SkyrimVR.exe** and then **repeat this a second time to include ModOrganizer.exe AFTER DVR has been fully installed, as it is currently not available at this stage of the install process.**
 
   ![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
 
