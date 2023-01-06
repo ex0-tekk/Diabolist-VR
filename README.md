@@ -220,7 +220,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 
 - Go to **Start > Settings > Update & Security > Windows Security > Virus & threat protection,** under **Virus & threat protection** settings, select **Manage settings,** and then under **Exclusions**, select **Add or remove exclusions.**
   
-- Now select **Add an exclusion** and point it towards your **SkyrimVR.exe** and then **repeat this a second time to include ModOrganizer.exe AFTER DVR has been fully installed, as it is currently not available at this stage of the install process.**
+- Now select **Add an exclusion** and point it towards your **SkyrimVR.exe** now **repeat this process a second time to include ModOrganizer.exe AFTER DVR has been fully installed, as it is currently not available at this stage.**
 
   ![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
 
@@ -312,7 +312,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 - **NOTE**: Windows 11 users can **ONLY** use ModOrganizer 2.4.2 or later.
 
-- **Look inside the DVR folder & open ModOrganizer.exe**
+- **Look inside the DVR folder & open ModOrganizer.exe** (remember to add this exe file to your Anti Virus Exclusions, as mentioned previously in this guide.)
 
 - Once it’s open, click on this icon.
 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)
