@@ -310,8 +310,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 - There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
-- **NOTE**: Windows 11 users can **ONLY** use ModOrganizer 2.4.2 or later.
-
+- **NOTE**: Windows 11 users can **ONLY** use ModOrganizer 2.4.2 or later, DVR uses 2.4.4.
 - **Look inside the DVR folder & open ModOrganizer.exe** (remember to add this exe file to your Anti Virus Exclusions, as mentioned previously in this guide.)
 
 - Once it’s open, click on this icon.
