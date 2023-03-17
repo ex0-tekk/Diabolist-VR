@@ -258,7 +258,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 
   ![Firewall Settings 5](https://user-images.githubusercontent.com/78007822/140572430-5546eb0d-5fea-4ed7-8b4c-a9242217ebb2.png)
 
-- **Name this field below to whatever you want** or use what I have put in the screenshot provided, then **click finish.**
+- **Name this field below to whatever you want** or just use what I have put in the screenshot provided, then **click finish.**
 
   ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 
