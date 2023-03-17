@@ -300,7 +300,7 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 - If the install process Freezes or Fails (**this may happen several times during the download and install process**), simply start the install over, just re-open the LoSVR wabbajack file (located where Wabbajack has been installed) C:\'Your Installed Wabbajack Folder'\downloaded_mod_lists & once you start over then click the arrow again without doing anything else & it will resume where it left off. **NOTE:** **If You Cannot Download The FIRST DVR File from the SkyrimVR section of the Wabbajack software,** then **Please Join the** [**DVR & LoSVR Discord**](https://discord.com/invite/HuqU54gPcv) for further assistance.
 
-- After install is finished, close the Wabbajack window & proceed to the DVR folder, open the folder called **Game Files Folder**, then **drag & drop ALL of these files into your SkyrimVR root folder**, there _should_ be **only 1 overwrite notification** for the Skyrim.ini file, this overwrite is correct, **do it.**
+- **CRITICAL STEP:** After install is finished, close the Wabbajack window & proceed to the DVR folder, open the folder called **Game Files Folder**, then **drag & drop ALL of these files into your SkyrimVR root folder**, there _should_ be **only 1 overwrite notification** for the Skyrim.ini file, this overwrite is correct, **do it.**
 
 ---
 
