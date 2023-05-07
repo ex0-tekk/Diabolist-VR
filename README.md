@@ -434,7 +434,7 @@ RLE provides 3 Combat modules to pick from and **DVR uses the Clean Combat Modul
 
 ---
 
-Difficulty Settings for Followers GIVING DAMAGE and TAKING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over years of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful **[PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704)** from the author of this mod, if needed, as NFF has a slew of options to get acquainted with.
+Difficulty Settings for Followers GIVING DAMAGE and TAKING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful **[Description Page][(https://www.nexusmods.com/skyrimspecialedition/mods/55653)]** from the author of this mod, if needed, as NFF has a slew of options to get acquainted with.
 
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 
