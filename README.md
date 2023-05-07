@@ -434,7 +434,8 @@ RLE provides 3 Combat modules to pick from and **DVR uses the Clean Combat Modul
 
 ---
 
-Difficulty Settings for Followers GIVING DAMAGE and TAKING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful **[Description Page][(https://www.nexusmods.com/skyrimspecialedition/mods/55653)]** from the author of this mod, if needed, as NFF has a slew of options to get acquainted with.
+
+Difficulty Settings for Followers GIVING DAMAGE and TAKING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. Please read this very helpful and important **[Description Page](https://www.nexusmods.com/skyrimspecialedition/mods/55653)** from the author of this mod, as NFF has a slew of options to get acquainted with.
 
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 
