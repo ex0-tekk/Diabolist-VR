@@ -388,11 +388,12 @@ nexus link is provided for further information and the author provides a short Y
 **Skyrim Immersive Creatures (SiC)**  
 **Here There Be Monsters (HTM)**  
 **Rogue Like Encounters (RLE)**  
+**High Level Enemies Redux**  
 **Monster Mod 2022 (MMod)**  
 **Scary Night Spawner (SNS)**  
 **Creepy Zombies (CZom)**  
-**4thUnknowns (4th)**  
 **Mihail Monsters**  
+**Deadly Dragons**  
 
 **These mods have been cleaned, optimized and all level lists have been overhauled to reflect a Diablo theme, this means very low wildlife population with increased random monster spawns.**
 
