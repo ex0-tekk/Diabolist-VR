@@ -176,29 +176,27 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE.**
+It is **CRITICAL** to have **STEAM INSTALLED ON THE C DRIVE.**
 
-**DO NOT USE** --> C:\Program Files  and  C:\Program Files (x86) <-- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+It is also **CRITICAL** to have a **100% Fresh Install of SkyrimVR ON THE C DRIVE.**
 
-**It is also HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE.**
+**DVR itself can be installed on the ROOT C Drive.**
 
 ### **EXAMPLE:**
 
 **Steam Install Location:**
 
-- C:\Steam
+- C:\Program Files (x86)\Steam
 
 **SkyrimVR Install Location:**
 
-- C:\Steam\steamapps\common\SkyrimVR
+- C:\Program Files (x86)\Steam\steamapps\common\SkyrimVR
 
 **Diabolist VR Install Location:**
 
 - C:\DVR
 
 ---
-
-- If you want to use another drive for Steam or SkyrimVR, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change Steams game install locations, but regardless of this, **The Root C Drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and DVR.**
 
 - After you have confirmed Steam and SkyrimVR are installed correctly, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
