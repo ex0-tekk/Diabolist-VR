@@ -105,7 +105,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 **DVR is developed and tested with this PC-VR setup:**
 
 - Oculus Rift S.
-- Win 10 ver.20H2 Fully Updated.
+- Win 10 ver.22H2 Fully Updated.
 - Ryzen 7 3800x AMD Processor.
 - 32 Gigs of 14-34 Low Latency RAM.
 - Kingston NVMe M.2 1tb SSD.
