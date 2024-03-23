@@ -290,8 +290,6 @@ Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE I
 
 - Next, make a folder **Preferably ON THE ROOT C DRIVE** and label it **DVR**.
 
-- **IMPORTANT REMINDER:** **-DO NOT-** install **ANYthing** into your C:/Program Files or C:/Program Files (x86) folders, due to admin restrictions.
-
 - **Download Diabolist VR from the Wabbajack VR drop down menu on the top section of the software to begin the install process**, once that initial download is done, a new Wabbajack window will pop up, go ahead and select the **Installation Location (3 Dots ...)** on the right side middle field section, then select the DVR folder you created peviously, **preferably on the Root C Drive to make things easier**, once you do that the download section will automatically pick the Mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
 - Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also go to the [**Wabbajack website**](https://www.wabbajack.org) and search for this modlist in the VR section, and then **look for the Archive Search button** on the bottom left of the Diabolist VR panel, this lets you see the mods currently installed. **A friendly reminder:** you are downloading 700+ mods so just be patient & let it finish.
