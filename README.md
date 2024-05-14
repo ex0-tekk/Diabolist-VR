@@ -131,7 +131,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
   
 - **Epic = 3 Enchants = 2.04% -Cannot Be UnEnchanted-**
   
-**NOTE:** _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star, this cannot be changed, **additionally, there are 6 randomly enchanted item variations on all tiers, EXCEPT No Star & No Enchant (Vanilla).**
+**NOTE:** _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Tier Label, this cannot be changed, **additionally, there are 12 randomly enchanted item variations on all tiers, EXCEPT Vanilla and 0 Enchant Items.**
 
 - The loot system in DVR is **VERY GENEROUS**, just like the Diablo series is known for, so you will **often** be upgrading, tossing away or selling items, **Nethers Follower Framework** provides a dialogue option to make your followers run to town and sell any gear you give them regardless of where you are or the funds available on merchants, **using this feature is HIGHLY RECOMMENDED** as you continue gathering loot if you don't want to always travel and sell. Making income in DVR should not be an issue regardless of you and your followers selling items, due to the boss chests and dragons providing plenty of gold, additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less income for selling all items, along with other barter tweaks such as: increased merchant gold, increased ferry and horse carriage costs, sleeping at the inn costs more and other currency adjustments.
 
@@ -147,7 +147,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 - **Look for _QoL Enhancements, Difficulty Options, Cheats & Level Lists_ on the left side of your MO2 window and click on Visit on Nexus if you'd like to read what they do, you will find these _OPTIONAL_ cheat mods placed throughout this category and these cheats are directly accessed in game through your inventory or MCM.**
 
-- All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to increase the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.
+- DVR uses Wintermyst Enchantments for most items enchanted by HalgarisRPGLoot, with some other mod enchantment additions thrown in, this makes for some amazing enchantment combinations, you will likely need to increase the difficulty up as you continue to level, before long you will become quite powerful by coming across Rare & Epic items, and by also enchanting your own gear.
 
 - Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated and will be updated as DVR evolves over time until support ends.
 
