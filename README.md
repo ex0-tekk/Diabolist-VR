@@ -74,10 +74,8 @@
 - **The female Amazon from Diablo II visually improved over the LE version.**
   
 - **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
-  
-- **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 
-- **A new worldspace to explore called Dark Glade, this is a new mod installed that fits with DVR nicely but is inspired by Dark Souls.**
+- ** Several Large Land and Dungeon Expansions, such as: Dark Glade World, Skyrim Underground, Hammet's Dungeon Pack 1 & 2, Land of Vominheim, The Realm of Merentif,  The Isle of Valefrost.**
 
 ---
 
