@@ -83,7 +83,7 @@
 
 ---
 
-DVR should run well on modern PC-VR configurations from medium to high end, **I focused heavily on optimizing all performance related settings** via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
+DVR should run well on modern PC-VR configurations from medium to high end, **I focused heavily on optimizing all performance related settings** via ini files, mods, tools and DynDOLOD settings.
 
 ### **Minimum and Recommended PC-VR Setup for DVR:**
 
