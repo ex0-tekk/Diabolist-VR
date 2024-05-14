@@ -66,12 +66,12 @@
 - **A dual town portal spell called Voidgate.**
   
 - **The Horadric Crafting Cube from Diablo II.**
+
+- **The Imperius Solarion Spear and Tyrael Armor from Diablo III**
   
 - **Various weapons and armor inspired by or inspiring the Diablo series.**
   
 - **The female Amazon from Diablo II visually improved over the LE version.**
-  
-- **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
   
 - **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
   
