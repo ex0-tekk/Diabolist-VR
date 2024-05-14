@@ -61,7 +61,7 @@
   
 - **Gauntlet mouse cursor from Diablo II.**
   
-- **A classicly generous 3 tier loot system.**
+- **A classicly generous 4 tier loot system.**
   
 - **A dual town portal spell called Voidgate.**
   
