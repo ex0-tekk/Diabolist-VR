@@ -96,7 +96,7 @@ DVR should run well on modern PC-VR configurations from medium to high end, **I 
 
 **This should be a good start for decent performance.**
 
-A complete DVR install has a total size of roughly 170 GB, (_this size includes the initial DVR file download from the Wabbajack software + the complete install._)
+A complete DVR install has a total size of roughly 160 GB, (_this size includes the initial DVR file download from the Wabbajack software + the complete install._)
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
@@ -117,14 +117,19 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-**To save space on the in-game loot card, DVR uses a 3 tier STAR Halgaris RPG loot system.**
+**DVR uses a 4 tier Halgaris RPG loot system.**
 
-**The Percentages displayed below are the item drop rates.**
+**Tiers and loot drop rates are displayed below.**
 
-- **No Star = No enchant (Vanilla) = 66%**
-- **1 Star = 1 Enchant = 26%**
-- **2 Stars = 2 Enchants = 6%**
-- **3 Stars = 3 Enchants = 2%**
+- **Vanilla Items -Not Considered a Tier- = 0 Enchant = 40.82% -Can Be Enchanted-**
+  
+- **Worn = 1 Enchant = 34.69% -Used/Discarded Vanilla Items, Cannot Be UnEnchanted-**
+  
+- **Fine = 1 Enchant = 16.33% -Can Be UnEnchanted-**
+  
+- **Rare = 2 Enchants = 6.12% -Cannot Be UnEnchanted-**
+  
+- **Epic = 3 Enchants = 2.04% -Cannot Be UnEnchanted-**
   
 **NOTE:** _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star, this cannot be changed, **additionally, there are 6 randomly enchanted item variations on all tiers, EXCEPT No Star & No Enchant (Vanilla).**
 
