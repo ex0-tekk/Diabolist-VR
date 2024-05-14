@@ -75,7 +75,7 @@
   
 - **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
 
-- ** Several Large Land and Dungeon Expansions, such as: Dark Glade World, Skyrim Underground, Hammet's Dungeon Pack 1 & 2, Land of Vominheim, The Realm of Merentif,  The Isle of Valefrost.**
+- **Several Large Land and Dungeon Expansions, such as: Dark Glade World, Skyrim Underground, Hammet's Dungeon Pack 1 & 2, Land of Vominheim, The Realm of Merentif,  The Isle of Valefrost.**
 
 ---
 
