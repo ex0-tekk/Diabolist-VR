@@ -119,13 +119,15 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 **Tiers and loot drop rates are displayed below.**
   
-- **Worn = 0 Enchant = 66%**
+- **Vanilla Items -Not Considered a Tier- = 0 Enchant = 40.82% -Can Be Enchanted-**
   
-- **Fine = 1 Enchant = 26%**
+- **Worn = 1 Enchant = 34.69% -Used/Discarded Vanilla Items, Cannot Be UnEnchanted-**
   
-- **Rare = 2 Enchants = 6%**
+- **Fine = 1 Enchant = 16.33% -Can Be UnEnchanted-**
   
-- **Epic = 3 Enchants = 2%**
+- **Rare = 2 Enchants = 6.12% -Cannot Be UnEnchanted-**
+  
+- **Epic = 3 Enchants = 2.04% -Cannot Be UnEnchanted-**
   
 **NOTE:** _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Tier Label, this cannot be changed, **additionally, there are 12 randomly enchanted item variations on all tiers, EXCEPT Vanilla and 0 Enchant Items.**
 
